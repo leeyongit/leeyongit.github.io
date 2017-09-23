@@ -3,7 +3,13 @@ layout: page
 title: 小王子 1-3 章
 ---
 
-
+<style type="text/css">
+img{
+  positon:relative;
+  width:80%;
+  left:10%;/*left为（img父元素元素的width - img元素自己的width)÷2*/
+}
+</style>
 
 [法] 圣埃克苏佩里
 ## 《小王子》（小说） [法] 圣埃克苏佩里 著
