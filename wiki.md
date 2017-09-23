@@ -24,8 +24,8 @@ title: 书签
  - [Workerman](http://www.workerman.net/)
  - [Slim](http://www.slimframework.com/) - <smallPHP微框架，简单易用易拓展</small
  - [Slim 中文网](http://www.slimphp.net/)
-
- ### Laravel
+  
+### Laravel  
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
  - [Laravel 入门、技巧、教程与经验分享](http://laravel.so/)
@@ -35,13 +35,11 @@ title: 书签
  - [命令速查表 Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
  - [integrate-adminlte-with-laravel](https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel)  
  - [AdminLTE Control Panel Template](https://almsaeedstudio.com/)  
-
- ### 微信
+### 微信
  - [WeiPHP](http://www.weiphp.cn/) - <small强大的微信公众平台开源框架</small
  - [9秒社团](http://www.9miao.com/forum-54-1.html?c607)
  - [方倍工作室](http://www.cnblogs.com/txw1958/)
-
- ### RESTful
+### RESTful
  - [用Slim轻型PHP框架写RESTful APIs](http://zhujun24.github.io/2015/03/19/%E7%94%A8Slim%E8%BD%BB%E5%9E%8BPHP%E6%A1%86%E6%9E%B6%E5%86%99RESTful%20APIs/)
  - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 
