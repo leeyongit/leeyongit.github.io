@@ -2,9 +2,10 @@
 layout: page
 title: 书签
 ---
----
+
 
 ## 技术社区
+---
  - [Laravel China 社区](https://phphub.org/) - 高品质的 Laravel 开发者社区
  - [Node.js专业中文社区](https://cnodejs.org/)
  - [Ruby-china](https://ruby-china.org/)
@@ -12,6 +13,7 @@ title: 书签
  - [菜鸟教程](http://www.runoob.com/)  
 
 ## PHP
+---
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
  - [深入理解PHP内核](http://www.php-internals.com/)
@@ -24,6 +26,7 @@ title: 书签
  - [Slim 中文网](http://www.slimphp.net/)
 
  ### Laravel
+ ---
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
  - [Laravel 入门、技巧、教程与经验分享](http://laravel.so/)
@@ -162,5 +165,7 @@ title: 书签
  - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
  - [豆瓣电影TOP250](http://movie.douban.com/top250)
  - [豆瓣图书Top250](http://book.douban.com/top250)
+
+
 
 
