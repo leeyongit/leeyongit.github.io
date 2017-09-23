@@ -2,6 +2,7 @@
 layout: post
 title: CentOS 7 中 systemctl命令使用方法
 description: 在CentOS7中，进行chkconfig命令操作时会发现有类似“systemctl.....”的提示，systemctl可以简单实现service和chkconfig的结合，这样通过一个命令就可以实现两个命令的功能。
+tags: [CentOS 7]
 ---
 
 ### systemctl命令的基本操作格式是：

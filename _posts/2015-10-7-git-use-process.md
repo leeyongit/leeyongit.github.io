@@ -2,6 +2,7 @@
 layout: post
 title: 阮一峰：Git 使用规范流程
 description: 团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。
+tags: [Git]
 ---
 
 

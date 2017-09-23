@@ -2,6 +2,7 @@
 layout: post
 title: CentOS 7 用户怎样安装 LNMP（Nginx+PHP+MySQL）
 description: 关于 Nginx 这是一款免费、开源、高效的 HTTP 服务器，Nginx是以稳定著称，丰富的功能，结构简单，低资源消耗。本教程演示如何在CentOS 6.5服务器（适用于 CentOS 7）安装Nginx与PHP（通过php-fpm）和MySQL（MariaDB）。
+tags: [CentOS 7,LNMP]
 ---
 
 >关于 Nginx （发音 “engine x”)这是一款免费、开源、高效的 HTTP 服务器，Nginx是以稳定著称，丰富的功能，结构简单，低资源消耗。本教程演示如何在CentOS 6.5服务器（适用于 CentOS 7）安装Nginx与PHP（通过php-fpm）和MySQL（MariaDB）。

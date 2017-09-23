@@ -3,6 +3,7 @@ layout: post
 title: 宫崎骏《哈尔的移动城堡》剧情解疑
 description: 因为爱你，只要你一个肯定，我就足够勇敢。
 category: reading
+tags: [电影] 
 ---
 
 > q1" 为什么人们传说霍尔会吃掉年轻女孩子的心脏？　

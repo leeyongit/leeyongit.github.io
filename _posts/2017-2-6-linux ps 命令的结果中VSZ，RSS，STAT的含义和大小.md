@@ -2,6 +2,7 @@
 layout: post
 title: linux ps 命令的结果中VSZ，RSS，STAT的含义和大小
 description: ps是linux系统的进程管理工具，相当于windows中的资源管理器的一部分功能。
+tags: [Linux] 
 ---
 
 

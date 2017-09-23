@@ -2,6 +2,7 @@
 layout: post
 title: Nginx config for Yii 2 Advanced App Template (subdomains)
 description: Centos7 下 Yii 2 的 Nginx 配置
+tags: [Nginx, Yii 2]
 ---
 
 # frontend

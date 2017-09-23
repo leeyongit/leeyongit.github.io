@@ -3,6 +3,7 @@ layout: post
 title: 《了不起的盖茨比》
 description: “这世上有各种各样的爱，却不会有两次一样的爱。”爱过了就再也回不去了，哪怕你变成了她曾经喜欢的模样。
 category: reading
+tags: [电影] 
 ---
 
 ![The-Great-Gatsby](/public/images/The-Great-Gatsby1.png)
