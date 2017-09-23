@@ -414,7 +414,7 @@ header .entry-meta {
 		}
 
 		@media #{$medium} {
-			@include font-rem(36);
+			@include font-rem(30);
 		}
 	}
 }
