@@ -5,7 +5,7 @@ description: Centos7 下 Yii 2 的 Nginx 配置
 ---
 
 # frontend
-```language-nginx
+```ruby
 	server {
 	    listen        80;
 	    server_name   yii2.lo;
@@ -72,7 +72,7 @@ description: Centos7 下 Yii 2 的 Nginx 配置
 	}
 ```
 # backend
-```language-nginx
+```ruby
 	server {
 	    listen        80;
 	    server_name   admin.yii2.lo;

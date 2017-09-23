@@ -5,29 +5,29 @@ description: 在CentOS7中，进行chkconfig命令操作时会发现有类似“
 ---
 
 ### systemctl命令的基本操作格式是：
-```language-php
+```ruby
 	systemctl [OPTIONS...]  {COMMAND}...
 ```
 
 ### 以nginx服务为例，实现停止、启动、重启的动作如下：
-```language-php
+```ruby
 	systemctl stop    nginx.service
 	systemctl start   nginx.service
 	systemctl restart nginx.service
 ```
 
 ### 检查服务状态
-```language-php
+```ruby
 	systemctl status nginx.service
 ```
 
 ### 使服务开机启动
-```language-php
+```ruby
 	systemctl enable nginx.service
 ```
 
 ### 取消服务开机启动
-```language-php
+```ruby
 	systemctl disable nginx.service
 ```
 

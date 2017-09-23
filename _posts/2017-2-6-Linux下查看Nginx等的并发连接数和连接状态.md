@@ -56,7 +56,7 @@ netstat -nat||grep ESTABLISHED|wc
 
 #### 查看与80端口有关的连接
 ```ruby
-	netstat -nat|grep -i "80"|wc -l 
+netstat -nat|grep -i "80"|wc -l 
 ```
 netstat -an会打印系统当前网络链接状态，而grep -i "80"是用来提取与80端口有关的连接的，wc -l进行连接数统计。最终返回的数字就是当前所有80端口的请求总数。 
 
