@@ -32,8 +32,7 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.description }}
-    【<a href="{{ site.url }}{{ post.url }}">继续阅读</a>】
+    {{ post.content | truncate: 300 }}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
