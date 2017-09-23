@@ -26,7 +26,6 @@ title: 书签
  - [Slim 中文网](http://www.slimphp.net/)
 
  ### Laravel
- ---
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
  - [Laravel 入门、技巧、教程与经验分享](http://laravel.so/)
@@ -50,10 +49,12 @@ title: 书签
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 
 ## MySQL
+---
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
 
 ## 技术文章
+---
  - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
  - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
  - [Nginx(PHP/fastcgi)的PATH_INFO问题](http://www.laruence.com/2009/11/13/1138.html)
@@ -61,6 +62,7 @@ title: 书签
  - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
 
 ## 运维
+---
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [运维生存时间](http://www.ttlsa.com/)
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
@@ -77,6 +79,7 @@ title: 书签
  - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
 
 ## 前端
+---
  ### 网站
  - [权威的前端性能指南](http://browserdiet.com/zh/) 
  - [W3cplus](http://www.w3cplus.com/)
@@ -129,6 +132,7 @@ title: 书签
  - [Angular](https://angularjs.org/)
 
 ## 网站
+---
  - [segmentfault](http://segmentfault.com/)
  - [伯乐在线](http://blog.jobbole.com/)
  - [程序师](http://www.techug.com/)
@@ -144,6 +148,7 @@ title: 书签
  - [upupw](http://www.upupw.net/)
 
 ## 博客
+---
  - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
@@ -158,6 +163,7 @@ title: 书签
  - [bindiry.log](http://junnan.org/)
 
 ## 收藏
+---
  - [认识与入门 Markdown](http://sspai.com/25137)
  - [Markdown编辑器](http://editor.integ.me/)
  - [Cayman-theme](http://jasonlong.github.io/cayman-theme/)
