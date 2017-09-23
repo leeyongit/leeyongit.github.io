@@ -8,9 +8,12 @@ title: 小王子 1-3 章
 [法] 圣埃克苏佩里
 ## 《小王子》（小说） [法] 圣埃克苏佩里 著
 
-<div align=center>
-![](/public/xwz/xwz00.jpg)
-</div>
+<div style="align: center"> <img src="/public/xwz/xwz00.jpg"/> </div>
+
+作者：世外大帝
+链接：http://www.jianshu.com/p/d81733fe4170
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ### <center>献给莱翁·维尔特</center>
 
