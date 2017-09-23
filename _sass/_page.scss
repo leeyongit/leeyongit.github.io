@@ -407,14 +407,14 @@ header .entry-meta {
 
 	h3 {
 		margin: 0;
-		@include font-rem(20);
+		@include font-rem(28);
 
 		a { 
 			color: $text-color;
 		}
 
 		@media #{$medium} {
-			@include font-rem(30);
+			@include font-rem(28);
 		}
 	}
 }
