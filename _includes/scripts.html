@@ -15,5 +15,17 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
-
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.entry-content a').each(function(index,element){
+        var href = $(this).attr('href');
+        if(href.indexOf('#') == 0){
+        }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('leeyong.org')>-1 ){
+            $(this).attr('target','_self');
+        }else{
+            $(this).attr('target','_blank');
+        }
+    });
+});
+</script>
 {% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
