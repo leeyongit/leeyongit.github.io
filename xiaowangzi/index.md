@@ -8,9 +8,9 @@ title: 小王子 1-3 章
 [法] 圣埃克苏佩里
 ## 《小王子》（小说） [法] 圣埃克苏佩里 著
 
-<center>
+<div align=center>
 ![](/public/xwz/xwz00.jpg)
-</center>
+</div>
 
 ### <center>献给莱翁·维尔特</center>
 
