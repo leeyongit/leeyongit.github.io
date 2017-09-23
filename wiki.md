@@ -43,9 +43,6 @@ title: 书签
  - [用Slim轻型PHP框架写RESTful APIs](http://zhujun24.github.io/2015/03/19/%E7%94%A8Slim%E8%BD%BB%E5%9E%8BPHP%E6%A1%86%E6%9E%B6%E5%86%99RESTful%20APIs/)
  - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 
-### 安全
- - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-
 ## MySQL
 ---
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
@@ -58,6 +55,7 @@ title: 书签
  - [Nginx(PHP/fastcgi)的PATH_INFO问题](http://www.laruence.com/2009/11/13/1138.html)
  - [ThinkPHP Where 条件中使用表达式](http://www.cnblogs.com/martin1009/archive/2012/08/24/2653718.html)
  - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
+ - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 
 ## 运维
 ---
@@ -78,7 +76,7 @@ title: 书签
 
 ## 前端
 ---
- ### 网站
+### 网站
  - [权威的前端性能指南](http://browserdiet.com/zh/) 
  - [W3cplus](http://www.w3cplus.com/)
  - [W3cfuns](http://www.w3cfuns.com)
@@ -88,7 +86,7 @@ title: 书签
  - [helloweba](http://www.helloweba.com/)
  - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
 
- ### 组件
+### 组件
  - [Bootswatch](https://bootswatch.com/) - <small免费的 Bootstrap 主题包</small
  - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small以Bootstrap为基础扩展功能的CSS前端框架</small
  - [iScroll 4](http://cubiq.org/iscroll-4)  - <small是一款针对web app使用的滚动控件。[中文教程](http://www.cnblogs.com/duanhuajian/archive/2013/04/08/3008323.html)</small
@@ -114,7 +112,7 @@ title: 书签
  - [ApproveJs](http://charlgottschalk.co.za/projects/approvejs)
  - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
 
- ### Javascript
+### Javascript
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
  - [深入理解Javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) - <small汤姆大叔的博客</small
@@ -124,7 +122,7 @@ title: 书签
  - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
  - [Prism.js](http://prismjs.com/) - <small漂亮的代码高亮</small   
 
- ### JS框架
+### JS框架
  - [Vuejs](http://vuejs.org/)
  - [React](http://facebook.github.io/react/)
  - [Angular](https://angularjs.org/)
