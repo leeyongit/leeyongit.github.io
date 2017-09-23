@@ -12,6 +12,7 @@ title: 书签
  - [V2EX](http://www.v2ex.com/)
  - [菜鸟教程](http://www.runoob.com/)
  - [伯乐在线](http://blog.jobbole.com/)
+ - [极客学院Wiki](http://wiki.jikexueyuan.com/)
 
 ## 资源
 - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
@@ -21,7 +22,10 @@ title: 书签
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
-
+- [Linux命令大全](http://man.linuxde.net/)
+- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
+- [Medoo中文文档](http://medoo.lvtao.net/doc.php)
 
 ## PHP
 ---
@@ -53,6 +57,7 @@ title: 书签
 
 ## 运维
 ---
+ - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [运维生存时间](http://www.ttlsa.com/)
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
@@ -123,8 +128,6 @@ title: 书签
  - [ApproveJs](http://charlgottschalk.co.za/projects/approvejs)
  - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
 
-
-
 ### JS框架
  - [Vuejs](http://vuejs.org/)
  - [React](http://facebook.github.io/react/)
@@ -144,6 +147,7 @@ title: 书签
  - [汇智网](http://www.hubwiz.com/course/)
  - [upupw](http://www.upupw.net/)
  - [WeiPHP](http://www.weiphp.cn/) - <small强大的微信公众平台开源框架</small>
+
 
 ## 博客
 ---
@@ -170,6 +174,7 @@ title: 书签
  - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
  - [豆瓣电影TOP250](http://movie.douban.com/top250)
  - [豆瓣图书Top250](http://book.douban.com/top250)
+ - [天天看美剧](http://www.msj1.com/)
 
 
 
