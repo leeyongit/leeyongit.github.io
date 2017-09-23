@@ -5,7 +5,11 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
-
+<style type="text/css">
+  .header-title h1 {
+    font-size: 2.5rem
+  }
+</style>
 </head>
 
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
@@ -27,9 +31,9 @@
     <header class="header-title">
       <div class="header-title-wrap">
         {% if page.link %}
-          <h1 class="entry-title" style="font-size: 2.5rem"><i class="fa fa-bookmark permalink"></i> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="{{ page.link }}">{{ page.title }}</a></h1>
         {% else %}
-          <h1 class="entry-title" style="font-size: 2.5rem"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+          <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
         {% endif %}
         <h2><span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time></span></h2>
         {% if site.reading_time %}
@@ -50,7 +54,7 @@
       </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
-<!--     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %} -->
+    {% if site.related_posts.size > 0 %}{% endif %}
   </article>
 </div><!-- /#main -->
 
