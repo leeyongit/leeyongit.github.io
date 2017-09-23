@@ -17,5 +17,5 @@ modified: 2017-09-23
 * PHP&Python.
 * MySQL&Redis.  
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://ks3-cn-beijing.ksyun.com/fshdvod/%E8%BF%99%E4%B8%AA%E6%9D%80%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7.rmvb-1280x720.mp4" frameborder="0"></iframe>
 
