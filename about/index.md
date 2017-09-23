@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 image:
-  feature: Little_Prince_Screenshot_0881.jpg
+  feature: Little_Prince_Screenshot_0882.jpg
 comments: false
 modified: 2017-09-23
 ---
