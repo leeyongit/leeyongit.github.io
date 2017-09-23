@@ -5,6 +5,11 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
+<style type="text/css">
+  .header-title h1 {
+    font-size: 2.5rem
+  }
+</style>
 </head>
 
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
@@ -49,7 +54,7 @@
       </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
-    {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
+<!--     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %} -->
   </article>
 </div><!-- /#main -->
 

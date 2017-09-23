@@ -1,2 +1,2 @@
 {% assign readtime = content | strip_html | number_of_words | divided_by:site.words_per_minute %}
-阅读时间 ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} 分钟{% endif %}
+阅读时间 ~{% if readtime <= 1 %}1 分钟{% else %}{{ readtime }} 分钟{% endif %}
