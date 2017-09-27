@@ -96,7 +96,7 @@ title: 书签
 ### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
- - [深入理解Javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) - <small汤姆大叔的博客</small>
+ - [深入理解Javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) - <small>汤姆大叔的博客</small>
  - [Javascript面向对象基础](http://coolshell.cn/articles/6441.html) - <small>酷壳</small>
  - [AJAX 跨域请求 - JSONP获取JSON数据](http://justcoding.iteye.com/blog/1366102)
  - [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
