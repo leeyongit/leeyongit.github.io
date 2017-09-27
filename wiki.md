@@ -103,7 +103,7 @@ title: 书签
  - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 ### 组件
- - [Bootswatch](https://bootswatch.com/) - <small免费的 Bootstrap 主题包</small
+ - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small
  - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
  - [iScroll 4](http://cubiq.org/iscroll-4)  - <small>是一款针对web app使用的滚动控件。[中文教程](http://www.cnblogs.com/duanhuajian/archive/2013/04/08/3008323.html)</small>
  - [Jvectormap](http://jvectormap.com/) - <small>用来显示矢量地图的jQuery插件</small>
