@@ -41,7 +41,7 @@ title: 书签
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
  - [Laravel 入门、技巧、教程与经验分享](http://laravel.so/)
- - [Vuejs2.0 文档攻略 - 组件 -组件内容分发（slot）](http://larabase.com/)
+ - [LaraBase](http://larabase.com/)
  - [Laravel 视频教程](https://laravist.com/) 
  - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [命令速查表 Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
