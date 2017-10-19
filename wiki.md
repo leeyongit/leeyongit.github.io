@@ -36,6 +36,7 @@ title: 书签
  - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
  - [Workerman](http://www.workerman.net/)
  - [Symfony China](http://www.symfonychina.com/) 
+ - [Symfony文档](http://symfony.cn/docs/index.html#)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Slim 中文网](http://www.slimphp.net/)
  - [用Slim轻型PHP框架写RESTful APIs](http://zhujun24.github.io/2015/03/19/%E7%94%A8Slim%E8%BD%BB%E5%9E%8BPHP%E6%A1%86%E6%9E%B6%E5%86%99RESTful%20APIs/)
