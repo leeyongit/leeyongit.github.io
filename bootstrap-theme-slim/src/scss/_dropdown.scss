@@ -1,0 +1,11 @@
+// Dropdown
+
+
+.dropdown-menu {
+  // border: none;
+  box-shadow: $box-shadow-sm;
+
+    .dropdown-item {
+        font-weight:inherit;
+    }
+}
