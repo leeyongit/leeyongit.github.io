@@ -13,6 +13,7 @@ title: 书签
  - [菜鸟教程](http://www.runoob.com/)
  - [伯乐在线](http://blog.jobbole.com/)
  - [极客学院Wiki](http://wiki.jikexueyuan.com/)
+ - [Codecasts](https://www.codecasts.com/)
 
 ## 资源
 - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
@@ -162,8 +163,6 @@ title: 书签
  - [寸谋](http://www.cunmou.com)
  - [安正超](http://overtrue.me/)
  - [袁超](http://www.phpyc.com/)
- - [岁寒](http://lvwenhan.com)
- - [A Web Developer](https://jellybool.com/)
  - [方倍工作室](http://www.cnblogs.com/txw1958/)
 
 ## 收藏
