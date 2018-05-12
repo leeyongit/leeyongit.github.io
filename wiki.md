@@ -18,24 +18,26 @@ title: 书签
 ## Windows
 - [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
 
-## 下载
+## Linux
+- [Linux命令大全](http://man.linuxde.net/)
+
+## Github
+- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [aria2](http://aria2.github.io/)
 
 ## Golang
 - [如何写 go 代码](https://studygolang.com/articles/2561)
+- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
-## 资源
-- [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
-- [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
-- [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
-- [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
-- [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
-- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
-- [Linux命令大全](http://man.linuxde.net/)
-- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+
+## Docker
 - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
-- [Medoo中文文档](http://medoo.lvtao.net/doc.php)
+
+## ELK
+- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+
 
 ## PHP
 ---
@@ -58,7 +60,12 @@ title: 书签
  - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [命令速查表 Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
  - [integrate-adminlte-with-laravel](https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel)  
- - [AdminLTE Control Panel Template](https://adminlte.io/)  
+ - [AdminLTE Control Panel Template](https://adminlte.io/) 
+ - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
+ - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
+ - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
+ - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn) 
+ - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
 
 ## MySQL
@@ -105,6 +112,7 @@ title: 书签
  - [Bootstrap中文网](http://www.bootcss.com/)
  - [helloweba](http://www.helloweba.com/)
  - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
+
 ### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
@@ -114,6 +122,8 @@ title: 书签
  - [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
  - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
+ - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+
 ### 组件
  - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small
  - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
