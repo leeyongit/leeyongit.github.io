@@ -15,6 +15,15 @@ title: 书签
  - [极客学院Wiki](http://wiki.jikexueyuan.com/)
  - [Codecasts](https://www.codecasts.com/)
 
+## Windows
+- [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
+
+## 下载
+- [aria2](http://aria2.github.io/)
+
+## Golang
+- [如何写 go 代码](https://studygolang.com/articles/2561)
+
 ## 资源
 - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
 - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
