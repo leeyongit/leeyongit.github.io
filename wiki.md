@@ -14,6 +14,7 @@ title: 书签
  - [伯乐在线](http://blog.jobbole.com/)
  - [极客学院Wiki](http://wiki.jikexueyuan.com/)
  - [Codecasts](https://www.codecasts.com/)
+ - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 ## Windows
 - [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
@@ -24,10 +25,17 @@ title: 书签
 ## Github
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [aria2](http://aria2.github.io/)
+- [Aria2 Manual](http://aria2.github.io/manual/en/html/index.html)
 
 ## Golang
+- [Go 语言中文网](https://studygolang.com/)
+- [Go Packages](https://godoc.org/)
 - [如何写 go 代码](https://studygolang.com/articles/2561)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
+- [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
+- [Echo](https://echo.labstack.com/)
+- [Go by Example 中文](https://books.studygolang.com/gobyexample/)
+- [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
 
 ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
@@ -91,16 +99,6 @@ title: 书签
  - [Linux下安装ffmpeg](http://blog.csdn.net/chfe007/article/details/42982975) 
  - [网站502与504错误分析](http://www.ttlsa.com/web/analysis-of-site-502-and-504-error/)  
  - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
-
-## 技术文章
----
- - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
- - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
- - [Nginx(PHP/fastcgi)的PATH_INFO问题](http://www.laruence.com/2009/11/13/1138.html)
- - [ThinkPHP Where 条件中使用表达式](http://www.cnblogs.com/martin1009/archive/2012/08/24/2653718.html)
- - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
- - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-
 
 ## 前端  
 ---
@@ -194,6 +192,11 @@ title: 书签
  - [豆瓣电影TOP250](http://movie.douban.com/top250)
  - [豆瓣图书Top250](http://book.douban.com/top250)
  - [天天看美剧](http://www.msj1.com/)
+ - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
+ - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
+ - [Nginx(PHP/fastcgi)的PATH_INFO问题](http://www.laruence.com/2009/11/13/1138.html)
+ - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
+ - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 
 
 
