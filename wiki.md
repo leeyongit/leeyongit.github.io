@@ -29,13 +29,16 @@ title: 书签
 
 ## Golang
 - [Go 语言中文网](https://studygolang.com/)
+- [Go 中国技术社区](https://gocn.io/)
+- [beego](https://beego.me/)
+- [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [Go Packages](https://godoc.org/)
 - [如何写 go 代码](https://studygolang.com/articles/2561)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 - [Echo](https://echo.labstack.com/)
-- [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
+- [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 
 ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
