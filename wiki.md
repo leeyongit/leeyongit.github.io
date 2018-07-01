@@ -15,6 +15,7 @@ title: 书签
  - [极客学院Wiki](http://wiki.jikexueyuan.com/)
  - [Codecasts](https://www.codecasts.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+ - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
 
 ## Windows
 - [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
