@@ -42,6 +42,9 @@ title: 书签
 - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 
+## 区块链
+- [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
+
 ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 
