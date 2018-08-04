@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 装修账本
+title: 我的账本
 ---
 
 # 装修账本
