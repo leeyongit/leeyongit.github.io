@@ -17,18 +17,6 @@ title: 书签
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
 
-## Windows
-- [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
-- [msdn-ITellYou](https://msdn.itellyou.cn/)
-
-## Linux
-- [Linux命令大全](http://man.linuxde.net/)
-
-## Github
-- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
-- [aria2](http://aria2.github.io/)
-- [Aria2 Manual](http://aria2.github.io/manual/en/html/index.html)
-
 ## Golang
 - [Go 语言中文网](https://studygolang.com/)
 - [Go 中国技术社区](https://gocn.io/)
@@ -44,6 +32,9 @@ title: 书签
 
 ## 区块链
 - [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
+- [Web3 js 文档](http://web3.tryblockchain.org/)
+- [Truffle 文档](http://truffle.tryblockchain.org/)
+- [Remix](https://remix.ethereum.org/)
 
 ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
@@ -53,7 +44,6 @@ title: 书签
 
 ## ELK
 - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
-
 
 ## PHP
 ---
@@ -205,6 +195,12 @@ title: 书签
  - [Nginx(PHP/fastcgi)的PATH_INFO问题](http://www.laruence.com/2009/11/13/1138.html)
  - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
+- [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
+- [msdn-ITellYou](https://msdn.itellyou.cn/)
+- [Linux命令大全](http://man.linuxde.net/)
+- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+- [aria2](http://aria2.github.io/)
+- [Aria2 Manual](http://aria2.github.io/manual/en/html/index.html)
 
 
 
