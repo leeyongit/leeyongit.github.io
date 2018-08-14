@@ -1,0 +1,675 @@
+
+<!DOCTYPE html>   
+<!--[if IE 9 ]><html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9 | !IE]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Group Chain</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="keywords" content="" />
+  <link rel="icon" href="favicon.ico">
+  <link rel='stylesheet' href='css/bootstrap.min.css'>
+  <link rel='stylesheet' href='css/group.css?v=1.31'>
+  <!--[if lte IE 9]><!-->
+  <script src='js/html5shiv.min.js'></script>
+  <style>
+  canvas{ position: absolute; top: 0px; }
+  </style>
+  <!--<![endif]-->
+</head>
+<body data-spy="scroll" data-target=".navbar-collapse" id="mobile">
+<!--[if lt IE 9]>
+<div class="warn" style="position:fixed; top:0;width: 100%; height: 60px; line-height: 60px; z-index: 100; text-align: center; background: #fff; color: #333333; font-size: 20px;">您的瀏覽器版本過低，為了獲取更好的瀏覽效果，建議您升級後重新打開網頁。</div>
+<![endif]-->
+  <div class="site">
+    <div class="site-canvas" style="overflow:hidden; text-align: center;">
+      <header class="site-header">
+        <nav class="navbar navbar-theme">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                <span class="sr-only"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <div class="navbar-brand-wrap">
+                  <img src="images/logo.png?v=1.0" alt="logo" style="width: 204px; height: 68px;">
+              </div>
+            </div> 
+
+            <div class="collapse navbar-collapse" id="navbar-collapse" >
+              <ul class="nav navbar-nav navbar-right">
+                <li class="active"><a href="#home">首頁</a></li>
+                <li><a href="#our-project">項目介紹</a></li>
+                <li><a href="#tzjz">通證機制</a></li>
+                <li><a href="#team">團隊成員</a></li>
+                <li><a href="#team2">高級顧問</a></li>
+                <li><a href="#cooperation">投資機構</a></li>
+                <li><a href="#Investment">技術支持</a></li>
+                <li><a href="#Project-plan">項目規劃</a></li>
+                <li><a href="#overlay_block">白皮書下載</a></li>
+                <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">語言選擇<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a class="" href="index.html">繁體中文</a></li>
+                  <li><a class="" href="english.html">English</a></li>          
+                </ul>
+              </li>
+              </ul>
+            </div> <!-- .navbar-collapse -->
+          </div>
+        </nav>
+      </header>
+      <div class="lunboImg" style="position: relative;">
+      	<div class="lunboBg"></div>
+        <img src="images/banner.png" class="lunbo pcShow" id="home" />
+        <img src="images/banner-m.png" class="lunbo mobileShow" />
+      <!--   <div class="news-wrap">
+          <div id="news" class="section block-news block-gold align-c-xs-max">
+            <div class="container">
+              <div class="row row-table">
+                <div class="col-sm-12 news-info">
+                  <h3 class="news-title"><img src="images/news.png?v=1.0" /></h3>
+                  <div id="newslist" class="newslist">
+                    <div class="newslist-item">
+                      <div id="newslist1">
+                        <ul>
+                          <li><a href="" target="_blank">Group 新闻动态Group 新闻动态Group 新闻动态Group 新闻动态</a></li>
+                          <li><a href="" target="_blank">Group 新闻动态Group 新闻动态Group 新闻动态Group 新闻动态</a></li>
+                        </ul>
+                      </div>
+                      <div id="newslist2">
+                        <ul>
+                          <li><a href="" target="_blank">Group 新闻动态Group 新闻动态Group 新闻动态Group 新闻动态</a></li>
+                          <li><a href="" target="_blank">Group 新闻动态Group 新闻动态Group 新闻动态Group 新闻动态</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+     <section id="our-project" class="intro intro1 color1 padding ptb-xs-30 text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 col-sm-12 text-center">
+              <img src="images/intro1.png" />
+            </div>
+            <div class="col-md-8 col-sm-12 pt-xs-60 pl-40 pl-xs-10 pt-0">
+              <h3>Group Chain-定義全球社團新生態 </h3>
+              <p>
+            全球社團通用積分為社團組織的發展注入新的科技基因。為人類帶來一種更可靠也更廣泛的信任體系，區塊鏈科技底層智慧合約機制能够讓事態按照事先約定好的合約自動執行，不可更改也不可單方撤銷。全球社團通用積分對每一個產生的數據塊進行歷史資料留存，資訊溯源杜絕虛假資訊和欺詐資訊在鏈上的傳遞。 
+              </p>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section class="intro intro2 color2 padding125 padding text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 text-center right shengji">
+              <img src="images/intro2.png" />
+            </div>
+            <div class="col-md-8 pt-xs-60 left pr-40">
+              <h3 style="color:#ffffff;">Group Chain-全球社團第一公鏈 </h3>
+              <p>
+                <ul>
+                  <li>全球社團通用積分（Universal Group Token）旨在打造全球社團的第壹公鏈（簡稱社團鏈Group chain），利用區塊鏈技術的去中心化、分布式賬本、不可篡改的特性，圍繞社群組織發生的場景，包括社團管理、社員社交、身份證明、任務發布、跨境支付、公共財產管理等，打造全維度社群生態邏輯，重構社團之間生產和社交關系。</li>
+                  <li>集成了區塊鏈各底層技術，包括基於區塊鏈底層系統智能合約機制、基於參與式決策（Participatory Decision Making）的投票機制和任務兌領機制、基於點對點（Peer to Peer）協議打造的去中心化即時通訊工具和零知識證明的身份驗證系統。</li>
+                </ul>
+              </p>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section class="intro intro3 color1 padding125 padding text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 text-center">
+              <img src="images/intro3.png" />
+            </div>
+            <div class="col-md-8 pl-70">
+              <h3>Group Chain-全球社團通用積分優勢 </h3>
+				<ul>
+					<li><strong>國際洪門總會支持</strong>---社團鏈（Group Chain）得到了國際洪門總會的鼎力支持，國際洪門總會將作為基石投資人參與該項目，並率先將該社團鏈平臺應用於全球洪門各山、堂等組織，作為洪門世界洪門各地堂口及致公黨、致公堂等組織的主要管理系統，涵蓋堂口日常管理的各項任務。</li>
+					<li><strong>社團天然和區塊鏈科技匹配</strong>---區塊鏈科技為社會帶來一種新的更可靠的更廣泛的信任體系，改造現有社團成員之間的社交關係。在社團生態中應用區塊鏈科技能够將社團組織的人情社交與區塊鏈的數據社交完美結合，並實現優勢互補，使未來信息化社會中更有人情味，也避免了人情合作中由於缺乏數據支撐和行為預測而造成的潜在違約和欺騙風險。</li>
+          <li><strong>社團鏈應用場景解決社會剛性需求</strong>---社團鏈註重當代社會人類各項需求滿足，比如就醫掛號、人員招聘、資源對接、技術咨詢、商品購買、項目合作、教育培訓等。以人為本，圍繞社會生活中各項真實需求開發相應的社團鏈應用場景解決資源共享、能力共享當代社會的剛性需求，利用區塊鏈技術打造集生活服務、商務合作、社交購物、就醫咨詢等各項社會功能於壹體的壹站式個人管家平臺。擔負構建更好的社群生態、社會關系、人際網絡的使命，以區塊鏈技術給人未來社會的帶來新的革命。</li>
+				</ul>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section class="intro intro4 color2 padding120  ptb-xs-30 text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 text-center kaifang right">
+              <img src="images/intro4.png" />
+            </div>
+            <div class="col-md-8 left">
+              <h3 style="color:#ffffff;">Group Chain-全球社團通用積分基於區塊鏈3.0科技整體架構 </h3>
+              <p>
+        		<ul>
+        			<li>全球社團通用積分基於區塊鏈3.0科技整體架構，其典型特徵包括智慧合約、DAPP（分佈式應用）和虛擬機器等，並支持POW、POS和DPOS等多種共識算灋。結合本項目區塊鏈集資產管理、資訊儲存、私密社交、信用認證和兌付手段於一體的功能模塊。 </li>
+        			<li>社團鏈7大系統模塊和2大公共服務體系，分別是零知識身份認證系統、社團鏈帳戶管理系統、資訊資料存儲系統、資產管理系統和數位錢包、去中心化即時通訊工具、底層智慧合約引擎、社員積分體系以及任務合作體系，以求為優質的使用者服務保駕護航。 </li>
+        		</ul>
+              </p>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section class="intro intro5 color1 ptb-xs-30 text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 text-center">
+              <img src="images/intro5.png?v=1.0" />
+            </div>
+            <div class="col-md-7 pl-70">
+              <h3>Group Chain-全球社團通用積分應用場景 </h3>
+              <p>
+              	<ul>
+              		<li>去中心化即時通訊</li>
+              		<li>身份驗證</li>
+              		<li>任務發佈和兌領</li>
+              		<li>資產管理和數字支付</li>
+              		<li>社團管理</li>
+              		<li>公共財產上鏈</li>
+              		<li>跨境電商</li>
+              		<li>一帶一路基礎設施建設</li>
+              	</ul>
+              </p>
+            </div>
+          </div>
+        </div>
+    </section>
+     <section id="tzjz" class="intro intro6 color2 padding120  ptb-xs-30 text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 text-center kaifang right">
+              <img src="images/intro6.png?v=1.1" />
+            </div>
+            <div class="col-md-8 left">
+              <h3 style="color:#ffffff;">Group Chain-通證機制 </h3>
+              <p>
+            <ul>
+              <li>Group將采用通脹的經濟模型，每年增發總量的5%。Group初期代幣生成將基於以太坊合約技術生成數字代幣，後期技術完善將以映射的形式形成社團公鏈上基於DPOS共識機制的數字代幣GTOKEN。</li>
+              <li>Group Chain采用DPOS共識機制，通過投票產生49個節點，擔任區塊生產者，對於他們的激勵並不是僅僅來源於手續費，還將通過增發代幣來激勵超級節點，每個節點還會分享每年增發5%的收益。49個超級節點的產生，都由公平、公正的投票產生。如果49個節點代表不能履行他們的職責，將由社區選出新的超級節點來替代。 </li>
+            </ul>
+              </p>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section id="team" class="team pt-40 pb-50 pt-xs-0 text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 mb-20 mt-50">
+            <h2>團隊成員</h2>
+            <span class="b-line"></span>
+          </div>
+        </div>
+        <div class="row text-center peopleList">
+          <ul>
+          	<li class="first">
+              <img src="images/people1.png" width="150" height="150" />
+              <div class="name">孔祥科</div>
+              <div class="title">董事長</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                曾任國民黨行政管理委員會副主任委員、國際洪門世界總會副理事長、臺灣中華學會理事長、Carry Air-Leasing Ltd. 副總裁、臺灣健行科技大學企管系系主任等職務。曾負責管理國民黨黨產，多年的大型資產管理和金融從業經驗。本科、碩士畢業於臺灣大學經濟學系、博士畢業於臺灣科技大學管理系。
+              </div>
+            </li><br/>
+            <li>
+              <img src="images/people2.png" width="150" height="150" />
+              <div class="name">熊育烽</div>
+              <div class="title">VP</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                曾任臺灣農業區塊鏈推廣活動召集人、中國白酒區塊鏈研究中心召集人、臺灣扶農協會農業發展策略團大中華區首席代表、雅虎獅子會 300A1區塊鏈創會副會長，在區塊鏈投資和區塊鏈技術領域有豐富的經驗。
+              </div>
+            </li>
+            <li>
+              <img src="images/people3.png" />
+              <div class="name">李昭良</div>
+              <div class="title">VP</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                曾任雲端文教事業股份有限公司營運長、掌聲娛樂股份有限公司營運長、新五臺創媒集團集團營運長，新五臺集團主營雲端運算、影音串流技術負責人等職務，新五臺集團現為臺灣最大的雲計算公司之壹，在區塊鏈技術開發等領域有豐富的經驗。
+              </div>
+            </li>
+            <li>
+              <img src="images/people4.png" />
+              <div class="name">朱邦文</div>
+              <div class="title">VP</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                曾任中華臺灣全球跨境電商協會會長、中華國際電子商務協會會長、中華海峽兩岸事務交流協會會長、中天商宇國際電子商務有限公司總裁，在跨境電商、IT互聯網領域有多年的工作經驗和人脈資源。
+              </div>
+            </li>
+            <li>
+              <img src="images/people5.png" />
+              <div class="name">張凱鈞</div>
+              <div class="title">VP</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                英國倫敦大學信息所博士、美國匹茲堡大學碩士。曾任廣東聯速兩岸科技園創辦人、廣東集成電路協會主任委員、歐洲臺灣商會青年主席、歐洲臺灣大學校友會主任委員、擁有15年高科技信息工程研發和跨國公司管理投資經驗。
+             </div>
+            </li>
+            <li>
+              <img src="images/people6.png" />
+              <div class="name">吳俊裕</div>
+              <div class="title">VP</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                曾任北京中美集團醫療事業集團西安總部首席執行官、美國Hyperbaric Oxygen Therapy Center臺灣區總經理、國立中山大學國際人才培育中心顧問、臺灣大哥大電信集團顧客服務部總經理。在社群維護、人力資源管理、團隊建設等領域有豐富的工作經驗。
+             </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section id="team2" class="team pt-40 pb-50 pt-xs-0 text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 mb-20">
+            <h2>高級顧問</h2>
+            <span class="b-line"></span>
+          </div>
+        </div>
+        <div class="row text-center peopleList">
+          <ul>
+          	<li class="first">
+              <img src="images/people7.png" width="150" height="150" />
+              <div class="name">劉沛勛</div>
+              <div class="title">國際洪門總會主席</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                劉沛勛主席，現任國際洪門世界總會主席，為世界洪門社團的代表人物。祖籍江蘇省徐州市銅山縣，於臺北出生，其取得輔仁大學商學士，美國阿姆斯壯大學法學博士。1975年加入洪門南華山受封承行大管事，1981年至1991年遍訪世界各洪門社團，曾於1992年擔任世界洪門總會總執行長，2004年當選國際洪門中華總會創會理事長，2009年當選國際洪門世界總會主席。
+              </div>
+            </li><br/>
+         
+            <li>
+              <img src="images/people9.png" />
+              <div class="name">陳柏光</div>
+              <div class="title">中華民族致公黨主席</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                陳柏光，臺灣人臺北人，中國文化大學國家發展研究所博士，長期致力於兩岸交流，促進中華民族偉大復興的工作中，現為中國臺灣致公黨主席。陳總裁為洪門華臺山山主，中華兩岸交流協會常務副會長，全國臺灣同胞投資企業聯誼會副會長、北京首都經濟研究會臺灣分會會長、世界陳氏宗親會榮譽總會長和沃華國際投資控股集團總裁。
+              </div>
+            </li>
+            <li>
+              <img src="images/people10.png" />
+              <div class="name">Carlos Chou</div>
+              <div class="title">原甲骨文/Siebel全球總裁</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                Carlos是壹名成功的企業技術和客戶關系管理CRM的領導者，擅長通過創新和顛覆性的市場策略來推動增長。在甲骨文和Siebel領導10年有余，多年為總裁職位，後被甲骨文57億美元收購，任全球高級副總裁在SAP七年，領導全球CRM業務。在惠普領導全球Business Solutions部門，管理資金超30億美元。Carlos畢業於杜克大學Fuqua商學院MBA和加州大學聖克魯什分校計算機科學。
+              </div>
+            </li>
+             <li>
+              <img src="images/people17.png" />
+              <div class="name">呂意凡</div>
+              <div class="title">國美控股集團副總裁兼CIO</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                呂意凡，負責國美整個ERP系統建設。在系統建設過程中，成立了由全國不同層面的員工組成的一支强有力的實施團隊，涵蓋門店、各業務板塊、IT等各個板塊，給國美客戶提供一個新的服務平臺，既能滿足企業內部又能滿足企業發展的需要。在呂總任內把國美財務組織變得更加規範化和有效化，使其在整個預算的編制、預算的執行和費用管控上，能够形成一個有效的機制。具有豐富的企業戰略、企業管理、SAP、互聯網大數據的從業經驗和行業資源。
+              </div>
+            </li>
+            <li>
+              <img src="images/people11.png" />
+              <div class="name">李克明</div>
+              <div class="title">元大創業投資股份有限公司董事長</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                李克明，中華儒道研究協會名譽副理事長、臺北哈佛商學院校友會創會會長
+曾任臺北第三選區國大議員，元大創業投資股份有限公司董事長、元大國際資產管理股份有限公司董事長、元大京華證券股份有限公司副董事長等職。著有《當孔子遇上哈佛•首部曲：誌業職場》等儒家解讀著作，並於臺灣政治大學 EMBA 和IMBA學程教授《商業談判》等課程。
+              </div>
+            </li>
+            <li>
+              <img src="images/people8.png" width="150" height="150" />
+              <div class="name">韓臺玉</div>
+              <div class="title">國際洪門總會副主席</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                韓臺玉副主席，2010-2012年度第三屆國際洪門中華總會第壹副理事長，2012-2014第四屆國際洪門中華總會理事長。落實復興中華，兩岸壹家和平發展之理念，除領團慘加海峽論壇，並加強與中國致公黨及其他各界相互交流之行動。2015年現今國際洪門總會副主席，2017年現今社團法人國際洪門慈善總會創會長暨創會總會長。
+              </div>
+            </li>
+            <li>
+              <img src="images/people12.png" width="150" height="150" />
+              <div class="name">曾萬華</div>
+              <div class="title">國際洪門中華總会理事長</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                曾萬華，現任國際洪門中華總會理事長，加入洪門20余年是國際洪門總會的核心人物之壹、長期致力於兩岸交流工作，積極參與到促進中華民族偉大復興進程中。曾萬華先生在工程營造界經營多年，現為大路貿易有限公司董事長、方川科技工程有限公司董事長，並積極參與到壹帶壹路沿線工程建設中，有豐富的項目資源，近年來開始布局區塊鏈與工程項目管理的公司和企業。
+              </div>
+            </li>
+            <li>
+              <img src="images/people13.png" />
+              <div class="name">林麗慧</div>
+              <div class="title">國際洪門婦女總会理事長</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                林麗慧，現任國際洪門婦女總會理事長，加入洪門10月年，長期從事洪門婦女昆仲和社會婦女權益的提升和保障工作，多年來回兩岸之間致力於兩岸交流和中華民族偉大復興的工作中。林麗慧理事長多年從事房地產行業，現任中華兩岸房地產暨經貿交易協會副理事長和敦揚建設股份有限公司董事長。
+              </div>
+            </li>
+            <li>
+              <img src="images/people14.png" />
+              <div class="name">陸思友</div>
+              <div class="title">澳門萬國控股集團副總裁</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                陸思友，現任澳門萬國控股集團副總裁，澳門台商副會長等職務。多年來積極投身於兩岸經濟文化建設和貿易交往工作，陸思友先生是傑出的台商代表，曾任國光藝校副校長、中國電影製片廠廠長、佛山市台商協會秘書長、廣東省台商服務中心秘書長等職務，在經濟及文化領域都取得過顯著的成果，做出了突出貢獻。
+              </div>
+            </li>
+            <li>
+              <img src="images/people15.png" />
+              <div class="name">張肇珩</div>
+              <div class="title">中華道教總會秘書長</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                張肇珩，任北京大學臺灣校友總會榮譽理事長，中華道教會秘書長，中華道教總會秘書長，中華道教學院執行長等職。張肇珩秘書長畢業於國立臺灣大學哲學系及北京大學宗教學研究所，長期致力於宗教文化研究工作，積極促進兩岸民族融合，推動了兩岸間道教的發展及文化交往。 
+              </div>
+            </li>
+            <li>
+              <img src="images/people16.png" />
+              <div class="name">陳世明</div>
+              <div class="title">中華青溪總會秘書長</div>
+              <div class="more">MORE</div>
+              <div class="detail">
+                陳世明，中華青溪總會秘書長, 現任臺北都市科技大學兼任講師，漢輝文教基金會秘書長等職務。陳世明先生一直致力於推動教育事業的發展，曾任醒吾商專教師，人文科學研究會社會活動組召集人和畢升文化事業有限公司總經理等職務，專注青少年教育及社會文化活動組織工作，在文化教育領域有著豐富的經驗。 
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section id="cooperation" class="ptb-50 text-center">
+        <div class="container">
+          <div class="row pb-40">
+            <div class="col-sm-12 mb-20">
+              <h2 style="color:#666;"><span>投資機構</span></h2>
+              <span class="b-line"></span>
+          <div class="row">
+            <div class="col-sm-12">
+              <img src="images/logos.png?v=1.01" />
+            </div>
+          </div>
+        </div>
+    </section>
+
+    <section id="Investment" class="ptb-60 text-center">
+        <div class="container">
+          <div class="row pb-20">
+            <div class="col-sm-12 mb-20">
+              <h2><span>公鏈技術支持</span></h2>
+              <span class="b-line"></span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div>
+                <div class="pt-30"><img src="images/invest.png?v=1.0" /></div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section id="co-Agency" class="team pt-40 pb-50 pt-xs-0 text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 mb-20 mt-50">
+            <h2>特別合作機构</h2>
+            <span class="b-line"></span>
+          </div>
+        </div>
+        <div class="row text-center peopleList">
+       <ul>
+          <li class="first">
+            <img src="images/coor1.png?v=1.0" width="150" height="150" />
+            <div class="title">國際洪門總會</div>
+            <div class="detail elli">
+              國際洪門總會為全球最大海外華人社團，總會章程為“團結洪門昆仲，發揚洪門忠義精神，振興倫理道德，提倡社會福利，服務人群，造福人類”。2004年，劉沛勳主席重新修訂了國際洪門五大任務：發揚洪門忠義精神、宣揚中國傳統文化、推動兩岸經濟文化交流、促進中國和平統一、實現中華民族偉大復興。現今，全球洪門各地昆仲有1000餘萬人，洪門直接或間接控股、參股、投資的企業、基礎設施、公共事業、旅遊、飯店、博彩等實業分佈在世界各地，洪門的綜合資源將成為全球社團通用積分項目順利落地的覈心資源。 
+            </div>
+            <div class="moretext">MORE</div>
+          </li>
+          <li>
+            <img src="images/coor2.png?v=1.01" />
+            <div class="title">中華青溪總會（臺灣退伍軍人協會）</div>
+            <div class="detail elli">
+              中華青溪總會於2000年，由中國臺灣地區國防部軍管區司令部（現後備指揮部）司令金恩慶上將（現任中國國民黨黃複興黨部主任委員）之積極策劃指導下成立。以「服務後備袍澤、凝聚後備向心、共創祥和社會、支援後備動員，協力全民國防為宗旨。中華青溪總會下設中國臺灣地區22縣市青溪總會，涵蓋全臺灣地區364個鄉鎮基層組織，現有會員人數100萬餘人。中華青溪總會將成為全球社團通用積分的戰略合作方，積極在下設組織和會員中推廣社團鏈平臺。 
+            </div>
+            <div class="moretext">MORE</div>
+            
+          </li>
+          <li>
+            <img src="images/coor3.png?v=1.01" />
+            <div class="title">中華道教總會</div>
+            <div class="detail elli">
+             中國臺灣地區中華道教總會最早於1912年9月在北京成立。中華道教總會以闡揚教義、整理教規、弘道護國、服務社會、樹立民族正信、促進世界大同為宗旨，下設臺灣省道教會、臺北市道教會、新北市道教會、台中市道教會、台南市道教會和高雄市道教會等六個省級教會及十八個縣（市）道教會，另並設定弘道委員會、志工委員會、青年委員會、婦女委員會、學術委員會，在宗教組織倫理建構下共同推行教務及會務，為復興中華民族文化而努力。中華道教總會的會員是以宮廟為組織，目前共有一萬多家宮廟會員，遍居臺灣或海外華人地區。每家宮廟各有數百甚至上千的忠實信眾。中華道教總會將成為全球社團通用積分的戰略合作方，積極推廣社團鏈平臺在全臺道教信眾和下屬會員的使用。 
+            </div>
+            <div class="moretext">MORE</div>
+ 
+          </li>
+        </ul>
+      </div>
+    </section>
+    <div id="Project-plan" class="ptb-50 ptb-xs-60 text-center english-project-plan" class="ptb-50 ptb-xs-60 text-center">
+        <div class="container pcShow">
+	        <div class="row">
+	            <div class="col-sm-12">
+	              <div class="heading-box pb-20">
+	                <h2><span>發展路綫圖</span></h2>
+	              </div>
+	            </div>
+	        </div>
+          <div class="row">
+	            <div class="col-sm-12 developRouter">
+全球社團通用積分（簡稱：社團鏈Group Chain）項目將圍繞公鏈技術開發、用戶導入、場景落地、大事件行銷、社群生態建設五個維度加速推進。 
+Group Chain的全部進展將會在項目官網 http://gtoken.world 第一時間同步更新。以下為戰略性關鍵時間節點： 
+	           </div>
+          </div>
+	        <div class="row">
+            <div class="col-sm-12">
+              <div class="timeline">
+                <div class="timeline-title-tech">技術路綫圖</div>
+                <ul>
+                  <li class="current one" data-index="0">
+                    <div class="time-block right">
+                        <p class="time" style="">
+                            2018.8
+                        </p>
+                        <div class="circle-wrap">
+                          <span class="circle">
+                          </span>  
+                        </div>                     
+                        <p class="version">
+                         Group Chain項目成立
+                        </p>
+                        <p class="description"></p>
+                      </div>
+                  </li>
+                  <li class="three" data-index="1">
+                    <div class="time-block right">
+                      <p class="time">
+                          2018.8
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        韓國全球區塊鏈精英峰會首秀
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                  <li class="four" data-index="2">
+                    <div class="time-block right">
+                      <p class="time">
+                          2018.9
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        世界洪門區塊鏈創新大會
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                  <li class="five" data-index="3">
+                    <div class="time-block right">
+                      <p class="time">
+                          2018.9
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        全球線下節點巡演啟動
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                  <li class="six" data-index="4">
+                    <div class="time-block right">
+                      <p class="time">
+                          2018.10
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                           App 1.0 上線
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                   <li class="seven" data-index="5" >
+                    <div class="time-block right">
+                      <p class="time">
+                          2018.11
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        登入主流數位貨幣交易所
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                   <li class="eight" data-index="6" >
+                    <div class="time-block right">
+                      <p class="time">
+                         2019.1
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        主網上線
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                   <li class="nine" data-index="7" >
+                    <div class="time-block right">
+                      <p class="time">
+                          2019.2
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                          超級節點遴選啟動
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                   <li class="ten" data-index="8">
+                    <div class="time-block right">
+                      <p class="time">
+                          2019.5
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        全球社區極客大賽開啟
+                      </p>
+                      <p class="description"></p>
+                    </div>
+                  </li>
+                   <li class="eleven" data-index="9" style="height: 190px;">
+                    <div class="time-block right">
+                      <p class="time">
+                        2019.8
+                      </p>
+                      <div class="circle-wrap">
+                        <span class="circle">
+                        </span>  
+                      </div>
+                      <p class="version">
+                        DApp 1.0 上線
+                      </p>
+                      <p class="description"> </p>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container mobileShow">
+          <div class="row">
+            <div class="col-sm-12">
+              <img src="images/stepImg.png?v=1.0" />
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+    <section id="overlay_block" class="light-color">
+        <div class="container text-center fixed_img  ptb-xs-4016">
+          <div class="row">
+            <div class="col-sm-12 mb-20">
+              <h2><span>下載白皮書</h2>
+              <span class="b-line"></span>
+            </div>
+          </div>
+
+          <div class="row mt-20">
+            <div class="col-sm-12 text-center btn-wrap">
+              <a class="btn-text" href="https://github.com/universalgroup/universalgroup/raw/master/docs/GROUP_tc.pdf" target="_blank">Download</a>
+            </div>
+          </div>
+        </div>
+        <div class="footer text-center pt-30">
+          <ul>
+            <li><a href="mailto:universalgroup2018@outlook.com" target="_blank" rel="nofollow"><img src="images/mail.png" />universalgroup2018@outlook.com</li>
+            <li><a href="http://www.facebook.com/group" target="_blank" rel="nofollow"><img src="images/f.png" />http://www.facebook.com/group</a></li>
+            <li><a href="http://www.twitter.com/group" target="_blank" rel="nofollow"><img src="images/t.png" />http://www.twitter.com/group</a></li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </div>
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src='js/bootstrap.min.js'></script>  
+<script src="js/canvas-particle.js"></script>
+<script src='js/group.js?v=1.06'></script>
+</body>
+</html>
