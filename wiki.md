@@ -201,6 +201,7 @@ title: 书签
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [aria2](http://aria2.github.io/)
 - [Aria2 Manual](http://aria2.github.io/manual/en/html/index.html)
+- [文件合并](https://www.filesmerge.com/zh)
 
 
 
