@@ -14,7 +14,6 @@ title: 书签
  - [伯乐在线](http://blog.jobbole.com/)
  - [极客学院Wiki](http://wiki.jikexueyuan.com/)
  - [Codecasts](https://www.codecasts.com/)
- - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
 
 ## Golang
@@ -36,37 +35,21 @@ title: 书签
 - [Truffle 文档](http://truffle.tryblockchain.org/)
 - [Remix](https://remix.ethereum.org/)
 
-## Python
-- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
-
-## Docker
-- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
-
-## ELK
-- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
-
 ## PHP
 ---
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
  - [深入理解PHP内核](http://www.php-internals.com/)
- - [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/preface.md)
  - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
  - [Workerman](http://www.workerman.net/)
  - [Symfony China](http://www.symfonychina.com/) 
  - [Symfony文档](http://symfony.cn/docs/index.html#)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
- - [Slim 中文网](http://www.slimphp.net/)
- - [用Slim轻型PHP框架写RESTful APIs](http://zhujun24.github.io/2015/03/19/%E7%94%A8Slim%E8%BD%BB%E5%9E%8BPHP%E6%A1%86%E6%9E%B6%E5%86%99RESTful%20APIs/)
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
- - [Laravel 入门、技巧、教程与经验分享](http://laravel.so/)
  - [LaraBase](http://larabase.com/)
- - [Laravel 视频教程](https://laravist.com/) 
  - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
- - [命令速查表 Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
- - [integrate-adminlte-with-laravel](https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel)  
- - [AdminLTE Control Panel Template](https://adminlte.io/) 
+ - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)
  - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
  - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
@@ -74,11 +57,20 @@ title: 书签
  - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
 
-## MySQL
+## 数据库
 ---
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
+ - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
 
+ ## Python
+- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+
+## Docker
+- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
+
+## ELK
+- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
 
 ## 运维
 ---
@@ -154,7 +146,6 @@ title: 书签
 
 ## 网站
 ---
- - [segmentfault](http://segmentfault.com/)
  - [程序师](http://www.techug.com/)
  - [TOPIDE](http://www.topide.com/)
  - [LNMP](http://lnmp.org)
@@ -163,19 +154,17 @@ title: 书签
  - [句子迷](http://www.juzimi.com/)
  - [慕课网](http://www.imooc.com/)
  - [汇智网](http://www.hubwiz.com/course/)
- - [upupw](http://www.upupw.net/)
- - [WeiPHP](http://www.weiphp.cn/) - <small强大的微信公众平台开源框架</small>
 
 
 ## 博客
 ---
+ - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+ - [韩天峰(Rango)的博客](http://rango.swoole.com/)
+ - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
  - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
  - [斯人](http://www.imsiren.com/)
- - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
- - [简朝阳 (Sky Jian)](http://isky000.com/)
- - [寸谋](http://www.cunmou.com)
  - [安正超](http://overtrue.me/)
  - [袁超](http://www.phpyc.com/)
  - [方倍工作室](http://www.cnblogs.com/txw1958/)
