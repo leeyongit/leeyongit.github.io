@@ -40,7 +40,6 @@ title: 书签
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
  - [深入理解PHP内核](http://www.php-internals.com/)
- - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
  - [Workerman](http://www.workerman.net/)
  - [Symfony China](http://www.symfonychina.com/) 
  - [Symfony文档](http://symfony.cn/docs/index.html#)
@@ -49,19 +48,24 @@ title: 书签
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
  - [LaraBase](http://larabase.com/)
  - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
- - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)
+ - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)   
  - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
  - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
  - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn) 
  - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
+## Swoole
+---
+ - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
+ - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 
 ## 数据库
 ---
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
  - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
+ - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
 
  ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
