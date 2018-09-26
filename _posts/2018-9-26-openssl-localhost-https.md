@@ -1,12 +1,8 @@
 ---
+layout: post
 title: MacOS下自己创建根证书和域SSL证书实现https调试
-date: 2019-09-26 18:42:51
-categories:
-    - 网络安全
-tags:
-    - openssl
-    - ssl
-    - https
+description: 这篇文章是讲关于如何使用 OpenSSL 在本地创建一个 HTTPS 保护的开发环境，本文基于 MacOS。
+tags: [https,ssl,openssl]
 ---
 
 这篇文章是讲关于如何使用 OpenSSL 在本地创建一个 HTTPS 保护的开发环境，本文基于 MacOS。
