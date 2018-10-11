@@ -34,6 +34,11 @@ title: 书签
 - [Web3 js 文档](http://web3.tryblockchain.org/)
 - [Truffle 文档](http://truffle.tryblockchain.org/)
 - [Remix](https://remix.ethereum.org/)
+- [以太坊编程的简单介绍 ，Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
+- [教程 | 以太坊编程简单介绍，Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
+- [区块链技术（一）：Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
+- [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
+- [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
 
 ## PHP
 ---
@@ -67,7 +72,7 @@ title: 书签
  - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
 
- ## Python
+## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 
 ## Docker
