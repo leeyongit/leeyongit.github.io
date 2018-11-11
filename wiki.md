@@ -15,6 +15,8 @@ title: 书签
  - [极客学院Wiki](http://wiki.jikexueyuan.com/)
  - [Codecasts](https://www.codecasts.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
+ - [慕课网](http://www.imooc.com/)
+ - [汇智网](http://www.hubwiz.com/course/)
 
 ## Golang
 - [Go 语言中文网](https://studygolang.com/)
@@ -87,6 +89,7 @@ title: 书签
 
 ## 运维
 ---
+ - [LNMP](http://lnmp.org)
  - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [运维生存时间](http://www.ttlsa.com/)
@@ -157,18 +160,6 @@ title: 书签
  - [Angular](https://angularjs.org/)
  - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 
-## 网站
----
- - [程序师](http://www.techug.com/)
- - [TOPIDE](http://www.topide.com/)
- - [LNMP](http://lnmp.org)
- - [电影天堂](http://www.dytt8.net/)
- - [努努书坊](http://www.kanunu8.com/)
- - [句子迷](http://www.juzimi.com/)
- - [慕课网](http://www.imooc.com/)
- - [汇智网](http://www.hubwiz.com/course/)
-
-
 ## 博客
 ---
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
@@ -177,10 +168,6 @@ title: 书签
  - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
- - [斯人](http://www.imsiren.com/)
- - [安正超](http://overtrue.me/)
- - [袁超](http://www.phpyc.com/)
- - [方倍工作室](http://www.cnblogs.com/txw1958/)
 
 ## 收藏
 ---
@@ -204,6 +191,9 @@ title: 书签
 - [aria2](http://aria2.github.io/)
 - [Aria2 Manual](http://aria2.github.io/manual/en/html/index.html)
 - [文件合并](https://www.filesmerge.com/zh)
+- [努努书坊](http://www.kanunu8.com/)
+- [句子迷](http://www.juzimi.com/)
+- [TOPIDE](http://www.topide.com/)
 
 
 
