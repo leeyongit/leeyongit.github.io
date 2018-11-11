@@ -28,15 +28,19 @@ title: 书签
 - [Echo](https://echo.labstack.com/)
 - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
+- [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
+
+## 消息队列
+- [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 
 ## 区块链
 - [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
 - [Web3 js 文档](http://web3.tryblockchain.org/)
 - [Truffle 文档](http://truffle.tryblockchain.org/)
 - [Remix](https://remix.ethereum.org/)
-- [以太坊编程的简单介绍 ，Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
-- [教程 | 以太坊编程简单介绍，Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
-- [区块链技术（一）：Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
+- [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
+- [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
+- [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
 - [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
 - [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
 
