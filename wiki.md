@@ -24,13 +24,24 @@ title: 书签
 - [beego](https://beego.me/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [Go Packages](https://godoc.org/)
+- [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
 - [如何写 go 代码](https://studygolang.com/articles/2561)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 - [Echo](https://echo.labstack.com/)
+- [GORM](http://gorm.io/zh_CN/)
 - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 - [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
+- [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
+- [Go net/http包](https://studygolang.com/articles/9467)
+- [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
+- [Most popular Go libraries](https://golanglibs.com/top)
+- [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
+- [golang中用ssh和sftp库远程传输文件](http://www.01happy.com/golang-transfer-remote-file/)
+- [golang中json编码和解码](http://www.01happy.com/golang-json-encode-and-decode/)
+- [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
+- [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
 
 ## 消息队列
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
@@ -46,6 +57,9 @@ title: 书签
 - [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
 - [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
 - [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
+- [Ethereum geth 同步区块的三种模式](https://blog.csdn.net/guokaikevin/article/details/79254785)
+- [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+- [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
 
 ## PHP
 ---
@@ -106,6 +120,13 @@ title: 书签
  - [Linux下安装ffmpeg](http://blog.csdn.net/chfe007/article/details/42982975) 
  - [网站502与504错误分析](http://www.ttlsa.com/web/analysis-of-site-502-and-504-error/)  
  - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
+
+## Nginx
+- [关于limit_req和limit_conn的区别](https://blog.csdn.net/u012566181/article/details/49968283)
+
+
+## NodeJS
+- [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 
 ## 前端  
 ---
@@ -195,6 +216,7 @@ title: 书签
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
+- [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
 
 
 

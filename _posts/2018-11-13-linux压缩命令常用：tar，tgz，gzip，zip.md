@@ -1,8 +1,8 @@
 ---
 layout: post
 title: linux压缩命令常用：tar，tgz，gzip，zip
-description: inux压缩命令常用的有三个：tar，tgz，gzip，zip。
-tags: [https,ssl,openssl]
+description: linux压缩命令常用的有三个：tar，tgz，gzip，zip。
+tags: [linux压缩]
 ---
 
 linux压缩命令常用的有三个：tar，tgz，gzip，zip
