@@ -33,6 +33,7 @@ title: 书签
 - [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
 
 ## 消息队列
+- [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 
 ## 区块链
@@ -129,7 +130,7 @@ title: 书签
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 
 ### 组件
- - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small
+ - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
  - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
  - [iScroll 4](http://cubiq.org/iscroll-4)  - <small>是一款针对web app使用的滚动控件。[中文教程](http://www.cnblogs.com/duanhuajian/archive/2013/04/08/3008323.html)</small>
  - [Jvectormap](http://jvectormap.com/) - <small>用来显示矢量地图的jQuery插件</small>
