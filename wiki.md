@@ -42,6 +42,7 @@ title: 书签
 - [golang中json编码和解码](http://www.01happy.com/golang-json-encode-and-decode/)
 - [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
 - [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
+- [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
 
 ## 消息队列
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
