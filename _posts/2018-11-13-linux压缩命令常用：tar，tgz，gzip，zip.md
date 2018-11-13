@@ -9,7 +9,7 @@ linux压缩命令常用的有三个：tar，tgz，gzip，zip
 
 # 一，tar
 
-##（一） tar压缩命令
+## tar压缩命令
 ```bash
 tar -cvf examples.tar files|dir
 ```
@@ -26,7 +26,7 @@ tar -cvf file.tar file1 file2 #file1，file2文件
 tar -cvf file.tar dir         #dir目录
 ```
 
-##（二） tar 解压命令
+## tar 解压命令
 ```bash
 tar -xvf examples.tar （解压至当前目录下）
 tar -xvf examples.tar  -C /path (/path 解压至其它路径)
@@ -43,7 +43,7 @@ tar -xvf file.tar -C /temp  #解压到temp目录下
 
 # 二，tgz
 
-##（一） tgz压缩命令（tar.gz,tgz格式是相同的，命名不同而已）
+## tgz压缩命令（tar.gz,tgz格式是相同的，命名不同而已）
 ```bash
 tar -zcvf examples.tgz examples (examples当前执行路径下的目录)
 ```
@@ -54,7 +54,7 @@ tar -zcvf examples.tgz examples (examples当前执行路径下的目录)
 ## 举例：
 tar -zcvf file.tgz dir #dir目录
 
-##（二） tgz 解压命令
+## tgz 解压命令
 ```bash
 tar -zxvf examples.tar （解压至当前执行目录下）
 tar -zxvf examples.tar  -C /path (/path 解压至其它路径)
@@ -67,12 +67,12 @@ tar -zcvf file.tgz -C /temp
 ```
 # 三，gzip
 
-##（一）gzip压缩：
+## gzip压缩：
 ```bash
 gzip -d examples.gz examples
 ```
 
-##（二）gzip解压：
+## gzip解压：
 ```bash
 gunzip examples.gz
 ```
