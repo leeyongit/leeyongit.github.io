@@ -93,6 +93,7 @@ title: 书签
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
  - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
+ - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
 ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
