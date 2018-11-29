@@ -77,6 +77,9 @@ title: 书签
 ## Swoole
 ---
  - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
+ - [Swoole框架](https://wiki.swoole.com/wiki/index/prid-2)
+ - [easyswoole](https://www.easyswoole.com/)
+ - [swoft](https://www.swoft.org/)
  - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 
 ## 数据库
