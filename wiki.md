@@ -17,6 +17,7 @@ title: 书签
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [慕课网](http://www.imooc.com/)
  - [汇智网](http://www.hubwiz.com/course/)
+ - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 
 ## Golang
 - [Go 语言中文网](https://studygolang.com/)
@@ -44,15 +45,24 @@ title: 书签
 - [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
 - [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
 
-## NodeJS
-- [Hexo](https://hexo.io/zh-cn/)
-- [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
+## Python
+- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+- [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+- [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
 
-## 消息队列
+## 服务端开发
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
+- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
+- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
 
-
+## Swoole
+---
+ - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
+ - [Swoole框架](https://wiki.swoole.com/wiki/index/prid-2)
+ - [easyswoole](https://www.easyswoole.com/)
+ - [swoft](https://www.swoft.org/)
+ - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 
 ## PHP
 ---
@@ -74,15 +84,7 @@ title: 书签
  - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn) 
  - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
-## Swoole
----
- - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
- - [Swoole框架](https://wiki.swoole.com/wiki/index/prid-2)
- - [easyswoole](https://www.easyswoole.com/)
- - [swoft](https://www.swoft.org/)
- - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
-
-## 数据库
+## MySQL
 ---
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
@@ -90,14 +92,6 @@ title: 书签
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
-## Python
-- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
-
-## Docker
-- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
-
-## ELK
-- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
 
 ## 运维
 ---
@@ -117,9 +111,7 @@ title: 书签
  - [Linux下安装ffmpeg](http://blog.csdn.net/chfe007/article/details/42982975) 
  - [网站502与504错误分析](http://www.ttlsa.com/web/analysis-of-site-502-and-504-error/)  
  - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
-
-## Nginx
-- [关于limit_req和limit_conn的区别](https://blog.csdn.net/u012566181/article/details/49968283)
+ - [关于limit_req和limit_conn的区别](https://blog.csdn.net/u012566181/article/details/49968283)
 
 ## 区块链
 - [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
@@ -135,16 +127,22 @@ title: 书签
 - [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 - [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
 
-## 前端  
----
- - [权威的前端性能指南](http://browserdiet.com/zh/) 
- - [W3cplus](http://www.w3cplus.com/)
- - [W3cfuns](http://www.w3cfuns.com)
- - [前端里](http://www.yyyweb.com/)  
- - [梦想天空](http://www.cnblogs.com/lhb25/)
- - [Bootstrap中文网](http://www.bootcss.com/)
- - [helloweba](http://www.helloweba.com/)
- - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
+## 前端开发
+- [Hexo](https://hexo.io/zh-cn/)
+- [React 中文文档](https://react.docschina.org/)
+- [Vuejs](http://vuejs.org/)
+- [React](http://facebook.github.io/react/)
+- [Angular 中文网](http://www.angularjs.net.cn/)
+- [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
+- [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
+- [权威的前端性能指南](http://browserdiet.com/zh/) 
+- [W3cplus](http://www.w3cplus.com/)
+- [W3cfuns](http://www.w3cfuns.com)
+- [前端里](http://www.yyyweb.com/)  
+- [梦想天空](http://www.cnblogs.com/lhb25/)
+- [Bootstrap中文网](http://www.bootcss.com/)
+- [helloweba](http://www.helloweba.com/)
+- [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
 
 ### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -182,12 +180,6 @@ title: 书签
  - [前端技能汇总](https://github.com/benlingxiao/fks)
  - [ApproveJs](http://charlgottschalk.co.za/projects/approvejs)
  - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
-
-### JS框架
- - [Vuejs](http://vuejs.org/)
- - [React](http://facebook.github.io/react/)
- - [Angular](https://angularjs.org/)
- - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 
 ## 博客
 ---
