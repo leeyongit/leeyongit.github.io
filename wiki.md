@@ -6,20 +6,29 @@ title: 书签
 
 ## 技术社区&教程
 ---
- - [Laravel China 社区](https://phphub.org/) - 高品质的 Laravel 开发者社区
- - [Node.js专业中文社区](https://cnodejs.org/)
+ - [Laravel China 社区](https://laravel-china.org/) - 高品质的 Laravel 开发者社区
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
- - [菜鸟教程](http://www.runoob.com/)
  - [伯乐在线](http://blog.jobbole.com/)
- - [极客学院Wiki](http://wiki.jikexueyuan.com/)
- - [Codecasts](https://www.codecasts.com/)
+ - [歪麦博客](https://www.awaimai.com/)
+ - [狼叔 Node全栈](http://i5ting.com/)
+ - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+ - [韩天峰(Rango)的博客](http://rango.swoole.com/)
+ - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+ - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
+ - [风雪之隅](http://www.laruence.com/)
+ - [张晏](http://zyan.cc/)
+
+## 学习
+ - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
+ - [PHP Laravel Vue.js 视频教程 - CODECASTS](https://www.codecasts.com/)
  - [慕课网](http://www.imooc.com/)
  - [汇智网](http://www.hubwiz.com/course/)
- - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
+ - [极客学院](https://www.jikexueyuan.com/)
 
 ## Golang
+- [GolangCaff](https://golangcaff.com/)
 - [Go 语言中文网](https://studygolang.com/)
 - [Go 中国技术社区](https://gocn.io/)
 - [beego](https://beego.me/)
@@ -92,44 +101,12 @@ title: 书签
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
-
-## 运维
----
- - [LNMP](http://lnmp.org)
- - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
- - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
- - [运维生存时间](http://www.ttlsa.com/)
- - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
- - [nginx基本配置与参数说明](http://www.nginx.cn/76.html) 
- - [Web服务器性能/压力测试工具http_load、webbench、ab、Siege使用教程](http://www.vpser.net/opt/webserver-test.html)
- - [吞吐率、吞吐量、TPS、性能测试](https://ruby-china.org/topics/26221)
- - [在高负载的情况下的PHP-FPM调优](http://www.qixing318.com/article/in-the-case-of-high-load-of-php-fpm-tuning.html)
- - [php-fpm参数优化](https://blog.linuxeye.com/380.html)
- - [php配置php-fpm启动参数及配置详解](http://www.cnblogs.com/mingaixin/p/3794227.html)  
- - [使用Nginx-rtmp-module搭建hls直播](http://lib.csdn.net/article/liveplay/37293) 
- - [nginx+nginx-rtmp-module+ffmpeg搭建流媒体服务器](http://blog.csdn.net/redstarofsleep/article/details/45092147)
- - [Linux下安装ffmpeg](http://blog.csdn.net/chfe007/article/details/42982975) 
- - [网站502与504错误分析](http://www.ttlsa.com/web/analysis-of-site-502-and-504-error/)  
- - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
- - [关于limit_req和limit_conn的区别](https://blog.csdn.net/u012566181/article/details/49968283)
-
-## 区块链
-- [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
-- [Web3 js 文档](http://web3.tryblockchain.org/)
-- [Truffle 文档](http://truffle.tryblockchain.org/)
-- [Remix](https://remix.ethereum.org/)
-- [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
-- [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
-- [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
-- [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
-- [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
-- [Ethereum geth 同步区块的三种模式](https://blog.csdn.net/guokaikevin/article/details/79254785)
-- [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
-- [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
-
 ## 前端开发
+- [Node.js专业中文社区](https://cnodejs.org/)
+- [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
 - [React 中文文档](https://react.docschina.org/)
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [Vuejs](http://vuejs.org/)
 - [React](http://facebook.github.io/react/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
@@ -181,14 +158,41 @@ title: 书签
  - [ApproveJs](http://charlgottschalk.co.za/projects/approvejs)
  - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
 
-## 博客
+
+## 运维
 ---
- - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
- - [韩天峰(Rango)的博客](http://rango.swoole.com/)
- - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
- - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
- - [风雪之隅](http://www.laruence.com/)
- - [张晏](http://zyan.cc/)
+ - [LNMP](http://lnmp.org)
+ - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
+ - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
+ - [运维生存时间](http://www.ttlsa.com/)
+ - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
+ - [nginx基本配置与参数说明](http://www.nginx.cn/76.html) 
+ - [Web服务器性能/压力测试工具http_load、webbench、ab、Siege使用教程](http://www.vpser.net/opt/webserver-test.html)
+ - [吞吐率、吞吐量、TPS、性能测试](https://ruby-china.org/topics/26221)
+ - [在高负载的情况下的PHP-FPM调优](http://www.qixing318.com/article/in-the-case-of-high-load-of-php-fpm-tuning.html)
+ - [php-fpm参数优化](https://blog.linuxeye.com/380.html)
+ - [php配置php-fpm启动参数及配置详解](http://www.cnblogs.com/mingaixin/p/3794227.html)  
+ - [使用Nginx-rtmp-module搭建hls直播](http://lib.csdn.net/article/liveplay/37293) 
+ - [nginx+nginx-rtmp-module+ffmpeg搭建流媒体服务器](http://blog.csdn.net/redstarofsleep/article/details/45092147)
+ - [Linux下安装ffmpeg](http://blog.csdn.net/chfe007/article/details/42982975) 
+ - [网站502与504错误分析](http://www.ttlsa.com/web/analysis-of-site-502-and-504-error/)  
+ - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
+ - [关于limit_req和limit_conn的区别](https://blog.csdn.net/u012566181/article/details/49968283)
+
+## 区块链
+- [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
+- [Web3 js 文档](http://web3.tryblockchain.org/)
+- [Truffle 文档](http://truffle.tryblockchain.org/)
+- [Remix](https://remix.ethereum.org/)
+- [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
+- [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
+- [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
+- [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
+- [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
+- [Ethereum geth 同步区块的三种模式](https://blog.csdn.net/guokaikevin/article/details/79254785)
+- [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+- [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
+
 
 ## 收藏
 ---
@@ -216,6 +220,8 @@ title: 书签
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
+- [Mobile Detect](http://mobiledetect.net/)
+- [Medoo](https://medoo.in/)
 
 
 
