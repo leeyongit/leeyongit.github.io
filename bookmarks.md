@@ -4,7 +4,7 @@ title: 我的书签
 ---
 
 
-## 技术社区&教程
+## 技术社区&博客
 ---
  - [Laravel China 社区](https://laravel-china.org/) - 高品质的 Laravel 开发者社区
  - [Ruby-china](https://ruby-china.org/)
