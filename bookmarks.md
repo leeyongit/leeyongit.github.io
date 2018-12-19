@@ -135,14 +135,12 @@ title: 我的书签
 ### 组件
  - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
  - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
- - [iScroll 4](http://cubiq.org/iscroll-4)  - <small>是一款针对web app使用的滚动控件。[中文教程](http://www.cnblogs.com/duanhuajian/archive/2013/04/08/3008323.html)</small>
  - [Jvectormap](http://jvectormap.com/) - <small>用来显示矢量地图的jQuery插件</small>
  - [SweetAlert](https://github.com/t4t5/sweetalert) - <small>SweetAlert是一款使用纯js制作的消息警告框插件</small>
  - [UIKit](http://getuikit.com/)
  - [Amaze ~ 妹子 UI](http://amazeui.org/)
  - [Framework7](http://framework7.taobao.org/) - <small>特色的HTML框架-可以创建精美的iOS应用</small>
  - [GMU组件](http://gmu.baidu.com/) - <small>GMU是基于zepto的mobile UI组件库，提供webapp、pad端简单易用的UI组件!</small>
- - [MOYE](http://ecomfe.github.io/moye/index.html)-<small>一个轻便的UI组件库</small>
  - [Purecss](http://purecss.io)
  - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
  - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
@@ -155,7 +153,6 @@ title: 我的书签
  - [新浪云计算CDN公共库](http://lib.sinaapp.com/)
  - [前端开发仓库](http://code.ciaoca.com/#!)
  - [前端技能汇总](https://github.com/benlingxiao/fks)
- - [ApproveJs](http://charlgottschalk.co.za/projects/approvejs)
  - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
 
 
@@ -197,24 +194,17 @@ title: 我的书签
 ## 收藏
 ---
  - [认识与入门 Markdown](http://sspai.com/25137)
- - [Markdown编辑器](http://editor.integ.me/)
- - [Cayman-theme](http://jasonlong.github.io/cayman-theme/)
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
  - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
- - [豆瓣电影TOP250](http://movie.douban.com/top250)
- - [豆瓣图书Top250](http://book.douban.com/top250)
  - [天天看美剧](http://www.msj1.com/)
  - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
  - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
- - [Nginx(PHP/fastcgi)的PATH_INFO问题](http://www.laruence.com/2009/11/13/1138.html)
  - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-- [winsw](https://blog.csdn.net/u011054333/article/details/69992995) - <small>用winsw让任何Windows程序都能运行为服务</small>
 - [msdn-ITellYou](https://msdn.itellyou.cn/)
 - [Linux命令大全](http://man.linuxde.net/)
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [aria2](http://aria2.github.io/)
-- [Aria2 Manual](http://aria2.github.io/manual/en/html/index.html)
 - [文件合并](https://www.filesmerge.com/zh)
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
