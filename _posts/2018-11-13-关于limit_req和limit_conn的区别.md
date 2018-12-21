@@ -5,11 +5,11 @@ description: 首先，limit_req和limit_conn两个模块都是为了来限流的
 tags: [限流]
 ---
 
-> - 首先，limit_req和limit_conn两个模块都是为了来限流的，但是两者不在一个层面，为了搞清楚这个，必须先要弄清楚request和connection的区别，因为在很多情况下，我们把他们混淆了。
+> 首先，limit_req和limit_conn两个模块都是为了来限流的，但是两者不在一个层面，为了搞清楚这个，必须先要弄清楚request和connection的区别，因为在很多情况下，我们把他们混淆了。
 
 so, what is the difference  between connection and request? 
 
-> - connection是连接，即常说的tcp连接，通过三次握手而建立的一个完整状态机。建立一个连接，必须得要三次握手。
+> connection是连接，即常说的tcp连接，通过三次握手而建立的一个完整状态机。建立一个连接，必须得要三次握手。
 
 request是指请求，即http请求，（注意，tcp连接是有状态的，而构建在tcp之上的http却是无状态的协议）。
 
@@ -17,7 +17,7 @@ request是指请求，即http请求，（注意，tcp连接是有状态的，而
 
 好了现在知道区别了。
 
-> - 那么在Nginx中，对于连接限制模块：limit_conn_module来看：
+> 那么在Nginx中，对于连接限制模块：limit_conn_module来看：
 
 ```bash
 limit_conn_zone $binanry_remote_addr zone=conn_zone:1m;
@@ -49,7 +49,7 @@ ab -n100 -c100 -k http://yousit/limt.html
 
 这里的-k选秀就是表示keepalive，只开一个连接来发送这100个请求，即使是同时发送，那么server也不会认为你超过了，因为在一个时间你只是建立一个连接，这样这100个请求都会干净利落的处理完成。
 
-> - 再看limit_req_module 
+> 再看limit_req_module 
 
 ```bash
 limit_req_zone $binary_remtoe_addr zone=req_zone:1m rate=1r/s;

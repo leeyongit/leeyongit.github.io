@@ -11,7 +11,6 @@ title: 我的书签
  - [V2EX](http://www.v2ex.com/)
  - [伯乐在线](http://blog.jobbole.com/)
  - [歪麦博客](https://www.awaimai.com/)
- - [狼叔 Node全栈](http://i5ting.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
  - [韩天峰(Rango)的博客](http://rango.swoole.com/)
  - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
