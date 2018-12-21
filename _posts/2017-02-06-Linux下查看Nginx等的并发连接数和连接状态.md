@@ -87,7 +87,7 @@ ps -axef | grep mysqld -c
 ```
 
 
-## NGINX下PHP-FPM占用内存状态及进程数调整 
+### NGINX下PHP-FPM占用内存状态及进程数调整 
 
 ### 1.查看每个FPM的内存占用  
 
