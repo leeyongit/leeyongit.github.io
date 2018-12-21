@@ -20,6 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
+    - {title: 书签, description: 收藏夹, url: 'http://liyong.life/bookmarks'}
     - {title: 关于, description: 了解更多关于我, url: 'http://liyong.life/about'}
 
 # Pagination
