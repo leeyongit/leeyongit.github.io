@@ -9,8 +9,11 @@ $(document).ready(function() {
     if (currentWidth < 960) {
       $('.panel-cover').addClass('panel-cover--collapsed');
     } else {
-      $('.panel-cover').css('max-width',currentWidth);
-      $('.panel-cover').animate({'max-width': '700px', 'width': '30%'}, 400, swing = 'swing', function() {} );
+      $('.panel-cover').css('max-width', currentWidth);
+      $('.panel-cover').animate({
+        'max-width': '700px',
+        'width': '30%'
+      }, 400, swing = 'swing', function() {});
     }
   });
 
@@ -46,7 +49,15 @@ $(document).ready(function() {
 
       $('.navigation-wrapper').toggleClass('animated bounceInDown animated bounceOutUp');
     }
-    
+
     $('.btn-mobile-menu__icon').toggleClass('fa fa-list fa fa-angle-up animated fadeIn');
+  });
+  $('.post a').each(function(index, element) {
+    var href = $(this).attr('href');
+    if (href.indexOf('#') == 0) {} else if (href.indexOf('/') == 0 || href.toLowerCase().indexOf('liyong.life') > -1) {
+      $(this).attr('target', '_self');
+    } else {
+      $(this).attr('target', '_blank');
+    }
   });
 });

@@ -15,16 +15,3 @@ layout: default
   </section>
 </article>
 
-<script type="text/javascript">
-$(document).ready(function(){
-    $('.post a').each(function(index,element){
-        var href = $(this).attr('href');
-        if(href.indexOf('#') == 0){
-        }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('liyong.life')>-1 ){
-            $(this).attr('target','_self');
-        }else{
-            $(this).attr('target','_blank');
-        }
-    });
-});
-</script>
