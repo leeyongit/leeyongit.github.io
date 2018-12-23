@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-一个程序员。
+李永
+===
+<small>男 80 后</small>
 
-[我的github](https://github.com/leeyongit)
+一个热爱学习的web开发者。
 
-## 技能:
+### 综合技能
 
-* LINUX.
-* PHP&Python.
-* MySQL&Redis.  
+| 名称 | 熟悉程度
+|--:|:--|
+| PHP | ★★★★★ |
+| Golang | ★★★☆☆ |
+| Python | ★★☆☆☆ |
+| Linux | ★★★☆☆ |
+| Nodejs | ★★★☆☆ |
+| Docker | ★★★☆☆ |
+| Javascript | ★★☆☆☆ |
+| Markdown | ★★★★★ |
