@@ -3,7 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<style>
+table th:first-of-type {
+    width: 100px;
+}
+</style>
 李永
 ===
 <small>男 80 后</small>
