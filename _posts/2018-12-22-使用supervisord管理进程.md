@@ -49,12 +49,18 @@ supervisord -c /etc/supervisord.conf
 下面是Nginx配置进程的一个例子，**注意配置文件名的后缀**
 ```
 [program:nginx]
+process_name=%(program_name)s_%(process_num)02d
 command=/sbin/nginx                                   ; 程序路径
 autostart=true
 autorestart=true                                      ; 自动重启
 priority=999                                          ; 优先级
 startsecs=1                                           ; 重启前等待时间
 startretries=100                                      ; 最大重启次数
+user=www
+numprocs=8
+redirect_stderr=true                                  ; 如果为true，则stderr的日志会被写入stdout日志文件中默认为false，非必须设置
+stdout_logfile=/path/app.log                          ; 输出日志
+stderr_logfile=/path/app.log                          ; 错误日志
 ```
 > 一定要将被supervisor所管理的进程在**前台**运行，如果进程正在运行，请先关闭。
 
