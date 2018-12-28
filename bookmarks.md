@@ -67,6 +67,7 @@ title: 我的书签
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
 - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+- [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
 - [Swoole框架](https://wiki.swoole.com/wiki/index/prid-2)
 - [easyswoole](https://www.easyswoole.com/)
 - [swoft](https://www.swoft.org/)
