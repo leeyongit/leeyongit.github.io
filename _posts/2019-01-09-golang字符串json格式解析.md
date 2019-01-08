@@ -1,6 +1,6 @@
 ---
 layout: post
-title: golang 字符串 json格式解析
+title: golang字符串json格式解析
 description: 最近在用golang写关于微信方面的东西，首先遇到的就是将字符串转换成golang的json格式，利用corpid和corpsecret返回的是一个json格式的字符串，其格式如下：。
 tags: [golang,json]
 ---
