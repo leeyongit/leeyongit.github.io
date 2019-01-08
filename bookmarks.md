@@ -212,6 +212,13 @@ title: 我的书签
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
 - [Mobile Detect](http://mobiledetect.net/)
 - [Medoo](https://medoo.in/)
+- [easyicon](https://www.easyicon.net/)
+- [HTML5 up](https://html5up.net/)
+- [Android-studio](http://www.android-studio.org/)
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [BootCDN](https://www.bootcdn.cn/)
+- [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
+- [pexels](https://www.pexels.com/)
 
 
 
