@@ -26,6 +26,7 @@ title: 我的书签
  - [汇智网](http://www.hubwiz.com/course/)
  - [极客学院](https://www.jikexueyuan.com/)
  - [9lessons](http://www.9lessons.info)
+ - [并发编程网](http://ifeve.com)
 
 ## Golang
 - [GolangCaff](https://golangcaff.com/)
