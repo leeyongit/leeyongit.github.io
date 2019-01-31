@@ -36,25 +36,27 @@ title: 我的书签
 - [beego](https://beego.me/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [Go Packages](https://godoc.org/)
-- [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
-- [如何写 go 代码](https://studygolang.com/articles/2561)
-- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-- [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 - [Echo](https://echo.labstack.com/)
 - [GORM](http://gorm.io/zh_CN/)
 - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
+- [Most popular Go libraries](https://golanglibs.com/top)
+
+### golang 文章
+- [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
+- [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
+- [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
+- [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
+- [如何写 go 代码](https://studygolang.com/articles/2561)
+- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
+- [Go net/http包](https://studygolang.com/articles/9467)
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 - [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
-- [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-- [Go net/http包](https://studygolang.com/articles/9467)
-- [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
-- [Most popular Go libraries](https://golanglibs.com/top)
-- [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
-- [golang中用ssh和sftp库远程传输文件](http://www.01happy.com/golang-transfer-remote-file/)
-- [golang中json编码和解码](http://www.01happy.com/golang-json-encode-and-decode/)
-- [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
-- [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
 - [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
+- [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
+- [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
+- [golang中json编码和解码](http://www.01happy.com/golang-json-encode-and-decode/)
+- [golang中用ssh和sftp库远程传输文件](http://www.01happy.com/golang-transfer-remote-file/)
+- [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
 
 ## Python
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
@@ -107,8 +109,6 @@ title: 我的书签
 - [Node.js专业中文社区](https://cnodejs.org/)
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
-- [Angular 中文网](http://www.angularjs.net.cn/)
-- [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 - [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [权威的前端性能指南](http://browserdiet.com/zh/) 
 - [W3cplus](http://www.w3cplus.com/)
@@ -119,9 +119,14 @@ title: 我的书签
 - [helloweba](http://www.helloweba.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
 
+### Angular
+- [Angular 中文网](http://www.angularjs.net.cn/)
+- [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
+
 ### Vue
 - [Vuejs](http://vuejs.org/)
 - [Element UI](http://element-cn.eleme.io/#/zh-CN)
+- [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
 
 ### React
 - [React](http://facebook.github.io/react/)
