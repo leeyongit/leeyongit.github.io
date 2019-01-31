@@ -6,6 +6,7 @@ title: 我的书签
 
 ## 技术社区&博客
 ---
+ - [Learnku](https://learnku.com/)
  - [Laravel China 社区](https://laravel-china.org/) - 高品质的 Laravel 开发者社区
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
@@ -106,7 +107,6 @@ title: 我的书签
 - [Node.js专业中文社区](https://cnodejs.org/)
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
-- [Vuejs](http://vuejs.org/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 - [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
@@ -118,6 +118,10 @@ title: 我的书签
 - [Bootstrap中文网](http://www.bootcss.com/)
 - [helloweba](http://www.helloweba.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
+
+### Vue
+- [Vuejs](http://vuejs.org/)
+- [Element UI](http://element-cn.eleme.io/#/zh-CN)
 
 ### React
 - [React](http://facebook.github.io/react/)
