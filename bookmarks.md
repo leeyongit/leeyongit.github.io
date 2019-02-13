@@ -10,21 +10,14 @@ title: 我的书签
  - [Laravel China 社区](https://laravel-china.org/) - 高品质的 Laravel 开发者社区
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
- - [伯乐在线](http://blog.jobbole.com/)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
- - [韩天峰(Rango)的博客](http://rango.swoole.com/)
- - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
- - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
- - [风雪之隅](http://www.laruence.com/)
- - [张晏](http://zyan.cc/)
 
 ## 学习
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [PHP Laravel Vue.js 视频教程 - CODECASTS](https://www.codecasts.com/)
  - [慕课网](http://www.imooc.com/)
- - [汇智网](http://www.hubwiz.com/course/)
  - [极客学院](https://www.jikexueyuan.com/)
  - [9lessons](http://www.9lessons.info)
  - [并发编程网](http://ifeve.com)
@@ -232,6 +225,14 @@ title: 我的书签
 - [BootCDN](https://www.bootcdn.cn/)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [pexels](https://www.pexels.com/)
+
+## 博客
+---
+ - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+ - [韩天峰(Rango)的博客](http://rango.swoole.com/)
+ - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
+ - [风雪之隅](http://www.laruence.com/)
+ - [张晏](http://zyan.cc/)
 
 
 
