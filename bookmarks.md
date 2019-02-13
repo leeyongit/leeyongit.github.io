@@ -7,7 +7,6 @@ title: 我的书签
 ## 技术社区&博客
 ---
  - [Learnku](https://learnku.com/)
- - [Laravel China 社区](https://laravel-china.org/) - 高品质的 Laravel 开发者社区
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
  - [歪麦博客](https://www.awaimai.com/)
