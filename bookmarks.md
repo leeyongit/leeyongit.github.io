@@ -4,13 +4,14 @@ title: 我的书签
 ---
 
 
-## 技术社区&博客
+## 技术社区
 ---
  - [Learnku](https://learnku.com/)
- - [Ruby-china](https://ruby-china.org/)
- - [V2EX](http://www.v2ex.com/)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+ - [React Native中文网](https://reactnative.cn/)
+ - [Flutter中文网](https://flutterchina.club/)
+ - [Node.js专业中文社区](https://cnodejs.org/)
 
 ## 学习
  - [菜鸟教程](http://www.runoob.com/)
@@ -22,7 +23,6 @@ title: 我的书签
  - [并发编程网](http://ifeve.com)
 
 ## Golang
-- [GolangCaff](https://golangcaff.com/)
 - [Go 语言中文网](https://studygolang.com/)
 - [Go 中国技术社区](https://gocn.io/)
 - [beego](https://beego.me/)
@@ -98,7 +98,6 @@ title: 我的书签
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
 ## 前端开发
-- [Node.js专业中文社区](https://cnodejs.org/)
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
 - [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
@@ -124,7 +123,7 @@ title: 我的书签
 - [React](http://facebook.github.io/react/)
 - [React 中文文档](https://react.docschina.org/)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
-- [React Native中文网](https://reactnative.cn/)
+
 
 ### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -232,6 +231,11 @@ title: 我的书签
  - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
+
+## 社区
+---
+ - [Ruby-china](https://ruby-china.org/)
+ - [V2EX](http://www.v2ex.com/)
 
 
 
