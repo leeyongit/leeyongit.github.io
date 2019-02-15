@@ -37,12 +37,12 @@ func main() {
     0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
 
 下面我们把一个loop放在一个goroutine里跑，我们可以使用关键字`go`来定义并启动一个goroutine:
-
+```golang
 func main() {
     go loop() // 启动一个goroutine
     loop()
 }
-
+```
 这次的输出变成了:
 
     0 1 2 3 4 5 6 7 8 9
@@ -65,9 +65,9 @@ func main() {
 ```golang
 for thread in threads:
     thread.join()
-
-是的，我们也需要一个类似`join`的东西来阻塞住主线。那就是信道
 ```
+是的，我们也需要一个类似`join`的东西来阻塞住主线。那就是信道
+
 信道
 --
 
@@ -271,9 +271,9 @@ func main() {
 当缓冲信道达到满的状态的时候，就会表现出阻塞了，因为这时再也不能承载更多的数据了，「你们必须把 数据拿走，才可以流入数据」。
 
 在声明一个信道的时候，我们给make以第二个参数来指明它的容量(默认为0，即无缓冲):
-
+```golang
 var ch chan int = make(chan int, 2) // 写入2个元素都不会阻塞当前goroutine, 存储个数达到2的时候会阻塞
-
+```
 如下的例子，缓冲信道ch可以无缓冲的流入3个元素:
 ```golang
 func main() {
