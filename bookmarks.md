@@ -13,6 +13,7 @@ title: 我的书签
  - [Flutter中文网](https://flutterchina.club/)
  - [Node.js专业中文社区](https://cnodejs.org/)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
+ - [Redis 命令参考](http://redisdoc.com/index.html)
 
 ## 学习
 ***
@@ -25,6 +26,9 @@ title: 我的书签
  - [并发编程网](http://ifeve.com)
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
+ - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
+ - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
+ - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
 
 ## MacOS开发环境
 ***
@@ -59,6 +63,7 @@ title: 我的书签
 - [golang中json编码和解码](http://www.01happy.com/golang-json-encode-and-decode/)
 - [golang中用ssh和sftp库远程传输文件](http://www.01happy.com/golang-transfer-remote-file/)
 - [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
+- [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
 
 ## Python
 ***
@@ -111,6 +116,7 @@ title: 我的书签
 
 ## 前端开发
 ---
+- [Element](http://element-cn.eleme.io/#/zh-CN) - <small>一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库</small>
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
 - [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
