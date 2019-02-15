@@ -4,7 +4,7 @@ title: 我的书签
 ---
 
 
-## 技术社区
+## 热门
 ---
  - [Learnku](https://learnku.com/)
  - [歪麦博客](https://www.awaimai.com/)
@@ -12,15 +12,22 @@ title: 我的书签
  - [React Native中文网](https://reactnative.cn/)
  - [Flutter中文网](https://flutterchina.club/)
  - [Node.js专业中文社区](https://cnodejs.org/)
+ - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
 
 ## 学习
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [PHP Laravel Vue.js 视频教程 - CODECASTS](https://www.codecasts.com/)
+ - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
  - [慕课网](http://www.imooc.com/)
  - [极客学院](https://www.jikexueyuan.com/)
  - [9lessons](http://www.9lessons.info)
  - [并发编程网](http://ifeve.com)
+ - [掘金](https://juejin.im/)
+ - [segmentfault](https://segmentfault.com/)
+
+## MacOS开发环境
+- [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
+- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
 ## Golang
 - [Go 语言中文网](https://studygolang.com/)
@@ -39,7 +46,6 @@ title: 我的书签
 - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
 - [如何写 go 代码](https://studygolang.com/articles/2561)
-- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [Go net/http包](https://studygolang.com/articles/9467)
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 - [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
@@ -223,6 +229,7 @@ title: 我的书签
 - [BootCDN](https://www.bootcdn.cn/)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [pexels](https://www.pexels.com/)
+- [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 
 ## 博客
 ---
