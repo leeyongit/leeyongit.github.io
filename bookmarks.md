@@ -14,6 +14,7 @@ title: 我的书签
  - [Node.js专业中文社区](https://cnodejs.org/)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [Redis 命令参考](http://redisdoc.com/index.html)
+ - [OpenResty®](http://openresty.org/cn/)
 
 ## 学习
 ***
