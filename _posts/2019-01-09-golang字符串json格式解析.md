@@ -12,7 +12,7 @@ tags: [golang,json]
 ```
 我们可以把它转换成一个map[string]interface{}类型的数据，相关代码如下：
 
-```golang
+```go
 str:="{\"access_token\":\"uAUS6o5g-9rFWjYt39LYa7TKqiMVsIfCGPEN4IZzdAk5-T-ryVhL7xb8kYciuU_m\",\"expires_in\":7200}"
     var dat map[string]interface{}
     if err := json.Unmarshal([]byte(str), &dat); err == nil {
@@ -39,7 +39,7 @@ type weixintoken struct {
 ```
 注意相应变量首字母的大小写(首字母小写不可见，大写可见，具体查看golang的变量相关的内容)，将JSON绑定到结构体,结构体的字段一定要大写,否则不能绑定数据。
 
-```golang
+```go
     ret:="{\"access_token\":\"uAUS6o5g-9rFWjYt39LYa7TKqiMVsIfCGPEN4IZzdAk5-T-ryVhL7xb8kYciuU_m\",\"expires_in\":7200}"
     var config weixintoken
     if err := json.Unmarshal([]byte(ret), &config); err == nil {

@@ -20,7 +20,7 @@ goroutine
 Go语言中有个概念叫做goroutine, 这类似我们熟知的线程，但是更轻。
 
 以下的程序，我们串行地去执行两次`loop`函数:
-```.language-go
+```go
 func loop() {
     for i := 0; i < 10; i++ {
         fmt.Printf("%d ", i)
@@ -37,7 +37,7 @@ func main() {
     0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
 
 下面我们把一个loop放在一个goroutine里跑，我们可以使用关键字`go`来定义并启动一个goroutine:
-```golang
+```go
 func main() {
     go loop() // 启动一个goroutine
     loop()
@@ -52,7 +52,7 @@ func main() {
 原来，在goroutine还没来得及跑loop的时候，主函数已经退出了。
 
 main函数退出地太快了，我们要想办法阻止它过早地退出，一个办法是让main等待一下:
-```golang
+```go
 func main() {
     go loop()
     loop()
@@ -62,7 +62,7 @@ func main() {
 这次确实输出了两趟，目的达到了。
 
 可是采用等待的办法并不好，如果goroutine在结束的时候，告诉下主线说“Hey, 我要跑完了！”就好了， 即所谓阻塞主线的办法，回忆下我们[Python](http://lib.csdn.net/base/python "Python知识库")里面等待所有线程执行完毕的写法:
-```golang
+```go
 for thread in threads:
     thread.join()
 ```
@@ -80,7 +80,7 @@ var channel chan int = make(chan int)
 channel := make(chan int)
 ```
 那如何向信道存消息和取消息呢？ 一个例子:
-```golang
+```go
 func main() {
     var messages chan string = make(chan string)
     go func(message string) {
@@ -95,7 +95,7 @@ func main() {
 也就是说, 无缓冲的信道在取消息和存消息的时候都会挂起当前的goroutine，除非另一端已经准备好。
 
 比如以下的main函数和foo函数:
-```golang
+```go
 var ch chan int = make(chan int)
 
 func foo() {
@@ -108,7 +108,7 @@ func main() {
 }
 ```
 那既然信道可以阻塞当前的goroutine, 那么回到上一部分「goroutine」所遇到的问题「如何让goroutine告诉主线我执行完毕了」 的问题来, 使用一个信道来告诉主线即可:
-```golang
+```go
 var complete chan int = make(chan int)
 
 func loop() {
@@ -141,7 +141,7 @@ func main() {
 --
 
 一个死锁的例子:
-```golang
+```go
 func main() {
     ch := make(chan int)
     <- ch // 阻塞main goroutine, 信道c被锁
@@ -156,7 +156,7 @@ func main() {
 我发现死锁是一个很有意思的话题，这里有几个死锁的例子:
 
 1.  只在单一的goroutine里操作无缓冲信道，一定死锁。比如你只在main函数里操作信道:
-```golang    
+```go
     func main() {
         ch := make(chan int)
         ch <- 1 // 1流入信道，堵塞当前线, 没人取走数据信道不会打开
@@ -164,7 +164,7 @@ func main() {
     }
 ```    
 2.  如下也是一个死锁的例子:
-```golang   
+```go
     var ch1 chan int = make(chan int)
     var ch2 chan int = make(chan int)
     
@@ -181,7 +181,7 @@ func main() {
     其中主线等ch1中的数据流出，ch1等ch2的数据流出，但是ch2等待数据流入，两个goroutine都在等，也就是死锁。
     
 3.  其实，总结来看，为什么会死锁？非缓冲信道上如果发生了流入无流出，或者流出无流入，也就导致了死锁。或者这样理解 Go启动的所有goroutine里的非缓冲信道一定要一个线里存数据，一个线里取数据，要成对才行 。所以下面的示例一定死锁:
-```golang    
+```go
     c, quit := make(chan int), make(chan int)
     
     go func() {
@@ -199,7 +199,7 @@ func main() {
 但是，是否果真 所有不成对向信道存取数据的情况都是死锁?
 
 如下是个反例:
-```golang
+```go
 func main() {
     c := make(chan int)
 
@@ -215,7 +215,7 @@ func main() {
 最简单的，把没取走的数据取走，没放入的数据放入， 因为无缓冲信道不能承载数据，那么就赶紧拿走！
 
 具体来讲，就死锁例子3中的情况，可以这么避免死锁:
-```golang
+```go
 c, quit := make(chan int), make(chan int)
 
 go func() {
@@ -227,7 +227,7 @@ go func() {
 <-quit
 ```
 另一个解决办法是缓冲信道, 即设置c有一个数据的缓冲大小:
-```golang
+```go
 c := make(chan int, 1)
 ```
 这样的话，c可以缓存一个数据。也就是说，放入一个数据，c并不会挂起当前线, 再放一个才会挂起当前线直到第一个数据被其他goroutine取走, 也就是只阻塞在容量一定的时候，不达容量不阻塞。
@@ -240,7 +240,7 @@ c := make(chan int, 1)
 我们已经知道，无缓冲信道从不存储数据，流入的数据必须要流出才可以。
 
 观察以下的程序:
-```golang
+```go
 var ch chan int = make(chan int)
 
 func foo(id int) { //id: 这个routine的标号
@@ -271,11 +271,11 @@ func main() {
 当缓冲信道达到满的状态的时候，就会表现出阻塞了，因为这时再也不能承载更多的数据了，「你们必须把 数据拿走，才可以流入数据」。
 
 在声明一个信道的时候，我们给make以第二个参数来指明它的容量(默认为0，即无缓冲):
-```golang
+```go
 var ch chan int = make(chan int, 2) // 写入2个元素都不会阻塞当前goroutine, 存储个数达到2的时候会阻塞
 ```
 如下的例子，缓冲信道ch可以无缓冲的流入3个元素:
-```golang
+```go
 func main() {
     ch := make(chan int, 3)
     ch <- 1
@@ -288,7 +288,7 @@ func main() {
 也就是说，缓冲信道会在满容量的时候加锁。
 
 其实，缓冲信道是先进先出的，我们可以把缓冲信道看作为一个线程安全的队列：
-```golang
+```go
 func main() {
     ch := make(chan int, 3)
     ch <- 1
@@ -304,7 +304,7 @@ func main() {
 -----------
 
 你也许发现，上面的代码一个一个地去读取信道简直太费事了，Go语言允许我们使用`range`来读取信道:
-```golang
+```go
 func main() {
     ch := make(chan int, 3)
     ch <- 1
@@ -319,7 +319,7 @@ func main() {
 如果你执行了上面的代码，会报死锁错误的，原因是range不等到信道关闭是不会结束读取的。也就是如果 缓冲信道干涸了，那么range就会阻塞当前goroutine, 所以死锁咯。
 
 那么，我们试着避免这种情况，比较容易想到的是读到信道为空的时候就结束读取:
-```golang
+```go
 ch := make(chan int, 3)
 ch <- 1
 ch <- 2
@@ -334,7 +334,7 @@ for v := range ch {
 以上的方法是可以正常输出的，但是注意检查信道大小的方法不能在信道存取都在发生的时候用于取出所有数据，这个例子 是因为我们只在ch中存了数据，现在一个一个往外取，信道大小是递减的。
 
 另一个方式是显式地关闭信道:
-```golang
+```go
 ch := make(chan int, 3)
 ch <- 1
 ch <- 2
@@ -364,7 +364,7 @@ for v := range ch {
     
 
 对于方案1, 示例的代码大概会是这个样子:
-```golang
+```go
 var quit chan int // 只开一个信道
 
 func foo(id int) {
@@ -386,7 +386,7 @@ func main() {
 }
 ```
 对于方案2, 把信道换成缓冲1000的:
-```golang
+```go
 quit = make(chan int, count) // 容量1000
 ```
 其实区别仅仅在于一个是缓冲的，一个是非缓冲的。
