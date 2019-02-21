@@ -20,7 +20,7 @@ goroutine
 Go语言中有个概念叫做goroutine, 这类似我们熟知的线程，但是更轻。
 
 以下的程序，我们串行地去执行两次`loop`函数:
-```golang
+```.language-go
 func loop() {
     for i := 0; i < 10; i++ {
         fmt.Printf("%d ", i)
