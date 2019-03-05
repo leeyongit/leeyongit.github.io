@@ -21,8 +21,8 @@ blog_button:
 
 nav:
     - {title: Compose, description: Compose, url: 'http://blog.goeasy.dev/compose'}
-    - {title: 书签, description: 收藏夹, url: 'http://blog.goeasy.dev/bookmarks'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://blog.goeasy.dev/about'}
+    - {title: Favorites, description: Favorites, url: 'http://blog.goeasy.dev/favorites'}
+    - {title: About, description: About, url: 'http://blog.goeasy.dev/about'}
 
 # Pagination
 plugins: [jekyll-paginate]
