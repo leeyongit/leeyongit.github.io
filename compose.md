@@ -1,4 +1,4 @@
-|名称|用途说明|说明地址|
+|名称|用途说明|地址|
 |---|---|---|
 |[mashape/unirest-php](https://packagist.org/packages/mashape/unirest-php)|简单易用的HTTP请求库|[官网](http://unirest.io/)|
 |[guzzlehttp/guzzle](https://packagist.org/packages/guzzlehttp/guzzle)|功能强大的HTTP请求库|[文档](http://guzzlephp.org/)|
