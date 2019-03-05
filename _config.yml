@@ -2,7 +2,7 @@
 title: GoEasy
 subtitle: Learning is so easy
 welcome_message: 记录学习的点滴
-description: Hi, I'm leeyongit (@leeyongit)，from china. PHP & Golang developer.
+description: Hi, I'm leeyong, from china. PHP & Golang developer.
 creator: <a href="http://blog.goeasy.dev">@leeyongit</a>
 
 url: "http://blog.goeasy.dev"
@@ -16,7 +16,7 @@ highlighter: rouge
 cover_color: 
 
 blog_button:
-    title: 博客
+    title: Blog
     description: 访问博客
 
 nav:
@@ -42,4 +42,4 @@ social:
 # Google Analytics
 ga:
     id: 
-    host: liyong.life
+    host: blog.goeasy.dev
