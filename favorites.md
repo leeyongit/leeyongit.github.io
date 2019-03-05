@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 我的书签
+title: 收藏夹
 ---
 
 
-## 热门
+### 热门
 ---
  - [Learnku](https://learnku.com/)
  - [歪麦博客](https://www.awaimai.com/)
@@ -18,7 +18,7 @@ title: 我的书签
  - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  
-## 学习
+### 学习
 ***
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
@@ -33,12 +33,12 @@ title: 我的书签
  - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
  - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
 
-## MacOS开发环境
+### MacOS开发环境
 ***
 - [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
-## Golang
+### Golang
 ***
 - [Go 语言中文网](https://studygolang.com/)
 - [Go 中国技术社区](https://gocn.io/)
@@ -50,7 +50,7 @@ title: 我的书签
 - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 
-### golang 文章
+#### golang 文章
 ***
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 - [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
@@ -68,13 +68,13 @@ title: 我的书签
 - [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
 - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
 
-## Python
+### Python
 ***
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 - [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
 
-## 服务端开发
+### 服务端开发
 ***
 - [EMQ](http://www.emqtt.com)
 - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
@@ -89,7 +89,7 @@ title: 我的书签
 - [swoft](https://www.swoft.org/)
 - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 
-## PHP
+### PHP
 ---
  - [PHP-interview](https://xianyunyh.gitbooks.io/php-interview/content/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
@@ -110,7 +110,7 @@ title: 我的书签
  - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn) 
  - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
-## MySQL
+### MySQL
 ---
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
@@ -118,7 +118,7 @@ title: 我的书签
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
-## 前端开发
+### 前端开发
 ---
 - [Element](http://element-cn.eleme.io/#/zh-CN) - <small>一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库</small>
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
@@ -133,22 +133,22 @@ title: 我的书签
 - [helloweba](http://www.helloweba.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
 
-### Angular
+#### Angular
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
 
-### Vue
+#### Vue
 - [Vuejs](http://vuejs.org/)
 - [Element UI](http://element-cn.eleme.io/#/zh-CN)
 - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
 
-### React
+#### React
 - [React](http://facebook.github.io/react/)
 - [React 中文文档](https://react.docschina.org/)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 
 
-### JavaScript  
+#### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
  - [深入理解Javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) - <small>汤姆大叔的博客</small>
@@ -159,7 +159,7 @@ title: 我的书签
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 
-### 组件
+#### 组件
  - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
  - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
  - [Jvectormap](http://jvectormap.com/) - <small>用来显示矢量地图的jQuery插件</small>
@@ -183,7 +183,7 @@ title: 我的书签
  - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
 
 
-## 运维
+### 运维
 ---
  - [LNMP](http://lnmp.org)
  - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
@@ -203,7 +203,7 @@ title: 我的书签
  - [PHP的pm、pm.max_requests、memory_limit参数优化说明](http://www.cnblogs.com/adu0409/articles/3620748.html)
  - [关于limit_req和limit_conn的区别](https://blog.csdn.net/u012566181/article/details/49968283)
 
-## 区块链
+### 区块链
 - [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
 - [Web3 js 文档](http://web3.tryblockchain.org/)
 - [Truffle 文档](http://truffle.tryblockchain.org/)
@@ -218,7 +218,7 @@ title: 我的书签
 - [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
 
 
-## 收藏
+### 收藏
 ---
  - [认识与入门 Markdown](http://sspai.com/25137)
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
@@ -248,7 +248,7 @@ title: 我的书签
 - [pexels](https://www.pexels.com/)
 - [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 
-## 博客
+### 博客
 ---
  - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
  - [韩天峰(Rango)的博客](http://rango.swoole.com/)
@@ -256,7 +256,7 @@ title: 我的书签
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
 
-## 社区
+### 社区
 ---
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
