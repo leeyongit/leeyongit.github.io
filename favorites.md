@@ -73,6 +73,7 @@ title: 收藏夹
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 - [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
+- [Flask](http://flask.pocoo.org/)
 
 ### 服务端开发
 ***
