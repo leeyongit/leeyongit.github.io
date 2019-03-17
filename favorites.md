@@ -17,6 +17,7 @@ title: 收藏夹
  - [Elastic中文社区](https://elasticsearch.cn/)
  - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
+ - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
  
 ### 学习
 ***
@@ -147,6 +148,7 @@ title: 收藏夹
 - [React](http://facebook.github.io/react/)
 - [React 中文文档](https://react.docschina.org/)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
 
 
 #### JavaScript  
