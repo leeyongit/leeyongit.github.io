@@ -19,6 +19,27 @@ title: 收藏夹
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [Markdown转PDF](http://www.mdtr2pdf.com)
  - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
+
+### Apache Thrift ™
+- [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
+- [PHP RPC开发之Thrift](https://courages.us/archives/621)
+- [Thrift在php框架laravel中的应用](http://ju.outofmemory.cn/entry/272744)
+
+### Swoole
+- [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
+- [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
+- [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
+- [easyswoole](https://www.easyswoole.com/)
+- [swoft](https://www.swoft.org/)
+- [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
+
+### Kafka
+- [kafka中文教程](http://www.orchome.com/kafka/index)
+- [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
+
+### ReactNative
+- [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
+- [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
  
 ### 学习
 ***
@@ -77,20 +98,16 @@ title: 收藏夹
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
 - [Flask](http://docs.jinkan.org/docs/flask/)
 
-### 服务端开发
+### MQ
 ***
 - [EMQ](http://www.emqtt.com)
-- [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
-- [kafka中文教程](http://www.orchome.com/kafka/index)
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
+- [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
 - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
 - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
-- [Swoole框架](https://wiki.swoole.com/wiki/index/prid-2)
-- [easyswoole](https://www.easyswoole.com/)
-- [swoft](https://www.swoft.org/)
-- [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
+
 
 ### PHP
 ---
