@@ -20,8 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: Compose, description: Compose, url: 'http://blog.goeasy.dev/compose'}
-    - {title: Favorites, description: Favorites, url: 'http://blog.goeasy.dev/favorites'}
+    - {title: WIKI, description: Favorites, url: 'http://blog.goeasy.dev/wiki'}
     - {title: About, description: About, url: 'http://blog.goeasy.dev/about'}
 
 # Pagination
