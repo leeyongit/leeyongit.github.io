@@ -4,7 +4,7 @@ title: 收藏夹
 ---
 
 
-### 常用
+### 社区
 ---
  - [Learnku](https://learnku.com/)
  - [歪麦博客](https://www.awaimai.com/)
@@ -34,7 +34,7 @@ title: 收藏夹
 
 ### ReactNative
  - [React Native中文网](https://reactnative.cn/)
- - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/
+ - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
  - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
  - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
  - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
