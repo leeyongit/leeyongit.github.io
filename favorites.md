@@ -15,6 +15,7 @@ title: 收藏夹
  - [V2EX](http://www.v2ex.com/)
  
 ### Github 资源
+---
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
  - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
  - [前端技能汇总](https://github.com/benlingxiao/fks)
@@ -24,12 +25,37 @@ title: 收藏夹
  - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
  - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 
-### Apache Thrift ™
+
+### PHP
+---
+ - [PHP-interview](https://xianyunyh.gitbooks.io/php-interview/content/)
+ - [PHP之道](http://wulijun.github.io/php-the-right-way/)
+ - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
+ - [深入理解PHP内核](http://www.php-internals.com/)
+ - [Workerman](http://www.workerman.net/)
+ - [Symfony China](http://www.symfonychina.com/) 
+ - [Symfony文档](http://symfony.cn/docs/index.html#)
+ - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
+ - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
+ - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
+ - [LaraBase](http://larabase.com/)
+ - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
+ - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)   
+ - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
+ - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
+ - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
+ 
+#### PHP Library
+- [Mobile Detect](http://mobiledetect.net/)
+- [Medoo](https://medoo.in/)
+- [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
+
+#### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
 - [PHP RPC开发之Thrift](https://courages.us/archives/621)
 - [Thrift在php框架laravel中的应用](http://ju.outofmemory.cn/entry/272744)
 
-### Swoole
+#### Swoole
 - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
 - [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
 - [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
@@ -41,6 +67,19 @@ title: 收藏夹
 - [kafka中文教程](http://www.orchome.com/kafka/index)
 - [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
 
+#### Elasticsearch
+ - [Elastic中文社区](https://elasticsearch.cn/)
+ - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
+ - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+ - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
+
+
+#### React
+- [React](http://facebook.github.io/react/)
+- [React 中文文档](https://react.docschina.org/)
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+
 ### ReactNative
  - [React Native中文网](https://reactnative.cn/)
  - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
@@ -51,14 +90,6 @@ title: 收藏夹
 ### Flutter
 - [Flutter中文网](https://flutterchina.club/)
 - [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
-
-
-### Elasticsearch
- - [Elastic中文社区](https://elasticsearch.cn/)
- - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
- - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
- - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
-
 
 ### 学习
 ***
@@ -75,10 +106,6 @@ title: 收藏夹
  - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
  - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
 
-### MacOS开发环境
-***
-- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-
 ### Golang
 ***
 - [Go 语言中文网](https://studygolang.com/)
@@ -89,6 +116,7 @@ title: 收藏夹
 - [Echo](https://echo.labstack.com/)
 - [GORM](http://gorm.io/zh_CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
+- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
 #### golang 文章
 ***
@@ -128,32 +156,6 @@ title: 收藏夹
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
  - [nginx基本配置与参数说明](http://www.nginx.cn/76.html) 
 
-
-### PHP
----
- - [PHP-interview](https://xianyunyh.gitbooks.io/php-interview/content/)
- - [PHP之道](http://wulijun.github.io/php-the-right-way/)
- - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
- - [深入理解PHP内核](http://www.php-internals.com/)
- - [Workerman](http://www.workerman.net/)
- - [Symfony China](http://www.symfonychina.com/) 
- - [Symfony文档](http://symfony.cn/docs/index.html#)
- - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
- - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
- - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
- - [LaraBase](http://larabase.com/)
- - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
- - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)   
- - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
- - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
- - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
-
- 
-
-#### PHP Library
-- [Mobile Detect](http://mobiledetect.net/)
-- [Medoo](https://medoo.in/)
-- [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
 ### MySQL
 ---
@@ -213,12 +215,6 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [Vuejs](http://vuejs.org/)
 - [Element UI](http://element-cn.eleme.io/#/zh-CN)
 - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
-
-#### React
-- [React](http://facebook.github.io/react/)
-- [React 中文文档](https://react.docschina.org/)
-- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
 
 #### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
