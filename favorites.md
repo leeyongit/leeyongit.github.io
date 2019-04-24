@@ -191,15 +191,15 @@ title: 收藏夹
 - [PEEWEE基本使用](https://www.cnblogs.com/yxi-liu/p/8514763.html)
 
 ### Node.js
+---
 - [Node.js专业中文社区](https://cnodejs.org/)
-- [node.js使用leveldb](http://yijiebuyi.com/
+- [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 
 ### 前端开发
 ---
 - [Element](http://element-cn.eleme.io/#/zh-CN) - <small>一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库</small>
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
-blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [权威的前端性能指南](http://browserdiet.com/zh/) 
 - [W3cplus](http://www.w3cplus.com/)
 - [W3cfuns](http://www.w3cfuns.com)
