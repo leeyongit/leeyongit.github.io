@@ -13,6 +13,17 @@ title: 收藏夹
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
+ - [菜鸟教程](http://www.runoob.com/)
+ - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
+ - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
+ - [慕课网](http://www.imooc.com/)
+ - [极客学院](https://www.jikexueyuan.com/)
+ - [9lessons](http://www.9lessons.info)
+ - [并发编程网](http://ifeve.com)
+ - [掘金](https://juejin.im/)
+ - [segmentfault](https://segmentfault.com/)
+ - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
+ - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
  
 ### Github 资源
 ---
@@ -63,7 +74,7 @@ title: 收藏夹
 - [swoft](https://www.swoft.org/)
 - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 
-### Kafka
+#### Kafka
 - [kafka中文教程](http://www.orchome.com/kafka/index)
 - [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
 
@@ -79,6 +90,7 @@ title: 收藏夹
 - [React 中文文档](https://react.docschina.org/)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
+- [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
 
 ### ReactNative
  - [React Native中文网](https://reactnative.cn/)
@@ -91,20 +103,6 @@ title: 收藏夹
 - [Flutter中文网](https://flutterchina.club/)
 - [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
 
-### 学习
-***
- - [菜鸟教程](http://www.runoob.com/)
- - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
- - [慕课网](http://www.imooc.com/)
- - [极客学院](https://www.jikexueyuan.com/)
- - [9lessons](http://www.9lessons.info)
- - [并发编程网](http://ifeve.com)
- - [掘金](https://juejin.im/)
- - [segmentfault](https://segmentfault.com/)
- - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
- - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
- - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
 
 ### Golang
 ***
@@ -119,7 +117,6 @@ title: 收藏夹
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
 #### golang 文章
-***
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 - [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
