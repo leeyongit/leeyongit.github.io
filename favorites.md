@@ -108,6 +108,7 @@ a/1190000016272845)
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 
 ### Linux
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Linux命令大全](http://man.linuxde.net/)
 - [运维生存时间](http://www.ttlsa.com/)
 - [Linux运维日志](https://www.centos.bz/)
@@ -187,6 +188,18 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [helloweba](http://www.helloweba.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)  
 
+### 前端资源
+- [BootCDN](https://www.bootcdn.cn/)
+- [新浪云计算CDN公共库](http://lib.sinaapp.com/)
+- [前端开发仓库](http://code.ciaoca.com/#!)
+- [前端技能汇总](https://github.com/benlingxiao/fks)
+- [HTML5 up](https://html5up.net/)
+- [Free bootstrap login forms](https://uicookies.com/free-bootstrap-login-forms/)
+- [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
+- [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
+- [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
+- [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
+
 #### Angular
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [AngularJS入门的小Demo](http://zhujun24.github.io/2014/12/10/AngularJS%E5%85%A5%E9%97%A8%E7%9A%84%E5%B0%8FDemo/)
@@ -202,7 +215,6 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 
-
 #### JavaScript  
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
@@ -215,8 +227,7 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 
 #### 组件
- - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
- - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
+ 
  - [Jvectormap](http://jvectormap.com/) - <small>用来显示矢量地图的jQuery插件</small>
  - [SweetAlert](https://github.com/t4t5/sweetalert) - <small>SweetAlert是一款使用纯js制作的消息警告框插件</small>
  - [UIKit](http://getuikit.com/)
@@ -229,14 +240,8 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
  - [webuploader](http://fex.baidu.com/webuploader/)
  - [Echarts](http://echarts.baidu.com/index.html) 
  - [jquerytools](http://jquerytools.github.io/)  
- - [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
  - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
  - [zTtee](http://git.oschina.net/zTree/zTree_v3)-<small>加载完数据展开所有节点treeObj.expandAll(true);</small>
- - [新浪云计算CDN公共库](http://lib.sinaapp.com/)
- - [前端开发仓库](http://code.ciaoca.com/#!)
- - [前端技能汇总](https://github.com/benlingxiao/fks)
- - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
-
 
 ### 运维
 ---
@@ -276,19 +281,13 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
  - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
  - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-- [msdn-ITellYou](https://msdn.itellyou.cn/)
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
 - [easyicon](https://www.easyicon.net/)
-- [HTML5 up](https://html5up.net/)
-- [Android-studio](http://www.android-studio.org/)
-- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
-- [BootCDN](https://www.bootcdn.cn/)
 - [pexels](https://www.pexels.com/)
-- [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
 
 ### 博客
@@ -301,14 +300,16 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 
 
 ### 工具
+---
 - [在线计算文件Hash值](http://www.atool9.com/file_hash.php)
 - [Grok Debugger](http://grokdebug.herokuapp.com/)
 - [Markdown转PDF](http://www.mdtr2pdf.com)
 - [文件合并](https://www.filesmerge.com/zh)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
-
-
+- [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
+- [Android-studio](http://www.android-studio.org/)
+- [msdn-ITellYou](https://msdn.itellyou.cn/)
 
 
 
