@@ -84,8 +84,15 @@ title: 收藏夹
  - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
  - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
 
-
-#### React
+### MySQL
+---
+ - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
+ - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
+ - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
+ - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
+ - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
+ 
+### React
 - [React](http://facebook.github.io/react/)
 - [React 中文文档](https://react.docschina.org/)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
@@ -152,15 +159,6 @@ title: 收藏夹
  - [OpenResty®](http://openresty.org/cn/)
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
  - [nginx基本配置与参数说明](http://www.nginx.cn/76.html) 
-
-
-### MySQL
----
- - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
- - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
- - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
- - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
- - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
 ### Python
 ***
