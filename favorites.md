@@ -63,7 +63,6 @@ title: 收藏夹
  - [segmentfault](https://segmentfault.com/)
  - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
  - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
-a/1190000016272845)
  - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
 
 ### MacOS开发环境
