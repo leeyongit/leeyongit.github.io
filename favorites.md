@@ -9,21 +9,23 @@ title: 收藏夹
  - [Learnku](https://learnku.com/)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
- - [Redis 命令参考](http://redisdoc.com/index.html)
- - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
- - [慕课网](http://www.imooc.com/)
- - [极客学院](https://www.jikexueyuan.com/)
  - [9lessons](http://www.9lessons.info)
- - [并发编程网](http://ifeve.com)
- - [掘金](https://juejin.im/)
- - [segmentfault](https://segmentfault.com/)
- - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
- - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
+ - [Redis 命令参考](http://redisdoc.com/index.html)
+ - [Gulp 中文网](https://www.gulpjs.com.cn/)
+ - [Webpack 中文网](https://www.webpackjs.com/)
+ - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
+ 
+### 微服务
+ - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
+ - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+ - [Docker 中国](https://www.docker-cn.com/)
+ - [Docker 中文文档](https://docs.docker-cn.com/)
+
  
 ### Github 资源
 ---
@@ -286,6 +288,10 @@ title: 收藏夹
 - [easyicon](https://www.easyicon.net/)
 - [pexels](https://www.pexels.com/)
 - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
+- [慕课网](http://www.imooc.com/)
+- [极客学院](https://www.jikexueyuan.com/)
+- [掘金](https://juejin.im/)
+- [segmentfault](https://segmentfault.com/)
 
 ### 博客
 ---
