@@ -257,42 +257,6 @@ title: WIKI
  - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
  - [zTtee](http://git.oschina.net/zTree/zTree_v3)-<small>加载完数据展开所有节点treeObj.expandAll(true);</small>
 
-### 区块链
----
-- [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
-- [Web3 js 文档](http://web3.tryblockchain.org/)
-- [Truffle 文档](http://truffle.tryblockchain.org/)
-- [Remix](https://remix.ethereum.org/)
-- [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
-- [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
-- [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
-- [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
-- [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
-- [Ethereum geth 同步区块的三种模式](https://blog.csdn.net/guokaikevin/article/details/79254785)
-- [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
-- [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
-
-
-### 收藏
----
- - [认识与入门 Markdown](http://sspai.com/25137)
- - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
- - [天天看美剧](http://www.msj1.com/)
- - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
- - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
- - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-- [努努书坊](http://www.kanunu8.com/)
-- [句子迷](http://www.juzimi.com/)
-- [TOPIDE](http://www.topide.com/)
-- [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
-- [easyicon](https://www.easyicon.net/)
-- [pexels](https://www.pexels.com/)
-- [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
-- [慕课网](http://www.imooc.com/)
-- [极客学院](https://www.jikexueyuan.com/)
-- [掘金](https://juejin.im/)
-- [segmentfault](https://segmentfault.com/)
-
 ### 博客
 ---
  - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
@@ -314,5 +278,38 @@ title: WIKI
 - [Android-studio](http://www.android-studio.org/)
 - [msdn-ITellYou](https://msdn.itellyou.cn/)
 
+### 收藏
+---
+ - [认识与入门 Markdown](http://sspai.com/25137)
+ - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
+ - [天天看美剧](http://www.msj1.com/)
+ - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
+ - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
+ - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
+- [努努书坊](http://www.kanunu8.com/)
+- [句子迷](http://www.juzimi.com/)
+- [TOPIDE](http://www.topide.com/)
+- [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
+- [easyicon](https://www.easyicon.net/)
+- [pexels](https://www.pexels.com/)
+- [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
+- [慕课网](http://www.imooc.com/)
+- [极客学院](https://www.jikexueyuan.com/)
+- [掘金](https://juejin.im/)
+- [segmentfault](https://segmentfault.com/)
 
+### 区块链
+---
+- [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
+- [Web3 js 文档](http://web3.tryblockchain.org/)
+- [Truffle 文档](http://truffle.tryblockchain.org/)
+- [Remix](https://remix.ethereum.org/)
+- [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
+- [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
+- [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
+- [通过truffle部署以太坊智能合约](https://bitshuo.com/topic/584241f863baf1df6cad0d40)
+- [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
+- [Ethereum geth 同步区块的三种模式](https://blog.csdn.net/guokaikevin/article/details/79254785)
+- [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+- [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
 
