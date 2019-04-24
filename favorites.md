@@ -9,17 +9,12 @@ title: 收藏夹
  - [Learnku](https://learnku.com/)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
- - [React Native中文网](https://reactnative.cn/)
- - [Flutter中文网](https://flutterchina.club/)
- - [Node.js专业中文社区](https://cnodejs.org/)
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [OpenResty®](http://openresty.org/cn/)
- - [Elastic中文社区](https://elasticsearch.cn/)
- - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
- - [Markdown转PDF](http://www.mdtr2pdf.com)
- - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
-
+ - [Ruby-china](https://ruby-china.org/)
+ - [V2EX](http://www.v2ex.com/)
+ 
 ### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
 - [PHP RPC开发之Thrift](https://courages.us/archives/621)
@@ -38,9 +33,24 @@ title: 收藏夹
 - [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
 
 ### ReactNative
-- [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
-- [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
- 
+ - [React Native中文网](https://reactnative.cn/)
+ - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/
+ - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
+ - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
+ - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
+
+### Flutter
+- [Flutter中文网](https://flutterchina.club/)
+- [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
+
+
+### Elasticsearch
+ - [Elastic中文社区](https://elasticsearch.cn/)
+ - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
+ - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+ - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
+
+
 ### 学习
 ***
  - [菜鸟教程](http://www.runoob.com/)
@@ -54,11 +64,11 @@ title: 收藏夹
  - [segmentfault](https://segmentfault.com/)
  - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
  - [gulp学习笔记](http://www.cnblogs.com/huansky/p/6004257.html)
- - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
+a/1190000016272845)
+ - [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
 
 ### MacOS开发环境
 ***
-- [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
 ### Golang
@@ -91,22 +101,12 @@ title: 收藏夹
 - [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
 - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
 
-### Python
-***
-- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
-- [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
-- [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
-- [Flask](http://docs.jinkan.org/docs/flask/)
-
 ### MQ
 ***
 - [EMQ](http://www.emqtt.com)
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
 - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
-- [Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
-- [Elasticsearch](https://segmentfault.com/a/1190000006431332)
-- [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
 
 
 ### PHP
@@ -138,12 +138,29 @@ title: 收藏夹
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
+### Python
+***
+- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+- [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+- [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
+- [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
+- [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
+- [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
+- [Flask](http://docs.jinkan.org/docs/flask/)
+- [Flask中文学习网](http://flask123.sinaapp.com/)
+- [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
+- [PEEWEE基本使用](https://www.cnblogs.com/yxi-liu/p/8514763.html)
+
+### Node.js
+- [Node.js专业中文社区](https://cnodejs.org/)
+- [node.js使用leveldb](http://yijiebuyi.com/
+
 ### 前端开发
 ---
 - [Element](http://element-cn.eleme.io/#/zh-CN) - <small>一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库</small>
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Hexo](https://hexo.io/zh-cn/)
-- [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
+blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [权威的前端性能指南](http://browserdiet.com/zh/) 
 - [W3cplus](http://www.w3cplus.com/)
 - [W3cfuns](http://www.w3cfuns.com)
@@ -210,6 +227,7 @@ title: 收藏夹
  - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [运维生存时间](http://www.ttlsa.com/)
+ - [Linux运维日志](https://www.centos.bz/)
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
  - [nginx基本配置与参数说明](http://www.nginx.cn/76.html) 
  - [Web服务器性能/压力测试工具http_load、webbench、ab、Siege使用教程](http://www.vpser.net/opt/webserver-test.html)
@@ -247,13 +265,11 @@ title: 收藏夹
  - [天天看美剧](http://www.msj1.com/)
  - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
  - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
- - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 - [msdn-ITellYou](https://msdn.itellyou.cn/)
 - [Linux命令大全](http://man.linuxde.net/)
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [aria2](http://aria2.github.io/)
-- [文件合并](https://www.filesmerge.com/zh)
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
@@ -265,9 +281,10 @@ title: 收藏夹
 - [Android-studio](http://www.android-studio.org/)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [BootCDN](https://www.bootcdn.cn/)
-- [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
+
 - [pexels](https://www.pexels.com/)
 - [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
+- [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
 
 ### 博客
 ---
@@ -277,10 +294,14 @@ title: 收藏夹
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
 
-### 社区
----
- - [Ruby-china](https://ruby-china.org/)
- - [V2EX](http://www.v2ex.com/)
+
+### 工具
+- [在线计算文件Hash值](http://www.atool9.com/file_hash.php)
+- [Grok Debugger](http://grokdebug.herokuapp.com/)
+- [Markdown转PDF](http://www.mdtr2pdf.com)
+- [文件合并](https://www.filesmerge.com/zh)
+- [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
+- [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
 
 
 
