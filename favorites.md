@@ -14,6 +14,16 @@ title: 收藏夹
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
  
+### Github 资源
+ - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
+ - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+ - [前端技能汇总](https://github.com/benlingxiao/fks)
+ - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+ - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn) 
+ - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+ - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
+ - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
+
 ### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
 - [PHP RPC开发之Thrift](https://courages.us/archives/621)
@@ -78,14 +88,12 @@ title: 收藏夹
 - [Go Packages](https://godoc.org/)
 - [Echo](https://echo.labstack.com/)
 - [GORM](http://gorm.io/zh_CN/)
-- [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 
 #### golang 文章
 ***
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 - [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-- [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
 - [如何写 go 代码](https://studygolang.com/articles/2561)
 - [Go net/http包](https://studygolang.com/articles/9467)
@@ -139,7 +147,7 @@ title: 收藏夹
  - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
  - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
- - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn) 
+
  
 
 #### PHP Library
@@ -157,7 +165,6 @@ title: 收藏夹
 
 ### Python
 ***
-- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 - [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
@@ -191,7 +198,6 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 - [BootCDN](https://www.bootcdn.cn/)
 - [新浪云计算CDN公共库](http://lib.sinaapp.com/)
 - [前端开发仓库](http://code.ciaoca.com/#!)
-- [前端技能汇总](https://github.com/benlingxiao/fks)
 - [HTML5 up](https://html5up.net/)
 - [Free bootstrap login forms](https://uicookies.com/free-bootstrap-login-forms/)
 - [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
@@ -223,7 +229,7 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
  - [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
  - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
- - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+
 
 #### 组件
  
@@ -274,13 +280,11 @@ blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
 ### 收藏
 ---
  - [认识与入门 Markdown](http://sspai.com/25137)
- - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
  - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
  - [天天看美剧](http://www.msj1.com/)
  - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
  - [Getting Started with Redis, Chatting Application](http://www.9lessons.info/2014/01/getting-started-with-redis-chatting.html)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
