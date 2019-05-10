@@ -4,7 +4,7 @@ title: WIKI
 ---
 
 
-### 社区
+### 导航
 ---
  - [Learnku](https://learnku.com/)
  - [歪麦博客](https://www.awaimai.com/)
@@ -18,7 +18,6 @@ title: WIKI
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
 
-
 ### PHP
 ---
  - [PHP-interview](https://xianyunyh.gitbooks.io/php-interview/content/)
@@ -31,11 +30,12 @@ title: WIKI
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
+   - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [LaraBase](http://larabase.com/)
- - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)
- - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
- - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
+ - [伯乐在线](http://www.jobbole.com/)
+     - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
+     - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
 
 #### PHP Library
@@ -50,8 +50,8 @@ title: WIKI
 
 #### Swoole
 - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
-- [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
-- [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
+    + [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
+    + [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
 - [easyswoole](https://www.easyswoole.com/)
 - [swoft](https://www.swoft.org/)
 - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
@@ -110,18 +110,16 @@ title: WIKI
 - [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
 
 
-
-
 ### Python
 ***
 - [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
 - [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
-- [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
+    - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
 - [Flask](http://docs.jinkan.org/docs/flask/)
 - [Flask中文学习网](http://flask123.sinaapp.com/)
-- [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
+    - [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
 - [PEEWEE基本使用](https://www.cnblogs.com/yxi-liu/p/8514763.html)
 
 ### 微服务
