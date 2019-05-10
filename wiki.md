@@ -18,13 +18,6 @@ title: WIKI
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
 
-### 微服务
- - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
- - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
- - [Docker 中国](https://www.docker-cn.com/)
- - [Docker 中文文档](https://docs.docker-cn.com/)
-
-
 ### Github 资源
 ---
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
@@ -35,7 +28,6 @@ title: WIKI
  - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
  - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
  - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
-
 
 ### PHP
 ---
@@ -99,27 +91,6 @@ title: WIKI
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
 
-### React
----
-- [React](http://facebook.github.io/react/)
-- [React 中文文档](https://react.docschina.org/)
-- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
-
-#### ReactNative
- - [React Native中文网](https://reactnative.cn/)
- - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
- - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
- - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
- - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
-
-### Flutter
----
-- [Flutter中文网](https://flutterchina.club/)
-- [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
-
-
 ### Golang
 ***
 - [鸟窝](https://colobu.com/)
@@ -148,6 +119,24 @@ title: WIKI
 - [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
 - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
 
+### Python
+***
+- [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+- [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
+- [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
+- [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
+- [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
+- [Flask](http://docs.jinkan.org/docs/flask/)
+- [Flask中文学习网](http://flask123.sinaapp.com/)
+- [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
+- [PEEWEE基本使用](https://www.cnblogs.com/yxi-liu/p/8514763.html)
+
+### 微服务
+ - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
+ - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+ - [Docker 中国](https://www.docker-cn.com/)
+ - [Docker 中文文档](https://docs.docker-cn.com/)
+
 ### Linux
 ---
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
@@ -166,23 +155,31 @@ title: WIKI
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
  - [nginx基本配置与参数说明](http://www.nginx.cn/76.html)
 
-### Python
-***
-- [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
-- [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
-- [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
-- [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
-- [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
-- [Flask](http://docs.jinkan.org/docs/flask/)
-- [Flask中文学习网](http://flask123.sinaapp.com/)
-- [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
-- [PEEWEE基本使用](https://www.cnblogs.com/yxi-liu/p/8514763.html)
-
 ### Node.js
 ---
 - [Node.js专业中文社区](https://cnodejs.org/)
 - [Node.js中文文档](http://nodejs.cn/api/)
 - [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
+
+### React
+---
+- [React](http://facebook.github.io/react/)
+- [React 中文文档](https://react.docschina.org/)
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
+
+#### ReactNative
+ - [React Native中文网](https://reactnative.cn/)
+ - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
+ - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
+ - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
+ - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
+
+### Flutter
+---
+- [Flutter中文网](https://flutterchina.club/)
+- [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
 
 ### 前端开发
 ---
