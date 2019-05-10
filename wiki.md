@@ -18,16 +18,6 @@ title: WIKI
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
 
-### Github 资源
----
- - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
- - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
- - [前端技能汇总](https://github.com/benlingxiao/fks)
- - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
- - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
- - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
- - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
- - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 
 ### PHP
 ---
@@ -93,10 +83,17 @@ title: WIKI
 
 ### Golang
 ***
-- [鸟窝](https://colobu.com/)
 - [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
+- [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
 - [Go 语言中文网](https://studygolang.com/)
+  - [如何写 go 代码](https://studygolang.com/articles/2561)
+  - [Go net/http包](https://studygolang.com/articles/9467)
+  - [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
+  - [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
+- [鸟窝](https://colobu.com/)
+  - [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
+  - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
 - [beego](https://beego.me/)
 - [Gin](https://gin-gonic.com/)
 - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
@@ -108,16 +105,12 @@ title: WIKI
 #### golang 文章
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 - [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-- [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
-- [如何写 go 代码](https://studygolang.com/articles/2561)
-- [Go net/http包](https://studygolang.com/articles/9467)
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 - [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
-- [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
 - [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
-- [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
-- [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
-- [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
+
+
+
 
 ### Python
 ***
@@ -229,6 +222,16 @@ title: WIKI
  - [zTtee](http://git.oschina.net/zTree/zTree_v3)-<small>加载完数据展开所有节点treeObj.expandAll(true);</small>
  - [梦想天空](http://www.cnblogs.com/lhb25/)
 
+### Github 资源
+---
+ - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
+ - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+ - [前端技能汇总](https://github.com/benlingxiao/fks)
+ - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+ - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
+ - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+ - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
+ - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
 
 ### 博客
 ---
