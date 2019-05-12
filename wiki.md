@@ -8,13 +8,10 @@ title: WIKI
 ---
  - [Learnku](https://learnku.com/)
    + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
- - [歪麦博客](https://www.awaimai.com/)
- - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
  - [Ruby-china](https://ruby-china.org/)
  - [V2EX](http://www.v2ex.com/)
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [掘金](https://juejin.im/)
@@ -22,7 +19,6 @@ title: WIKI
 
 ### PHP
 ---
- - [PHP-interview](https://xianyunyh.gitbooks.io/php-interview/content/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
  - [深入理解PHP内核](http://www.php-internals.com/)
@@ -34,10 +30,12 @@ title: WIKI
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
    - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [LaraBase](http://larabase.com/)
+ - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
  - [伯乐在线](http://www.jobbole.com/)
      - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
      - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
+ - [PHP面试准备的资料](https://xianyunyh.gitbooks.io/php-interview/content/)
 
 #### PHP Library
 - [Mobile Detect](http://mobiledetect.net/)
@@ -242,7 +240,8 @@ title: WIKI
  - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
  - [风雪之隅](http://www.laruence.com/)
  - [张晏](http://zyan.cc/)
-
+ - [歪麦博客](https://www.awaimai.com/)
+ - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 ### 工具
 ---
