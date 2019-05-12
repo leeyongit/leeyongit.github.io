@@ -7,6 +7,7 @@ title: WIKI
 ### 导航
 ---
  - [Learnku](https://learnku.com/)
+   + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
  - [Ruby-china](https://ruby-china.org/)
@@ -14,7 +15,6 @@ title: WIKI
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
- - [9lessons](http://www.9lessons.info)
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
 
@@ -32,7 +32,6 @@ title: WIKI
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
    - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [LaraBase](http://larabase.com/)
- - [命令速查表 Laravel Cheat Sheet](https://cs.laravel-china.org)
  - [伯乐在线](http://www.jobbole.com/)
      - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
      - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
@@ -112,6 +111,7 @@ title: WIKI
 
 ### Python
 ***
+- [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 - [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
@@ -219,6 +219,8 @@ title: WIKI
  - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
  - [zTtee](http://git.oschina.net/zTree/zTree_v3)-<small>加载完数据展开所有节点treeObj.expandAll(true);</small>
  - [梦想天空](http://www.cnblogs.com/lhb25/)
+ - [easyicon](https://www.easyicon.net/)
+ - [pexels](https://www.pexels.com/)
 
 ### Github 资源
 ---
@@ -262,13 +264,12 @@ title: WIKI
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
-- [easyicon](https://www.easyicon.net/)
-- [pexels](https://www.pexels.com/)
 - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
 - [慕课网](http://www.imooc.com/)
 - [极客学院](https://www.jikexueyuan.com/)
 - [掘金](https://juejin.im/)
 - [segmentfault](https://segmentfault.com/)
+- [9lessons](http://www.9lessons.info)
 
 ### 区块链
 ---
