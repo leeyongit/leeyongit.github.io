@@ -112,7 +112,7 @@ title: WIKI
 ### Python
 ***
 - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
-- [Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+- [Scrapy 爬虫](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
 - [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
 - [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
@@ -120,7 +120,7 @@ title: WIKI
 - [Flask](http://docs.jinkan.org/docs/flask/)
 - [Flask中文学习网](http://flask123.sinaapp.com/)
     - [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
-- [PEEWEE基本使用](https://www.cnblogs.com/yxi-liu/p/8514763.html)
+- [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
 
 ### 微服务
  - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
