@@ -17,6 +17,8 @@ title: WIKI
  - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
  - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
+ - [掘金](https://juejin.im/)
+ - [segmentfault](https://segmentfault.com/)
 
 ### PHP
 ---
@@ -265,10 +267,6 @@ title: WIKI
 - [TOPIDE](http://www.topide.com/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
 - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
-- [慕课网](http://www.imooc.com/)
-- [极客学院](https://www.jikexueyuan.com/)
-- [掘金](https://juejin.im/)
-- [segmentfault](https://segmentfault.com/)
 - [9lessons](http://www.9lessons.info)
 
 ### 区块链
