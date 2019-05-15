@@ -40,7 +40,7 @@ title: WIKI
 #### PHP Library
 - [Mobile Detect](http://mobiledetect.net/)
 - [Medoo](https://medoo.in/)
-- [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
+  - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 
 #### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
@@ -212,6 +212,7 @@ title: WIKI
  - [UIKit](http://getuikit.com/)
  - [Amaze ~ 妹子 UI](http://amazeui.org/)
  - [Framework7](http://framework7.taobao.org/) - <small>特色的HTML框架-可以创建精美的iOS应用</small>
+ - [SUI Mobile (MSUI)](http://m.sui.taobao.org/components/)
  - [Purecss](http://purecss.io)
  - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
  - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
@@ -232,6 +233,8 @@ title: WIKI
  - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
  - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
  - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
+ - [Ethereum Docker](https://github.com/Capgemini-AIE/ethereum-docker)
+
 
 ### 博客
 ---
