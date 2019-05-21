@@ -56,6 +56,7 @@ title: WIKI
 - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 
 #### Kafka
+- [kafka中文社区](http://kafka.apachecn.org/)
 - [kafka中文教程](http://www.orchome.com/kafka/index)
 - [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
 
@@ -79,6 +80,7 @@ title: WIKI
  - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
+ - [MySQL高性能优化系列](https://www.cnblogs.com/huchong/tag/MySQL%E9%AB%98%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%B3%BB%E5%88%97/)
 
 ### Golang
 ***
@@ -158,6 +160,7 @@ title: WIKI
 - [React 中文文档](https://react.docschina.org/)
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
+- [reactstrap](https://reactstrap.github.io/)
 - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
 
 #### ReactNative
@@ -222,6 +225,7 @@ title: WIKI
  - [梦想天空](http://www.cnblogs.com/lhb25/)
  - [easyicon](https://www.easyicon.net/)
  - [pexels](https://www.pexels.com/)
+ - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
 
 ### Github 资源
 ---
@@ -234,6 +238,7 @@ title: WIKI
  - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
  - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
  - [Ethereum Docker](https://github.com/Capgemini-AIE/ethereum-docker)
+ - [Easy_Deepfakes_GUI](https://github.com/boehm-e/Easy_Deepfakes_GUI)
 
 
 ### 博客
@@ -245,6 +250,7 @@ title: WIKI
  - [张晏](http://zyan.cc/)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+ - [深予之个人博客](https://github.com/senntyou/blogs)
 
 ### 工具
 ---
@@ -267,6 +273,8 @@ title: WIKI
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
 - [TOPIDE](http://www.topide.com/)
+- [精品MAC应用分享](https://xclient.info/)
+- [MacX](https://www.macx.cn/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
 - [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
 - [9lessons](http://www.9lessons.info)
