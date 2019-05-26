@@ -44,6 +44,8 @@ title: WIKI
 
 #### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
+- [RPC框架-Thrift的使用](https://blog.csdn.net/rlanffy/article/details/51873022)
+- [Thrift使用-php](https://blog.csdn.net/xjc200808/article/details/51135934)
 - [PHP RPC开发之Thrift](https://courages.us/archives/621)
 - [Thrift在php框架laravel中的应用](http://ju.outofmemory.cn/entry/272744)
 
