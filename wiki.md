@@ -8,8 +8,6 @@ title: WIKI
 ---
  - [Learnku](https://learnku.com/)
    + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
- - [Ruby-china](https://ruby-china.org/)
- - [V2EX](http://www.v2ex.com/)
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [Redis 命令参考](http://redisdoc.com/index.html)
@@ -266,18 +264,6 @@ title: WIKI
 - [Android-studio](http://www.android-studio.org/)
 - [msdn-ITellYou](https://msdn.itellyou.cn/)
 
-### 收藏
----
- - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
-- [努努书坊](http://www.kanunu8.com/)
-- [句子迷](http://www.juzimi.com/)
-- [TOPIDE](http://www.topide.com/)
-- [精品MAC应用分享](https://xclient.info/)
-- [MacX](https://www.macx.cn/)
-- [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
-- [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
-- [9lessons](http://www.9lessons.info)
-
 ### 区块链
 ---
 - [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
@@ -287,3 +273,16 @@ title: WIKI
 - [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
 - [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 
+### 收藏夹
+---
+ - [Ruby-china](https://ruby-china.org/)
+ - [V2EX](http://www.v2ex.com/)
+ - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
+- [努努书坊](http://www.kanunu8.com/)
+- [句子迷](http://www.juzimi.com/)
+- [TOPIDE](http://www.topide.com/)
+- [精品MAC应用分享](https://xclient.info/)
+- [MacX](https://www.macx.cn/)
+- [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
+- [待产包](http://www.babytree.com/learn/specialtopic/daichanbao)
+- [9lessons](http://www.9lessons.info)
