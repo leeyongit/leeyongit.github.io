@@ -268,9 +268,6 @@ title: WIKI
 
 ### 收藏
 ---
- - [认识与入门 Markdown](http://sspai.com/25137)
- - [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
- - [Create a RESTful services using Slim PHP Framework](http://www.9lessons.info/2014/12/create-restful-services-using-slim-php.html)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 - [努努书坊](http://www.kanunu8.com/)
 - [句子迷](http://www.juzimi.com/)
@@ -284,14 +281,9 @@ title: WIKI
 ### 区块链
 ---
 - [Solidity 中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
-- [Web3 js 文档](http://web3.tryblockchain.org/)
 - [Truffle 文档](http://truffle.tryblockchain.org/)
 - [Remix](https://remix.ethereum.org/)
 - [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
 - [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
-- [Truffle开发入门](http://lib.csdn.net/article/blockchain/46143)
-- [区块链之以太坊初体验——以太坊平台学习总结](https://www.jianshu.com/p/5b4549c4fb68)
-- [Ethereum geth 同步区块的三种模式](https://blog.csdn.net/guokaikevin/article/details/79254785)
 - [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
-- [以太坊客户端Geth命令用法-参数详解](https://www.cnblogs.com/tinyxiong/p/7918706.html)
 
