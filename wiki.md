@@ -14,6 +14,7 @@ title: WIKI
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
+ - [学习总结](https://segmentfault.com/blog/kevin_ren)
 
 ### PHP
 ---
@@ -123,6 +124,7 @@ title: WIKI
 - [Flask中文学习网](http://flask123.sinaapp.com/)
     - [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
 - [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
+- [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 
 ### 微服务
  - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
