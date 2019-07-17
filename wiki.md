@@ -61,6 +61,9 @@ title: WIKI
 - [kafka中文社区](http://kafka.apachecn.org/)
 - [kafka中文教程](http://www.orchome.com/kafka/index)
 - [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
+- [PHP 处理kafka消息实例](http://www.dahouduan.com/2017/09/18/php-consume-kafka/)
+- [Kafka（一）Kafka是什么及基本概念](https://blog.51cto.com/littledevil/2134686)
+- [Kafka（二）Kafka集群搭建](https://blog.51cto.com/littledevil/2134694)
 
 #### Elasticsearch
  - [Elastic中文社区](https://elasticsearch.cn/)
