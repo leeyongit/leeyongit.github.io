@@ -40,6 +40,7 @@ title: WIKI
 - [Mobile Detect](http://mobiledetect.net/)
 - [Medoo](https://medoo.in/)
   - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
+- [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
 
 #### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
@@ -66,6 +67,7 @@ title: WIKI
  - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
  - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
  - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
+ - [Elasticsearch推荐插件篇(head,sense,marvel)](https://www.cnblogs.com/xing901022/p/5962722.html)
 
 #### MQ
 ***
@@ -73,6 +75,21 @@ title: WIKI
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
 - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
 - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
+
+### 分布式
+---
+#### zookeeper
+  - [Zookeeper教程](https://www.w3cschool.cn/zookeeper/?)
+  - [php-zookeeper](https://github.com/andreiz/php-zookeeper)
+  - [ZooKeeper集群安装配置](https://yq.aliyun.com/articles/698320?spm=a2c4e.11163080.searchblog.71.1d992ec1Q6J2b9)
+  - [简单理解Zookeeper的Leader选举](https://blog.csdn.net/chengyuqiang/article/details/79190061)
+  - [Zookeeper知识点整理](https://segmentfault.com/a/1190000012730375)
+  - [可能是全网把 ZooKeeper 概念讲的最清楚的一篇文章](https://zhuanlan.zhihu.com/p/44348274)
+  - [徒手教你使用zookeeper编写服务发现](https://zhuanlan.zhihu.com/p/34156758)
+  - [Zookeeper：分布式系统入门到实战-youtube](https://www.youtube.com/watch?v=BhosKsE8up8)
+  - [基于ZooKeeper和Thrift构建动态RPC调用](https://blog.csdn.net/likewindy/article/details/51352179)
+  - [Zookeeper知识点](https://www.cnblogs.com/cjsblog/p/9682648.html)
+
 
 ### MySQL
 ---
@@ -88,6 +105,7 @@ title: WIKI
 - [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
+- [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
 - [Go 语言中文网](https://studygolang.com/)
   - [如何写 go 代码](https://studygolang.com/articles/2561)
   - [Go net/http包](https://studygolang.com/articles/9467)
@@ -138,6 +156,9 @@ title: WIKI
 - [Linux命令大全](http://man.linuxde.net/)
 - [运维生存时间](http://www.ttlsa.com/)
 - [Linux运维日志](https://www.centos.bz/)
+- [Packages Search - pkgs.org](https://pkgs.org/)
+- [Remi's RPM repository](https://rpms.remirepo.net/)
+- [CentOS常用环境、软件](https://spldeolin.com/posts/centos-softwares/)
 - [aria2](http://aria2.github.io/)
  - [LNMP](http://lnmp.org)
  - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
@@ -256,6 +277,7 @@ title: WIKI
 
 ### 工具
 ---
+- [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线计算文件Hash值](http://www.atool9.com/file_hash.php)
 - [Grok Debugger](http://grokdebug.herokuapp.com/)
 - [Markdown转PDF](http://www.mdtr2pdf.com)
