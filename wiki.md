@@ -65,12 +65,16 @@ title: WIKI
 #### Elasticsearch
  - [Elastic中文社区](https://elasticsearch.cn/)
  - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
+ - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
  - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
  - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
  - [Elasticsearch推荐插件篇(head,sense,marvel)](https://www.cnblogs.com/xing901022/p/5962722.html)
 
 #### MQ
 ***
+- [RabbitMQ 从入门到放弃系列笔记（一）：核心概念及术语](https://laravelacademy.org/post/7401.html)
+- [Mac部署 PHP、RabbitMQ](https://blog.csdn.net/u012460314/article/details/82467952)
+- [PHP 下基于 php-amqp 扩展的 RabbitMQ 简单用例 (四) -- Push API 和 Pull API](https://www.cnblogs.com/fxyy/p/10590812.html)
 - [EMQ](http://www.emqtt.com)
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
 - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
@@ -82,6 +86,7 @@ title: WIKI
   - [Zookeeper教程](https://www.w3cschool.cn/zookeeper/?)
   - [php-zookeeper](https://github.com/andreiz/php-zookeeper)
   - [ZooKeeper集群安装配置](https://yq.aliyun.com/articles/698320?spm=a2c4e.11163080.searchblog.71.1d992ec1Q6J2b9)
+  - [php zookeeper你需要知道的细节](https://www.onmpw.com/tm/xwzj/prolan_227.html)
   - [简单理解Zookeeper的Leader选举](https://blog.csdn.net/chengyuqiang/article/details/79190061)
   - [Zookeeper知识点整理](https://segmentfault.com/a/1190000012730375)
   - [可能是全网把 ZooKeeper 概念讲的最清楚的一篇文章](https://zhuanlan.zhihu.com/p/44348274)
