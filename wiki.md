@@ -37,10 +37,15 @@ title: WIKI
  - [PHP面试准备的资料](https://xianyunyh.gitbooks.io/php-interview/content/)
 
 #### PHP Library
+- [whoops](http://filp.github.io/whoops/)
 - [Mobile Detect](http://mobiledetect.net/)
 - [Medoo](https://medoo.in/)
   - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 - [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
+- [Requests for PHP](http://requests.ryanmccue.info/)
+- [PHP Captcha library](https://github.com/Gregwar/Captcha)
+- [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
+- [Upload](https://github.com/brandonsavage/Upload)
 
 #### Apache Thrift ™
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
@@ -110,6 +115,7 @@ title: WIKI
 
 ### Golang
 ***
+- [go mod](https://goproxy.io/zh/)
 - [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
@@ -130,6 +136,8 @@ title: WIKI
 - [GORM](http://gorm.io/zh_CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
+- [gojsonq](https://github.com/thedevsaddam/gojsonq)
+- [location](https://github.com/gin-contrib/location)<small>gin middleware to expose the server's hostname and scheme</small>
 
 #### golang 文章
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
