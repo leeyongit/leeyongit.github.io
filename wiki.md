@@ -10,7 +10,6 @@ title: WIKI
    + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [Redis 命令参考](http://redisdoc.com/index.html)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
@@ -106,12 +105,19 @@ title: WIKI
 
 ### MySQL
 ---
+ - [程序员，知道Mysql中ACID的原理吗？](https://zhuanlan.zhihu.com/p/65281198)
  - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
  - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
  - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
  - [MySQL高性能优化系列](https://www.cnblogs.com/huchong/tag/MySQL%E9%AB%98%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%B3%BB%E5%88%97/)
+
+### Redis
+- [Redis 命令参考](http://redisdoc.com/index.html)
+- [为什么一定要有redis？](https://zhuanlan.zhihu.com/p/59168140)
+- [面试官:你的Redis怎么持久化的?](https://zhuanlan.zhihu.com/p/68402040)
+- [Redis及缓存雪崩、缓存穿透](https://zhuanlan.zhihu.com/p/58265935)
 
 ### Golang
 ***
@@ -160,6 +166,7 @@ title: WIKI
     - [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
 - [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
+- [pyecharts](https://pyecharts.org/#/zh-cn/intro)
 
 ### 微服务
  - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
