@@ -177,9 +177,9 @@ title: WIKI
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
 - [grpc 笔记](https://learnku.com/articles/23573/grpc-notes)
 - [gRPC之metadata(译)](http://ralphbupt.github.io/2017/05/27/gRPC%E4%B9%8Bmetadata/)
-- [gRPC双向数据流的交互控制（go语言实现）| gRPC双向数据流的交互控制系列(1)](https://www.jianshu.com/p/5158d6686769)
-- [通过Websocket与gRPC交互 | gRPC双向数据流的交互控制系列(2)](https://www.jianshu.com/p/b325a2848275)
-- [通过Nginx实现gRPC服务的负载均衡 | gRPC双向数据流的交互控制系列（3）](https://www.jianshu.com/p/611d586f58cd)
+- [gRPC双向数据流的交互控制](https://www.jianshu.com/p/5158d6686769)
+- [通过Websocket与gRPC交互](https://www.jianshu.com/p/b325a2848275)
+- [通过Nginx实现gRPC服务的负载均衡](https://www.jianshu.com/p/611d586f58cd)
 - [Golang系列（五）之Golang指针](https://blog.csdn.net/huwh_/article/details/77879970)
 
 #### golang 文章
