@@ -16,7 +16,10 @@ title: WIKI
  - [学习总结](https://segmentfault.com/blog/kevin_ren)
 
 ### 微服务
----
+ - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
+ - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+ - [Docker 中国](https://www.docker-cn.com/)
+ - [Docker 中文文档](https://docs.docker-cn.com/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
  - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
  - [Spring Boot 2.X 最全课程代码](https://github.com/ityouknow/spring-boot-leaning)
@@ -139,6 +142,7 @@ title: WIKI
 - [为什么一定要有redis？](https://zhuanlan.zhihu.com/p/59168140)
 - [面试官:你的Redis怎么持久化的?](https://zhuanlan.zhihu.com/p/68402040)
 - [Redis及缓存雪崩、缓存穿透](https://zhuanlan.zhihu.com/p/58265935)
+- [Redis 内存分析方法](https://www.alibabacloud.com/help/zh/doc-detail/50037.htm)
 
 ### Golang
 ***
@@ -172,7 +176,9 @@ title: WIKI
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
 - [grpc 笔记](https://learnku.com/articles/23573/grpc-notes)
 - [gRPC之metadata(译)](http://ralphbupt.github.io/2017/05/27/gRPC%E4%B9%8Bmetadata/)
-
+- [gRPC双向数据流的交互控制（go语言实现）| gRPC双向数据流的交互控制系列(1)](https://www.jianshu.com/p/5158d6686769)
+- [通过Websocket与gRPC交互 | gRPC双向数据流的交互控制系列(2)](https://www.jianshu.com/p/b325a2848275)
+- [通过Nginx实现gRPC服务的负载均衡 | gRPC双向数据流的交互控制系列（3）](https://www.jianshu.com/p/611d586f58cd)
 
 #### golang 文章
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
@@ -196,12 +202,6 @@ title: WIKI
 - [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
-
-### 微服务
- - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
- - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
- - [Docker 中国](https://www.docker-cn.com/)
- - [Docker 中文文档](https://docs.docker-cn.com/)
 
 ### Linux
 ---
