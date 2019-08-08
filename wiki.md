@@ -15,6 +15,19 @@ title: WIKI
  - [segmentfault](https://segmentfault.com/)
  - [学习总结](https://segmentfault.com/blog/kevin_ren)
 
+### 微服务
+---
+ - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
+ - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
+ - [Spring Boot 2.X 最全课程代码](https://github.com/ityouknow/spring-boot-leaning)
+ - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+ - [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
+ - [Spring Boot 中文导航](http://springboot.fun/)
+ - [Spring Initializr](https://start.spring.io/)
+ - [Spring Boot(一)：入门篇](https://www.cnblogs.com/ityouknow/p/5662753.html)
+ - [SpringBoot的web项目启动方式](https://blog.csdn.net/qq_30945875/article/details/83151042)
+ - [phprpc](https://github.com/kaiyulee/phprpc)<small>The PHP RPC Micro Service Framework</small>
+
 ### PHP
 ---
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
@@ -50,8 +63,10 @@ title: WIKI
 - [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
 - [RPC框架-Thrift的使用](https://blog.csdn.net/rlanffy/article/details/51873022)
 - [Thrift使用-php](https://blog.csdn.net/xjc200808/article/details/51135934)
-- [PHP RPC开发之Thrift](https://courages.us/archives/621)
 - [Thrift在php框架laravel中的应用](http://ju.outofmemory.cn/entry/272744)
+- [RPC 框架 thrift 在 PHP 结合 Laravel 使用](https://icharle.com/thriftrpcphplaravel.html)
+- [RPC 框架之 thrift 学习笔记之一](https://icharle.com/rpcthrift.html)
+- [RPC 框架之 thrift 学习笔记之二](https://icharle.com/rpcthrifttwo.html)
 
 #### Swoole
 - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
@@ -112,6 +127,12 @@ title: WIKI
  - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
  - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
  - [MySQL高性能优化系列](https://www.cnblogs.com/huchong/tag/MySQL%E9%AB%98%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%B3%BB%E5%88%97/)
+ - [MySQL主从复制配置](https://www.cnblogs.com/cjsblog/p/9706370.html)
+ - [MySQL主从同步报错故障处理集锦](https://www.cnblogs.com/wangxin37/p/6398755.html)
+ - [使用 RDS for MySQL 配置到自建数据库的主从复制](https://yq.aliyun.com/articles/66087)
+ - [mysql主从只同步部分库或表](https://blog.csdn.net/sj349781478/article/details/77731344)
+ - [使用Keepalived实现MySQL主主高可用](https://www.helloweba.net/server/547.html)
+
 
 ### Redis
 - [Redis 命令参考](http://redisdoc.com/index.html)
@@ -121,7 +142,7 @@ title: WIKI
 
 ### Golang
 ***
-- [go mod](https://goproxy.io/zh/)
+- [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为 Go 模块而生</small>
 - [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
@@ -134,6 +155,8 @@ title: WIKI
 - [鸟窝](https://colobu.com/)
   - [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
   - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
+  - [gRPC的那些事 - streaming](https://colobu.com/2017/04/06/dive-into-gRPC-streaming/)
+  - [[转]Protobuf3 语法指南](https://colobu.com/2017/03/16/Protobuf3-language-guide/)
 - [beego](https://beego.me/)
 - [Gin](https://gin-gonic.com/)
 - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
@@ -144,6 +167,12 @@ title: WIKI
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [gojsonq](https://github.com/thedevsaddam/gojsonq)
 - [location](https://github.com/gin-contrib/location)<small>gin middleware to expose the server's hostname and scheme</small>
+
+#### gRPC
+- [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
+- [grpc 笔记](https://learnku.com/articles/23573/grpc-notes)
+- [gRPC之metadata(译)](http://ralphbupt.github.io/2017/05/27/gRPC%E4%B9%8Bmetadata/)
+
 
 #### golang 文章
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
