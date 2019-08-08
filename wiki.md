@@ -30,6 +30,7 @@ title: WIKI
  - [Spring Boot(一)：入门篇](https://www.cnblogs.com/ityouknow/p/5662753.html)
  - [SpringBoot的web项目启动方式](https://blog.csdn.net/qq_30945875/article/details/83151042)
  - [phprpc](https://github.com/kaiyulee/phprpc)<small>The PHP RPC Micro Service Framework</small>
+ - [go 微服务，api网关使用gin](https://github.com/YinYongTao/gin-micro)
 
 ### PHP
 ---
@@ -179,6 +180,7 @@ title: WIKI
 - [gRPC双向数据流的交互控制（go语言实现）| gRPC双向数据流的交互控制系列(1)](https://www.jianshu.com/p/5158d6686769)
 - [通过Websocket与gRPC交互 | gRPC双向数据流的交互控制系列(2)](https://www.jianshu.com/p/b325a2848275)
 - [通过Nginx实现gRPC服务的负载均衡 | gRPC双向数据流的交互控制系列（3）](https://www.jianshu.com/p/611d586f58cd)
+- [Golang系列（五）之Golang指针](https://blog.csdn.net/huwh_/article/details/77879970)
 
 #### golang 文章
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
@@ -186,6 +188,11 @@ title: WIKI
 - [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
 - [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
 - [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
+- [go语言的数组和切片区别](https://www.cnblogs.com/charlieroro/archive/2018/03/22/8626119.html)
+- [Go database/sql 教程](https://zhgxun.github.io/2017/07/19/go-database/)
+- [go语言操作mysql范例（增删查改）](https://blog.csdn.net/JesseYoung/article/details/40398321)
+- [golang学习之旅：使用go语言操作mysql数据库](https://studygolang.com/articles/3022)
+- [gin+gorm+router 快速搭建 crud restful API 接口](https://learnku.com/articles/23548/gingormrouter-quickly-build-crud-restful-api-interface)
 
 
 ### Python
