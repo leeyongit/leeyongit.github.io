@@ -13,7 +13,18 @@ title: WIKI
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
- - [学习总结](https://segmentfault.com/blog/kevin_ren)
+ - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
+### 环境搭建
+ - [CentOS 7 安装 LNMP 环境（PHP7 + MySQL5.7 + Nginx1.10）](https://segmentfault.com/a/1190000009012613)
+ - [CentOS 7安装最新 PHP 7.2，MySQL 5.7和Nginx](https://www.daguanren.cc/post/php_nginx_mysql_installation_guide.html)
+ - [PHP 7.2 on CentOS/RHEL 7.5 via Yum](https://webtatic.com/packages/php72/)
+
+### 知识点
+ - [使用wireshark抓包读懂tcp三次握手，四次挥手](https://juejin.im/post/5cdbdd3bf265da03b57b7cf1)
+ - [抽象类和接口的区别，使用场景](https://blog.csdn.net/xcbeyond/article/details/7667733)
+ - [分布式与集群的区别是什么？](https://www.zhihu.com/question/20004877)
+ - [聊聊高可用架构——异地多活](https://yq.aliyun.com/articles/59149)
 
 ### 微服务
  - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
@@ -51,6 +62,11 @@ title: WIKI
      - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
  - [PHP面试准备的资料](https://xianyunyh.gitbooks.io/php-interview/content/)
+ - [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
+ - [JWT 完整使用详解](https://learnku.com/articles/10885/full-use-of-jwt)
+ - [php firebase/php-jwt token验证](https://blog.csdn.net/cjs5202001/article/details/80228937)
+ - [laravel5.5+dingo+JWT开发后台API](https://segmentfault.com/a/1190000016942328?utm_source=tag-newest)
+ - [Laravel5.5 api token 用法](http://www.dahouduan.com/2017/09/18/laravel55-api-token/)
 
 #### PHP Library
 - [whoops](http://filp.github.io/whoops/)
@@ -79,6 +95,7 @@ title: WIKI
 - [easyswoole](https://www.easyswoole.com/)
 - [swoft](https://www.swoft.org/)
 - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
+- [Laravel如何优雅的使用Swoole](https://blog.csdn.net/jhope/article/details/86480422)
 
 #### Kafka
 - [kafka中文社区](http://kafka.apachecn.org/)
@@ -101,6 +118,7 @@ title: WIKI
 - [RabbitMQ 从入门到放弃系列笔记（一）：核心概念及术语](https://laravelacademy.org/post/7401.html)
 - [Mac部署 PHP、RabbitMQ](https://blog.csdn.net/u012460314/article/details/82467952)
 - [PHP 下基于 php-amqp 扩展的 RabbitMQ 简单用例 (四) -- Push API 和 Pull API](https://www.cnblogs.com/fxyy/p/10590812.html)
+- [PHP 连接 Rabbitmq 实例代码](http://www.dahouduan.com/2017/11/23/php-rabbitmq-demo/)
 - [EMQ](http://www.emqtt.com)
 - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
 - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
@@ -136,6 +154,8 @@ title: WIKI
  - [使用 RDS for MySQL 配置到自建数据库的主从复制](https://yq.aliyun.com/articles/66087)
  - [mysql主从只同步部分库或表](https://blog.csdn.net/sj349781478/article/details/77731344)
  - [使用Keepalived实现MySQL主主高可用](https://www.helloweba.net/server/547.html)
+ - [MySQL5.7 主从复制配置](https://segmentfault.com/a/1190000010199283)
+ - [MySQL区间分组查询](https://segmentfault.com/a/1190000015058360)
 
 
 ### Redis
@@ -225,6 +245,7 @@ title: WIKI
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [吞吐率、吞吐量、TPS、性能测试](https://ruby-china.org/topics/26221)
  - [php配置php-fpm启动参数及配置详解](http://www.cnblogs.com/mingaixin/p/3794227.html)
+ - [Git撤销&回滚操作](https://blog.csdn.net/ligang2585116/article/details/71094887)
 
 #### Nginx
  - [OpenResty®](http://openresty.org/cn/)
