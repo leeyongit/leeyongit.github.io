@@ -14,6 +14,9 @@ title: WIKI
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
  - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+ - [Ant Design](https://ant.design/index-cn)
+ - [layui 文档](https://www.layui.com/doc/)
+ - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
 
 ### 环境搭建
  - [CentOS 7 安装 LNMP 环境（PHP7 + MySQL5.7 + Nginx1.10）](https://segmentfault.com/a/1190000009012613)
@@ -249,6 +252,7 @@ title: WIKI
 
 #### Nginx
  - [OpenResty®](http://openresty.org/cn/)
+ - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
  - [nginx基本配置与参数说明](http://www.nginx.cn/76.html)
 
