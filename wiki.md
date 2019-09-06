@@ -30,6 +30,7 @@ title: WIKI
  - [聊聊高可用架构——异地多活](https://yq.aliyun.com/articles/59149)
 
 ### 微服务
+ - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
  - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
  - [Docker 中国](https://www.docker-cn.com/)
