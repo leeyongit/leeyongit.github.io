@@ -292,7 +292,6 @@ title: WIKI
 - [Hexo](https://hexo.io/zh-cn/)
 - [权威的前端性能指南](http://browserdiet.com/zh/)
 - [W3cplus](http://www.w3cplus.com/)
-- [W3cfuns](http://www.w3cfuns.com)
 - [前端里](http://www.yyyweb.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)
