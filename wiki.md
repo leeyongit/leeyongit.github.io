@@ -172,6 +172,7 @@ title: WIKI
 ### Golang
 ***
 - [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为 Go 模块而生</small>
+- [Hugo中文文档](https://www.gohugo.org/)
 - [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
