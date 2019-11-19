@@ -17,7 +17,7 @@ title: WIKI
  - [Ant Design](https://ant.design/index-cn)
  - [layui 文档](https://www.layui.com/doc/)
  - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
- - [awesome-php](https://github.com/JingwenTian/awesome-php)
+
 
 ### 环境搭建
  - [CentOS 7 安装 LNMP 环境（PHP7 + MySQL5.7 + Nginx1.10）](https://segmentfault.com/a/1190000009012613)
@@ -58,6 +58,7 @@ title: WIKI
  - [Workerman](http://www.workerman.net/)
  - [Symfony China](http://www.symfonychina.com/)
  - [Symfony文档](http://symfony.cn/docs/index.html#)
+ - [awesome-php](https://github.com/JingwenTian/awesome-php)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
@@ -295,11 +296,13 @@ title: WIKI
 - [Gulp 中文网](https://www.gulpjs.com.cn/)
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Webpack 中文网](https://www.webpackjs.com/)
+- [axios中文网](http://www.axios-js.com/)
 - [Hexo](https://hexo.io/zh-cn/)
 - [权威的前端性能指南](http://browserdiet.com/zh/)
 - [W3cplus](http://www.w3cplus.com/)
 - [前端里](http://www.yyyweb.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
+- [jQuery WeUI](http://jqweui.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [Vuejs](https://cn.vuejs.org/index.html)
