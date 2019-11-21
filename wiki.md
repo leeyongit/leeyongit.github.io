@@ -43,11 +43,13 @@ title: WIKI
 ### JAVA
  - [Spring Initializr](https://start.spring.io/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
- - [mybatis](https://mybatis.org/mybatis-3/zh/index.html)
+ - [Spring Data JPA ——默认方法使用](https://segmentfault.com/a/1190000011067941)
+ - [SpringBoot + MyBatis（注解版）](https://blog.csdn.net/larger5/article/details/79616058)
+ - [SpringCloud 教程](https://www.cnblogs.com/jinjiyese153/category/1182033.html)
  - [精通 Spring Boot 42 讲](https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a/topic/5b864c65e15aa17d68b5db58)
  - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
  - [SpringBoot的web项目启动方式](https://blog.csdn.net/qq_30945875/article/details/83151042)
- - [Spring Boot 中文导航](http://springboot.fun/)
+
  - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
 
 ### PHP
@@ -374,11 +376,9 @@ title: WIKI
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线计算文件Hash值](http://www.atool9.com/file_hash.php)
 - [Grok Debugger](http://grokdebug.herokuapp.com/)
-- [Markdown转PDF](http://www.mdtr2pdf.com)
 - [文件合并](https://www.filesmerge.com/zh)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
-- [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 - [Android-studio](http://www.android-studio.org/)
 - [msdn-ITellYou](https://msdn.itellyou.cn/)
 
