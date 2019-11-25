@@ -20,9 +20,11 @@ title: WIKI
 
 ### Dart & Flutter
 ---
-- [Dart中文网](http://dart.goodev.org/)
 - [Flutter中文网](https://flutterchina.club/)
+- [Flutter Codelabs](https://codelabs.flutter-io.cn/)
 - [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
+- [Flutter基础视频教程](https://www.bilibili.com/video/av35800108?from=search&seid=16738387368219153988)
+- [使用 Flutter 快速构建美观又高性能的移动应用](https://www.bilibili.com/video/av27857568/)
 - [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
 
 ### 知识点
