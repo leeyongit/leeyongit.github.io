@@ -21,7 +21,7 @@ blog_button:
 
 nav:
     - {title: Bookmark, description: Favorites, url: 'http://zibo.one/bookmark'}
-    - {title: About, description: About, url: 'http://zibo.one/about'}
+    # - {title: About, description: About, url: 'http://zibo.one/about'}
 
 # Pagination
 plugins: [jekyll-paginate]
