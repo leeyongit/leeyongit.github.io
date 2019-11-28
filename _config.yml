@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: WIKI, description: Favorites, url: 'http://zibo.one/wiki'}
+    - {title: Bookmark, description: Favorites, url: 'http://zibo.one/wiki'}
     - {title: About, description: About, url: 'http://zibo.one/about'}
 
 # Pagination

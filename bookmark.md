@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WIKI
+title: Bookmark
 ---
 
 
@@ -21,6 +21,7 @@ title: WIKI
 ### Dart & Flutter
 ---
 - [Flutter中文网](https://flutterchina.club/)
+  - [Flutter实战](https://book.flutterchina.club/)
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
 - [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
 - [Flutter基础视频教程](https://www.bilibili.com/video/av35800108?from=search&seid=16738387368219153988)
@@ -379,7 +380,7 @@ title: WIKI
 ### 工具
 ---
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
-- [在线计算文件Hash值](http://www.atool9.com/file_hash.php)
+- [在线工具 VIP](https://atool.vip/#/)
 - [Grok Debugger](http://grokdebug.herokuapp.com/)
 - [文件合并](https://www.filesmerge.com/zh)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
