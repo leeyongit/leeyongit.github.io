@@ -1,8 +1,8 @@
 # Basic
-title: liyong's Blog
-subtitle: Learning is so easy
+title: LiYong Blog
+subtitle: Miracles happen every day.
 welcome_message: 记录学习的点滴
-description: Hi, I'm Li Yong.
+description: Life was like a box of chocolates, you never know what you're going to get.
 creator: <a href="http://zibo.one">@leeyongit</a>
 
 url: "http://zibo.one"
@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: Bookmark, description: Favorites, url: 'http://zibo.one/wiki'}
+    - {title: Bookmark, description: Favorites, url: 'http://zibo.one/bookmark'}
     - {title: About, description: About, url: 'http://zibo.one/about'}
 
 # Pagination
