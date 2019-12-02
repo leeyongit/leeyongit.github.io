@@ -20,6 +20,8 @@ title: Bookmark
 
 ### Dart & Flutter
 ---
+- [Dart](https://www.dartcn.com/)
+- [一文了解Dart语法](https://juejin.im/post/5c52a386f265da2de25b5c36#heading-26)
 - [Flutter中文网](https://flutterchina.club/)
   - [Flutter实战](https://book.flutterchina.club/)
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
