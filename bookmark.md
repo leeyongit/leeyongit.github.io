@@ -398,13 +398,6 @@ title: Bookmark
 - [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
 - [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 
-### 知识点
----
- - [使用wireshark抓包读懂tcp三次握手，四次挥手](https://juejin.im/post/5cdbdd3bf265da03b57b7cf1)
- - [抽象类和接口的区别，使用场景](https://blog.csdn.net/xcbeyond/article/details/7667733)
- - [分布式与集群的区别是什么？](https://www.zhihu.com/question/20004877)
- - [聊聊高可用架构——异地多活](https://yq.aliyun.com/articles/59149)
-
 ### 收藏夹
 ---
  - [Ruby-china](https://ruby-china.org/)
