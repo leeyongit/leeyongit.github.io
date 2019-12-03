@@ -29,13 +29,8 @@ title: Bookmark
 - [使用 Flutter 快速构建美观又高性能的移动应用](https://www.bilibili.com/video/av27857568/)
 - [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
 
-### 知识点
- - [使用wireshark抓包读懂tcp三次握手，四次挥手](https://juejin.im/post/5cdbdd3bf265da03b57b7cf1)
- - [抽象类和接口的区别，使用场景](https://blog.csdn.net/xcbeyond/article/details/7667733)
- - [分布式与集群的区别是什么？](https://www.zhihu.com/question/20004877)
- - [聊聊高可用架构——异地多活](https://yq.aliyun.com/articles/59149)
-
 ### 微服务
+---
  - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
  - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
  - [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
@@ -44,12 +39,14 @@ title: Bookmark
 - [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
 
 ### K8s & Docker
+---
  - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
  - [Docker 中国](https://www.docker-cn.com/)
  - [Docker 中文文档](https://docs.docker-cn.com/)
 
 ### JAVA
+---
  - [Spring Initializr](https://start.spring.io/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
  - [SpringBoot 入门教程](https://www.cnblogs.com/toutou/p/9650939.html)
@@ -400,6 +397,13 @@ title: Bookmark
 - [以太坊编程的简单介绍 Part-1](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-1)
 - [以太坊编程简的单介绍 Part 2](http://ethfans.org/posts/a-gentle-introduction-to-ethereum-programming-part-2)
 - [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+
+### 知识点
+---
+ - [使用wireshark抓包读懂tcp三次握手，四次挥手](https://juejin.im/post/5cdbdd3bf265da03b57b7cf1)
+ - [抽象类和接口的区别，使用场景](https://blog.csdn.net/xcbeyond/article/details/7667733)
+ - [分布式与集群的区别是什么？](https://www.zhihu.com/question/20004877)
+ - [聊聊高可用架构——异地多活](https://yq.aliyun.com/articles/59149)
 
 ### 收藏夹
 ---
