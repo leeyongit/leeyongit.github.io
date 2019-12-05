@@ -16,6 +16,7 @@ title: Bookmark
  - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
  - [Ant Design](https://ant.design/index-cn)
  - [layui 文档](https://www.layui.com/doc/)
+ - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 
 ### Dart & Flutter
 ---
@@ -36,14 +37,7 @@ title: Bookmark
  - [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
  - [go 微服务，api网关使用gin](https://github.com/YinYongTao/gin-micro)
  - [phprpc](https://github.com/kaiyulee/phprpc)<small>The PHP RPC Micro Service Framework</small>
-- [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
-
-### K8s & Docker
----
- - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
- - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
- - [Docker 中国](https://www.docker-cn.com/)
- - [Docker 中文文档](https://docs.docker-cn.com/)
+ - [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
 
 ### JAVA
 ---
