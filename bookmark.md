@@ -4,19 +4,20 @@ title: Bookmark
 ---
 
 
-### 学习站点
+### 综合学习
 ---
- - [Learnku](https://learnku.com/)
-   + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
- - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+ - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+
+### UI
  - [Ant Design](https://ant.design/index-cn)
  - [layui 文档](https://www.layui.com/doc/)
- - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+ - [Element UI](http://element-cn.eleme.io/#/zh-CN)
+ - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+ - [jQuery WeUI](http://jqweui.com/)
 
 ### Dart & Flutter
 ---
@@ -54,6 +55,8 @@ title: Bookmark
 
 ### PHP
 ---
+ - [PHP-Interview](https://xianyunyh.gitbooks.io/php-interview/)
+ - [大话设计模式](https://hulin.gitbook.io/design-patterns-by-php/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
  - [深入理解PHP内核](http://www.php-internals.com/)
@@ -62,6 +65,8 @@ title: Bookmark
  - [Symfony文档](http://symfony.cn/docs/index.html#)
  - [awesome-php](https://github.com/JingwenTian/awesome-php)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
+ - [Learnku laravel](https://learnku.com/laravel)
+   + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
  - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
    - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
@@ -179,17 +184,23 @@ title: Bookmark
 
 ### Golang
 ***
+- [Go 中文官方网站](https://go-zh.org/)
+- [Go 学习之路](https://github.com/developer-learning/learning-golang)
 - [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为 Go 模块而生</small>
+- [Casbin](https://casbin.org/zh-CN/)
 - [Hugo中文文档](https://www.gohugo.org/)
 - [GO WEB IRIS](https://studyiris.com/)
 - [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
 - [beego](https://beego.me/)
+- [跟煎鱼学GO](https://book.eddycjy.com/golang/)
 - [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
 - [Echo](https://echo.labstack.com/) - [echo 中文文档](http://go-echo.org/)
 - [GORM](http://gorm.io/zh_CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
+- [[译]Golang中的依赖注入](https://segmentfault.com/a/1190000016140106)
+- [Golang几种依赖注入的实现](https://luncher.github.io/2018/12/26/Golang%E5%87%A0%E7%A7%8D%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 - [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
 - [Go 语言中文网](https://studygolang.com/)
   - [如何写 go 代码](https://studygolang.com/articles/2561)
@@ -272,6 +283,7 @@ title: Bookmark
 
 ### Node.js
 ---
+- [Hexo](https://hexo.io/zh-cn/)
 - [Node.js专业中文社区](https://cnodejs.org/)
 - [Node.js中文文档](http://nodejs.cn/api/)
 - [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
@@ -299,17 +311,14 @@ title: Bookmark
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Webpack 中文网](https://www.webpackjs.com/)
 - [axios中文网](http://www.axios-js.com/)
-- [Hexo](https://hexo.io/zh-cn/)
 - [权威的前端性能指南](http://browserdiet.com/zh/)
 - [W3cplus](http://www.w3cplus.com/)
 - [前端里](http://www.yyyweb.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
-- [jQuery WeUI](http://jqweui.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [Vuejs](https://cn.vuejs.org/index.html)
-- [Element UI](http://element-cn.eleme.io/#/zh-CN)
-- [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+- [BootCDN](https://www.bootcdn.cn/)
 
 #### JavaScript
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -319,32 +328,19 @@ title: Bookmark
  - [AJAX 跨域请求 - JSONP获取JSON数据](http://justcoding.iteye.com/blog/1366102)
  - [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
  - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
- - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
 #### 前端资源
-- [BootCDN](https://www.bootcdn.cn/)
-- [新浪云计算CDN公共库](http://lib.sinaapp.com/)
-- [HTML5 up](https://html5up.net/)
-- [Free bootstrap login forms](https://uicookies.com/free-bootstrap-login-forms/)
-- [10 jQuery File Upload Plugins](https://www.sitepoint.com/10-jquery-file-uploads/)
 - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
 - [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
 - [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
- - [SweetAlert](https://github.com/t4t5/sweetalert) - <small>SweetAlert是一款使用纯js制作的消息警告框插件</small>
- - [UIKit](http://getuikit.com/)
- - [Amaze ~ 妹子 UI](http://amazeui.org/)
- - [Framework7](http://framework7.taobao.org/) - <small>特色的HTML框架-可以创建精美的iOS应用</small>
- - [SUI Mobile (MSUI)](http://m.sui.taobao.org/components/)
- - [Purecss](http://purecss.io)
  - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
  - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
  - [jquerytools](http://jquerytools.github.io/)
  - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
- - [zTtee](http://git.oschina.net/zTree/zTree_v3)-<small>加载完数据展开所有节点treeObj.expandAll(true);</small>
- - [梦想天空](http://www.cnblogs.com/lhb25/)
  - [easyicon](https://www.easyicon.net/)
  - [pexels](https://www.pexels.com/)
  - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
+ - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
 ### Github 资源
 ---
@@ -381,9 +377,10 @@ title: Bookmark
 - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
 - [Android-studio](http://www.android-studio.org/)
 
-### 收藏夹
+### 其他
 ---
  - [Ruby-china](https://ruby-china.org/)
+ - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [V2EX](http://www.v2ex.com/)
  - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 - [努努书坊](http://www.kanunu8.com/)
@@ -391,4 +388,5 @@ title: Bookmark
 - [精品MAC应用分享](https://xclient.info/)
 - [MacX](https://www.macx.cn/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
+- [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
