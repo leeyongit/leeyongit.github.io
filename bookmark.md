@@ -31,6 +31,13 @@ title: Bookmark
 - [使用 Flutter 快速构建美观又高性能的移动应用](https://www.bilibili.com/video/av27857568/)
 - [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
 
+#### ReactNative
+ - [React Native中文网](https://reactnative.cn/)
+ - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
+ - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
+ - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
+ - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
+
 ### 微服务
 ---
  - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
@@ -281,29 +288,6 @@ title: Bookmark
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
  - [nginx基本配置与参数说明](http://www.nginx.cn/76.html)
 
-### Node.js
----
-- [Hexo](https://hexo.io/zh-cn/)
-- [Node.js专业中文社区](https://cnodejs.org/)
-- [Node.js中文文档](http://nodejs.cn/api/)
-- [node.js使用leveldb](http://yijiebuyi.com/blog/1c7f6b3fe9aa6554a9a54ecd803e7d74.html)
-
-### React
----
-- [React](http://facebook.github.io/react/)
-- [React 中文文档](https://react.docschina.org/)
-- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [reactstrap](https://reactstrap.github.io/)
-- [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
-
-#### ReactNative
- - [React Native中文网](https://reactnative.cn/)
- - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
- - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
- - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
- - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
-
 
 ### 前端开发
 ---
@@ -316,9 +300,26 @@ title: Bookmark
 - [前端里](http://www.yyyweb.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)
+- [easyicon](https://www.easyicon.net/)
+- [pexels](https://www.pexels.com/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [Vuejs](https://cn.vuejs.org/index.html)
 - [BootCDN](https://www.bootcdn.cn/)
+- [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
+- [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
+
+#### React
+- [React](http://facebook.github.io/react/)
+- [React 中文文档](https://react.docschina.org/)
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [reactstrap](https://reactstrap.github.io/)
+- [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
+
+### Node.js
+- [Hexo](https://hexo.io/zh-cn/)
+- [Node.js专业中文社区](https://cnodejs.org/)
+  + [Node.js中文文档](http://nodejs.cn/api/)
 
 #### JavaScript
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -329,16 +330,11 @@ title: Bookmark
  - [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
  - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
 
-#### 前端资源
-- [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
-- [Jasny Bootstrap](http://www.jasny.net/bootstrap/) - <small>以Bootstrap为基础扩展功能的CSS前端框架</small>
-- [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
+#### JS插件
  - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
  - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
  - [jquerytools](http://jquerytools.github.io/)
  - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
- - [easyicon](https://www.easyicon.net/)
- - [pexels](https://www.pexels.com/)
  - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
