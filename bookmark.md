@@ -62,7 +62,7 @@ title: Bookmark
 
 ### PHP
 ---
- - [PHP-Interview](https://xianyunyh.gitbooks.io/php-interview/)
+ - [PHP-Interview](https://xianyunyh.gitbooks.io/php-interview/) <small>PHP面试准备的资料</small>
  - [大话设计模式](https://hulin.gitbook.io/design-patterns-by-php/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
@@ -72,18 +72,14 @@ title: Bookmark
  - [Symfony文档](http://symfony.cn/docs/index.html#)
  - [awesome-php](https://github.com/JingwenTian/awesome-php)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
- - [Learnku laravel](https://learnku.com/laravel)
-   + [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
+ - [Learnku laravel](https://learnku.com/laravel) - [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
- - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/)
-   - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
+ - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/) - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [LaraBase](http://larabase.com/)
- - [PHP Laravel Vue.js 视频教程](https://www.codecasts.com/)
  - [伯乐在线](http://www.jobbole.com/)
      - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
      - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
- - [PHP面试准备的资料](https://xianyunyh.gitbooks.io/php-interview/content/)
  - [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
  - [JWT 完整使用详解](https://learnku.com/articles/10885/full-use-of-jwt)
  - [php firebase/php-jwt token验证](https://blog.csdn.net/cjs5202001/article/details/80228937)
@@ -93,10 +89,8 @@ title: Bookmark
 #### PHP Library
 - [whoops](http://filp.github.io/whoops/)
 - [Mobile Detect](http://mobiledetect.net/)
-- [Carbon](https://carbon.nesbot.com/) - <small>A simple PHP API extension for DateTime</small>
-- [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
-- [Medoo](https://medoo.in/)
-  - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
+- [Carbon](https://carbon.nesbot.com/) - [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
+- [Medoo](https://medoo.in/) - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 - [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
 - [Requests for PHP](http://requests.ryanmccue.info/)
 - [PHP Captcha library](https://github.com/Gregwar/Captcha)
@@ -121,6 +115,17 @@ title: Bookmark
 - [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
 - [Laravel如何优雅的使用Swoole](https://blog.csdn.net/jhope/article/details/86480422)
 
+### 消息中间件
+---
+  - [RabbitMQ 从入门到放弃系列笔记（一）：核心概念及术语](https://laravelacademy.org/post/7401.html)
+  - [Mac部署 PHP、RabbitMQ](https://blog.csdn.net/u012460314/article/details/82467952)
+  - [PHP 下基于 php-amqp 扩展的 RabbitMQ 简单用例 (四) -- Push API 和 Pull API](https://www.cnblogs.com/fxyy/p/10590812.html)
+  - [PHP 连接 Rabbitmq 实例代码](http://www.dahouduan.com/2017/11/23/php-rabbitmq-demo/)
+  - [EMQ](http://www.emqtt.com)
+  - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
+  - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
+  - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
+
 #### Kafka
 - [kafka中文社区](http://kafka.apachecn.org/)
 - [kafka中文教程](http://www.orchome.com/kafka/index)
@@ -129,26 +134,7 @@ title: Bookmark
 - [Kafka（一）Kafka是什么及基本概念](https://blog.51cto.com/littledevil/2134686)
 - [Kafka（二）Kafka集群搭建](https://blog.51cto.com/littledevil/2134694)
 
-#### Elasticsearch
- - [Elastic中文社区](https://elasticsearch.cn/)
- - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
- - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
- - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
- - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
- - [Elasticsearch推荐插件篇(head,sense,marvel)](https://www.cnblogs.com/xing901022/p/5962722.html)
-
-#### MQ
-***
-- [RabbitMQ 从入门到放弃系列笔记（一）：核心概念及术语](https://laravelacademy.org/post/7401.html)
-- [Mac部署 PHP、RabbitMQ](https://blog.csdn.net/u012460314/article/details/82467952)
-- [PHP 下基于 php-amqp 扩展的 RabbitMQ 简单用例 (四) -- Push API 和 Pull API](https://www.cnblogs.com/fxyy/p/10590812.html)
-- [PHP 连接 Rabbitmq 实例代码](http://www.dahouduan.com/2017/11/23/php-rabbitmq-demo/)
-- [EMQ](http://www.emqtt.com)
-- [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
-- [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
-- [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
-
-### 分布式
+### 分布式服务框架
 ---
 #### zookeeper
   - [Zookeeper教程](https://www.w3cschool.cn/zookeeper/?)
@@ -163,6 +149,14 @@ title: Bookmark
   - [基于ZooKeeper和Thrift构建动态RPC调用](https://blog.csdn.net/likewindy/article/details/51352179)
   - [Zookeeper知识点](https://www.cnblogs.com/cjsblog/p/9682648.html)
 
+### Elasticsearch
+---
+ - [Elastic中文社区](https://elasticsearch.cn/)
+ - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
+ - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
+ - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
+ - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
+ - [Elasticsearch推荐插件篇(head,sense,marvel)](https://www.cnblogs.com/xing901022/p/5962722.html)
 
 ### MySQL
 ---
@@ -316,7 +310,7 @@ title: Bookmark
 - [reactstrap](https://reactstrap.github.io/)
 - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
 
-### Node.js
+#### Node.js
 - [Hexo](https://hexo.io/zh-cn/)
 - [Node.js专业中文社区](https://cnodejs.org/)
   + [Node.js中文文档](http://nodejs.cn/api/)
