@@ -73,8 +73,8 @@ title: Bookmark
  - [awesome-php](https://github.com/JingwenTian/awesome-php)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Learnku laravel](https://learnku.com/laravel) - [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
- - [Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
- - [Laravel学院 - 优质Laravel中文学习资源平台](http://laravelacademy.org/) - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
+ - [Laravel中文网](http://www.golaravel.com/)
+ - [Laravel学院](http://laravelacademy.org/) - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
  - [LaraBase](http://larabase.com/)
  - [伯乐在线](http://www.jobbole.com/)
      - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
@@ -206,8 +206,6 @@ title: Bookmark
 - [Go 语言中文网](https://studygolang.com/)
   - [如何写 go 代码](https://studygolang.com/articles/2561)
   - [Go net/http包](https://studygolang.com/articles/9467)
-  - [GO语言运行cmd命令逐行实时输出执行过程](https://studygolang.com/articles/4004)
-  - [go如何调用chrome打开指定网页](https://studygolang.com/topics/4374)
 - [鸟窝](https://colobu.com/)
   - [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
   - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
@@ -216,6 +214,12 @@ title: Bookmark
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [gojsonq](https://github.com/thedevsaddam/gojsonq)
 - [location](https://github.com/gin-contrib/location)<small>gin middleware to expose the server's hostname and scheme</small>
+- [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
+- [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
+- [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
+- [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
+- [Go database/sql 教程](https://zhgxun.github.io/2017/07/19/go-database/)
+- [golang学习之旅：使用go语言操作mysql数据库](https://studygolang.com/articles/3022)
 
 #### gRPC
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
@@ -225,19 +229,6 @@ title: Bookmark
 - [通过Websocket与gRPC交互](https://www.jianshu.com/p/b325a2848275)
 - [通过Nginx实现gRPC服务的负载均衡](https://www.jianshu.com/p/611d586f58cd)
 - [Golang系列（五）之Golang指针](https://blog.csdn.net/huwh_/article/details/77879970)
-
-#### golang 文章
-- [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
-- [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-- [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
-- [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
-- [golang 正确获取绝对路径的方法](https://www.golangnote.com/topic/40.html)
-- [go语言的数组和切片区别](https://www.cnblogs.com/charlieroro/archive/2018/03/22/8626119.html)
-- [Go database/sql 教程](https://zhgxun.github.io/2017/07/19/go-database/)
-- [go语言操作mysql范例（增删查改）](https://blog.csdn.net/JesseYoung/article/details/40398321)
-- [golang学习之旅：使用go语言操作mysql数据库](https://studygolang.com/articles/3022)
-- [gin+gorm+router 快速搭建 crud restful API 接口](https://learnku.com/articles/23548/gingormrouter-quickly-build-crud-restful-api-interface)
-
 
 ### Python
 ***
