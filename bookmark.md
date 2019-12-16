@@ -4,20 +4,13 @@ title: Bookmark
 ---
 
 
-### 综合学习
+### 学习社区
 ---
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
-
-### UI
- - [Ant Design](https://ant.design/index-cn)
- - [layui 文档](https://www.layui.com/doc/)
- - [Element UI](http://element-cn.eleme.io/#/zh-CN)
- - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
- - [jQuery WeUI](http://jqweui.com/)
 
 ### Dart & Flutter
 ---
@@ -300,6 +293,13 @@ title: Bookmark
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [reactstrap](https://reactstrap.github.io/)
 - [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
+
+#### UI
+ - [Ant Design](https://ant.design/index-cn)
+ - [layui 文档](https://www.layui.com/doc/)
+ - [Element UI](http://element-cn.eleme.io/#/zh-CN)
+ - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+ - [jQuery WeUI](http://jqweui.com/)
 
 #### Node.js
 - [Hexo](https://hexo.io/zh-cn/)
