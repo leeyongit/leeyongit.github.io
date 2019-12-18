@@ -325,6 +325,14 @@ title: Bookmark
  - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
+### 区块链
+---
+ - [Solidity develop 文档](https://solidity-cn.readthedocs.io/zh/develop/)
+ - [浏览器编译器Remix](http://remix.ethereum.org/)
+ - [区块链技术博客](https://me.tryblockchain.org/)
+ - [深入浅出区块链](https://learnblockchain.cn/)
+ - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
+
 ### Github 资源
 ---
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
