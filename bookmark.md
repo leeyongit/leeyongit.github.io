@@ -11,6 +11,7 @@ title: Bookmark
  - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+ - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
 
 ### 移动端UI
 ---
@@ -53,6 +54,7 @@ title: Bookmark
  - [Spring Initializr](https://start.spring.io/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
  - [SpringBoot 入门教程](https://www.cnblogs.com/toutou/p/9650939.html)
+ - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
  - [Spring Data JPA 默认方法使用](https://segmentfault.com/a/1190000011067941)
  - [SpringBoot + MyBatis 注解版](https://blog.csdn.net/larger5/article/details/79616058)
  - [SpringCloud 教程](https://www.cnblogs.com/jinjiyese153/category/1182033.html)
@@ -60,6 +62,7 @@ title: Bookmark
  - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
  - [SpringBoot的web项目启动方式](https://blog.csdn.net/qq_30945875/article/details/83151042)
  - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
+ - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
 
 ### PHP
 ---
@@ -178,6 +181,7 @@ title: Bookmark
 
 
 ### Redis
+- [Redis中文官网](http://www.redis.cn/)
 - [Redis 命令参考](http://redisdoc.com/index.html)
 - [为什么一定要有redis？](https://zhuanlan.zhihu.com/p/59168140)
 - [面试官:你的Redis怎么持久化的?](https://zhuanlan.zhihu.com/p/68402040)
@@ -190,6 +194,7 @@ title: Bookmark
 - [Go 学习之路](https://github.com/developer-learning/learning-golang)
 - [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为 Go 模块而生</small>
 - [Casbin](https://casbin.org/zh-CN/)
+- [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
 - [Hugo中文文档](https://www.gohugo.org/)
 - [GO WEB IRIS](https://studyiris.com/)
 - [Go 中国技术社区](https://gocn.io/)
@@ -200,36 +205,19 @@ title: Bookmark
 - [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
 - [Echo](https://echo.labstack.com/) - [echo 中文文档](http://go-echo.org/)
 - [GORM](http://gorm.io/zh_CN/)
+- [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 - [[译]Golang中的依赖注入](https://segmentfault.com/a/1190000016140106)
 - [Golang几种依赖注入的实现](https://luncher.github.io/2018/12/26/Golang%E5%87%A0%E7%A7%8D%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 - [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
 - [Go 语言中文网](https://studygolang.com/)
-  - [如何写 go 代码](https://studygolang.com/articles/2561)
-  - [Go net/http包](https://studygolang.com/articles/9467)
 - [鸟窝](https://colobu.com/)
-  - [2017年超有价值的Golang文章](https://colobu.com/2017/12/28/top-golang-articles-of-2017/)
-  - [Go文件操作大全](https://colobu.com/2016/10/12/go-file-operations/)
-  - [gRPC的那些事 - streaming](https://colobu.com/2017/04/06/dive-into-gRPC-streaming/)
-  - [[转]Protobuf3 语法指南](https://colobu.com/2017/03/16/Protobuf3-language-guide/)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [gojsonq](https://github.com/thedevsaddam/gojsonq)
 - [location](https://github.com/gin-contrib/location)<small>gin middleware to expose the server's hostname and scheme</small>
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 - [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
-- [kafka的go版本api使用](https://blog.csdn.net/qq_32292967/article/details/78675116)
-- [go中的main函数和init函数](https://blog.csdn.net/rznice/article/details/18987047)
-- [Go database/sql 教程](https://zhgxun.github.io/2017/07/19/go-database/)
-- [golang学习之旅：使用go语言操作mysql数据库](https://studygolang.com/articles/3022)
 
-#### gRPC
-- [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
-- [grpc 笔记](https://learnku.com/articles/23573/grpc-notes)
-- [gRPC之metadata(译)](http://ralphbupt.github.io/2017/05/27/gRPC%E4%B9%8Bmetadata/)
-- [gRPC双向数据流的交互控制](https://www.jianshu.com/p/5158d6686769)
-- [通过Websocket与gRPC交互](https://www.jianshu.com/p/b325a2848275)
-- [通过Nginx实现gRPC服务的负载均衡](https://www.jianshu.com/p/611d586f58cd)
-- [Golang系列（五）之Golang指针](https://blog.csdn.net/huwh_/article/details/77879970)
 
 ### Python
 ***
@@ -360,6 +348,7 @@ title: Bookmark
 
 ### 工具
 ---
+- [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线工具 VIP](https://atool.vip/#/)
 - [Grok Debugger](http://grokdebug.herokuapp.com/)
@@ -367,6 +356,9 @@ title: Bookmark
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
 - [Android-studio](http://www.android-studio.org/)
+- [postwoman](https://postwoman.io/)
+- [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
+
 
 ### 其他
 ---
