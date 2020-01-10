@@ -3,7 +3,6 @@ layout: page
 title: Bookmark
 ---
 
-
 ### 学习社区
 ---
  - [菜鸟教程](http://www.runoob.com/)
@@ -51,16 +50,12 @@ title: Bookmark
 
 ### JAVA
 ---
+ - [How2J](https://how2j.cn/)
  - [Spring Initializr](https://start.spring.io/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
  - [SpringBoot 入门教程](https://www.cnblogs.com/toutou/p/9650939.html)
  - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
- - [Spring Data JPA 默认方法使用](https://segmentfault.com/a/1190000011067941)
- - [SpringBoot + MyBatis 注解版](https://blog.csdn.net/larger5/article/details/79616058)
- - [SpringCloud 教程](https://www.cnblogs.com/jinjiyese153/category/1182033.html)
- - [精通 Spring Boot 42 讲](https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a/topic/5b864c65e15aa17d68b5db58)
  - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
- - [SpringBoot的web项目启动方式](https://blog.csdn.net/qq_30945875/article/details/83151042)
  - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
  - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
 
@@ -138,20 +133,6 @@ title: Bookmark
 - [Kafka（一）Kafka是什么及基本概念](https://blog.51cto.com/littledevil/2134686)
 - [Kafka（二）Kafka集群搭建](https://blog.51cto.com/littledevil/2134694)
 
-### 分布式服务框架
----
-#### zookeeper
-  - [Zookeeper教程](https://www.w3cschool.cn/zookeeper/?)
-  - [php-zookeeper](https://github.com/andreiz/php-zookeeper)
-  - [ZooKeeper集群安装配置](https://yq.aliyun.com/articles/698320?spm=a2c4e.11163080.searchblog.71.1d992ec1Q6J2b9)
-  - [php zookeeper你需要知道的细节](https://www.onmpw.com/tm/xwzj/prolan_227.html)
-  - [简单理解Zookeeper的Leader选举](https://blog.csdn.net/chengyuqiang/article/details/79190061)
-  - [Zookeeper知识点整理](https://segmentfault.com/a/1190000012730375)
-  - [可能是全网把 ZooKeeper 概念讲的最清楚的一篇文章](https://zhuanlan.zhihu.com/p/44348274)
-  - [徒手教你使用zookeeper编写服务发现](https://zhuanlan.zhihu.com/p/34156758)
-  - [Zookeeper：分布式系统入门到实战-youtube](https://www.youtube.com/watch?v=BhosKsE8up8)
-  - [基于ZooKeeper和Thrift构建动态RPC调用](https://blog.csdn.net/likewindy/article/details/51352179)
-  - [Zookeeper知识点](https://www.cnblogs.com/cjsblog/p/9682648.html)
 
 ### Elasticsearch
 ---
@@ -162,31 +143,11 @@ title: Bookmark
  - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
  - [Elasticsearch推荐插件篇(head,sense,marvel)](https://www.cnblogs.com/xing901022/p/5962722.html)
 
-### MySQL
----
- - [程序员，知道Mysql中ACID的原理吗？](https://zhuanlan.zhihu.com/p/65281198)
- - [MySQL中SQL优化和架构设计](http://blog.csdn.net/leeyongit/article/details/18132951)
- - [MySQL性能优化的最佳21条经验 ](http://blog.csdn.net/leeyongit/article/details/8507578)
- - [推荐15条MySQL改善经验](http://www.linkedkeeper.com/1219.html)
- - [MySQL 分库分表的方法](https://yq.aliyun.com/articles/42644)
- - [数据库的三大范式以及五大约束](https://www.cnblogs.com/waj6511988/p/7027127.html)
- - [MySQL高性能优化系列](https://www.cnblogs.com/huchong/tag/MySQL%E9%AB%98%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%B3%BB%E5%88%97/)
- - [MySQL主从复制配置](https://www.cnblogs.com/cjsblog/p/9706370.html)
- - [MySQL主从同步报错故障处理集锦](https://www.cnblogs.com/wangxin37/p/6398755.html)
- - [使用 RDS for MySQL 配置到自建数据库的主从复制](https://yq.aliyun.com/articles/66087)
- - [mysql主从只同步部分库或表](https://blog.csdn.net/sj349781478/article/details/77731344)
- - [使用Keepalived实现MySQL主主高可用](https://www.helloweba.net/server/547.html)
- - [MySQL5.7 主从复制配置](https://segmentfault.com/a/1190000010199283)
- - [MySQL区间分组查询](https://segmentfault.com/a/1190000015058360)
-
 
 ### Redis
 - [Redis中文官网](http://www.redis.cn/)
 - [Redis 命令参考](http://redisdoc.com/index.html)
-- [为什么一定要有redis？](https://zhuanlan.zhihu.com/p/59168140)
-- [面试官:你的Redis怎么持久化的?](https://zhuanlan.zhihu.com/p/68402040)
-- [Redis及缓存雪崩、缓存穿透](https://zhuanlan.zhihu.com/p/58265935)
-- [Redis 内存分析方法](https://www.alibabacloud.com/help/zh/doc-detail/50037.htm)
+
 
 ### Golang
 ***
@@ -207,8 +168,6 @@ title: Bookmark
 - [GORM](http://gorm.io/zh_CN/)
 - [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
-- [[译]Golang中的依赖注入](https://segmentfault.com/a/1190000016140106)
-- [Golang几种依赖注入的实现](https://luncher.github.io/2018/12/26/Golang%E5%87%A0%E7%A7%8D%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 - [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
 - [Go 语言中文网](https://studygolang.com/)
 - [鸟窝](https://colobu.com/)
@@ -242,19 +201,14 @@ title: Bookmark
 - [Linux运维日志](https://www.centos.bz/)
 - [Packages Search - pkgs.org](https://pkgs.org/)
 - [Remi's RPM repository](https://rpms.remirepo.net/)
-- [CentOS常用环境、软件](https://spldeolin.com/posts/centos-softwares/)
 - [aria2](http://aria2.github.io/)
  - [LNMP](http://lnmp.org)
  - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [吞吐率、吞吐量、TPS、性能测试](https://ruby-china.org/topics/26221)
  - [php配置php-fpm启动参数及配置详解](http://www.cnblogs.com/mingaixin/p/3794227.html)
- - [Git撤销&回滚操作](https://blog.csdn.net/ligang2585116/article/details/71094887)
 
-#### 环境搭建
- - [CentOS 7 安装 LNMP 环境（PHP7 + MySQL5.7 + Nginx1.10）](https://segmentfault.com/a/1190000009012613)
- - [CentOS 7安装最新 PHP 7.2，MySQL 5.7和Nginx](https://www.daguanren.cc/post/php_nginx_mysql_installation_guide.html)
- - [PHP 7.2 on CentOS/RHEL 7.5 via Yum](https://webtatic.com/packages/php72/)
+
 
 #### Nginx
  - [OpenResty®](http://openresty.org/cn/)
@@ -289,12 +243,13 @@ title: Bookmark
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [reactstrap](https://reactstrap.github.io/)
-- [使用gulp进行React任务的构建](https://www.cnblogs.com/huansky/p/6004738.html)
+- [React Suite](https://rsuitejs.com/) - <small>一套 React 的 UI 组件库</small>
 
 #### Node.js
 - [Hexo](https://hexo.io/zh-cn/)
 - [Node.js专业中文社区](https://cnodejs.org/)
-  + [Node.js中文文档](http://nodejs.cn/api/)
+- [Node.js中文文档](http://nodejs.cn/api/)
+- [NestJs](https://exlley.gitbooks.io/nest-js/) <small>一套现代化的基于Node.js的强大的Web应用框架</small>
 
 #### JavaScript
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -371,5 +326,5 @@ title: Bookmark
 - [精品MAC应用分享](https://xclient.info/)
 - [MacX](https://www.macx.cn/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
-- [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
 
