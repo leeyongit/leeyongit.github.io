@@ -73,7 +73,7 @@ title: Bookmark
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Learnku laravel](https://learnku.com/laravel) - [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [Laravel中文网](http://www.golaravel.com/)
- - [Laravel学院](http://laravelacademy.org/) - [Laravel 精选资源大全](http://laravelacademy.org/post/153.html)
+ - [Laravel学院](http://laravelacademy.org/)
  - [LaraBase](http://larabase.com/)
  - [伯乐在线](http://www.jobbole.com/)
      - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
@@ -82,8 +82,7 @@ title: Bookmark
  - [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
  - [JWT 完整使用详解](https://learnku.com/articles/10885/full-use-of-jwt)
  - [php firebase/php-jwt token验证](https://blog.csdn.net/cjs5202001/article/details/80228937)
- - [laravel5.5+dingo+JWT开发后台API](https://segmentfault.com/a/1190000016942328?utm_source=tag-newest)
- - [Laravel5.5 api token 用法](http://www.dahouduan.com/2017/09/18/laravel55-api-token/)
+
 
 #### PHP Library
 - [whoops](http://filp.github.io/whoops/)
@@ -96,43 +95,22 @@ title: Bookmark
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
 - [Upload](https://github.com/brandonsavage/Upload)
 
-#### Apache Thrift ™
-- [Thrift PHP Tutorial](https://thrift.apache.org/tutorial/php)
-- [RPC框架-Thrift的使用](https://blog.csdn.net/rlanffy/article/details/51873022)
-- [Thrift使用-php](https://blog.csdn.net/xjc200808/article/details/51135934)
-- [Thrift在php框架laravel中的应用](http://ju.outofmemory.cn/entry/272744)
-- [RPC 框架 thrift 在 PHP 结合 Laravel 使用](https://icharle.com/thriftrpcphplaravel.html)
-- [RPC 框架之 thrift 学习笔记之一](https://icharle.com/rpcthrift.html)
-- [RPC 框架之 thrift 学习笔记之二](https://icharle.com/rpcthrifttwo.html)
-
 #### Swoole
 - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
     + [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
     + [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
 - [easyswoole](https://www.easyswoole.com/)
 - [swoft](https://www.swoft.org/)
-- [Swoole来实现实时异步任务队列](https://yq.aliyun.com/articles/44247?spm=a2c4e.11153940.blogrightarea42644.20.59d8539cz7FLDv)
-- [Laravel如何优雅的使用Swoole](https://blog.csdn.net/jhope/article/details/86480422)
+
 
 ### 消息中间件
 ---
-  - [RabbitMQ 从入门到放弃系列笔记（一）：核心概念及术语](https://laravelacademy.org/post/7401.html)
-  - [Mac部署 PHP、RabbitMQ](https://blog.csdn.net/u012460314/article/details/82467952)
-  - [PHP 下基于 php-amqp 扩展的 RabbitMQ 简单用例 (四) -- Push API 和 Pull API](https://www.cnblogs.com/fxyy/p/10590812.html)
-  - [PHP 连接 Rabbitmq 实例代码](http://www.dahouduan.com/2017/11/23/php-rabbitmq-demo/)
   - [EMQ](http://www.emqtt.com)
+  - [kafka中文社区](http://kafka.apachecn.org/)
+  - [kafka中文教程](http://www.orchome.com/kafka/index)
   - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
   - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
   - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
-
-#### Kafka
-- [kafka中文社区](http://kafka.apachecn.org/)
-- [kafka中文教程](http://www.orchome.com/kafka/index)
-- [PHP下kafka的实践](https://segmentfault.com/a/1190000015765348)
-- [PHP 处理kafka消息实例](http://www.dahouduan.com/2017/09/18/php-consume-kafka/)
-- [Kafka（一）Kafka是什么及基本概念](https://blog.51cto.com/littledevil/2134686)
-- [Kafka（二）Kafka集群搭建](https://blog.51cto.com/littledevil/2134694)
-
 
 ### Elasticsearch
 ---
@@ -207,7 +185,6 @@ title: Bookmark
  - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
  - [吞吐率、吞吐量、TPS、性能测试](https://ruby-china.org/topics/26221)
  - [php配置php-fpm启动参数及配置详解](http://www.cnblogs.com/mingaixin/p/3794227.html)
-
 
 
 #### Nginx
