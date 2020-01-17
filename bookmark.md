@@ -7,30 +7,18 @@ title: Bookmark
 ---
  - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [掘金](https://juejin.im/)
  - [segmentfault](https://segmentfault.com/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
  - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
 
-### 移动端UI
+### 移动端
 ---
-#### Dart & Flutter
+- [React Native中文网](https://reactnative.cn/)
 - [Dart](https://www.dartcn.com/)
-- [一文了解Dart语法](https://juejin.im/post/5c52a386f265da2de25b5c36#heading-26)
 - [Flutter中文网](https://flutterchina.club/)
-  - [Flutter实战](https://book.flutterchina.club/)
+- [Flutter实战](https://book.flutterchina.club/)
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
-- [细说Flutter-MacOS下搭建Flutter开发环境](https://juejin.im/post/5c638662f265da2da23d0e1f)
-- [Flutter基础视频教程](https://www.bilibili.com/video/av35800108?from=search&seid=16738387368219153988)
-- [使用 Flutter 快速构建美观又高性能的移动应用](https://www.bilibili.com/video/av27857568/)
-- [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
 
-#### ReactNative
- - [React Native中文网](https://reactnative.cn/)
- - [从 1 到完美，用 js 和 react-native 写一个 APP](https://segmentfault.com/a/1190000016272845)
- - [react-native 初体验 - 使用 javascript 来写 iOS app](https://segmentfault.com/a/1190000005170648)
- - [分享 50 个完整的 React Native 项目](https://blog.csdn.net/Marno__/article/details/71809757)
- - [55 ReactNative Examples](https://react.rocks/tag/ReactNative?show=40)
 
 ### 服务端UI
 ---
@@ -44,8 +32,6 @@ title: Bookmark
  - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
  - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
  - [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
- - [go 微服务，api网关使用gin](https://github.com/YinYongTao/gin-micro)
- - [phprpc](https://github.com/kaiyulee/phprpc)<small>The PHP RPC Micro Service Framework</small>
  - [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
 
 ### JAVA
@@ -61,7 +47,6 @@ title: Bookmark
 
 ### PHP
 ---
- - [PHP-Interview](https://xianyunyh.gitbooks.io/php-interview/) <small>PHP面试准备的资料</small>
  - [大话设计模式](https://hulin.gitbook.io/design-patterns-by-php/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
@@ -182,10 +167,6 @@ title: Bookmark
 - [aria2](http://aria2.github.io/)
  - [LNMP](http://lnmp.org)
  - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
- - [php-fpm 与 Nginx优化总结](https://www.kancloud.cn/digest/php-src/136260)
- - [吞吐率、吞吐量、TPS、性能测试](https://ruby-china.org/topics/26221)
- - [php配置php-fpm启动参数及配置详解](http://www.cnblogs.com/mingaixin/p/3794227.html)
-
 
 #### Nginx
  - [OpenResty®](http://openresty.org/cn/)
