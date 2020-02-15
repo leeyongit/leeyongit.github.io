@@ -10,6 +10,7 @@ title: Bookmark
  - [segmentfault](https://segmentfault.com/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
  - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
+ - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
 
 ### 移动端
 ---
