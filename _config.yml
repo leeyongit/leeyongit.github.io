@@ -5,7 +5,7 @@ welcome_message: 记录学习的点滴
 description: 嗨，我是李永 (@leeyongit)，一名 PHP 开发者。
 creator: <a href="http://zibo.one">@leeyongit</a>
 
-url: "http://zibo.one"
+url: "https://leeyongit.github.io/"
 
 permalink: /:year/:month/:title/
 
@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: Bookmark, description: Favorites, url: 'http://zibo.one/bookmark'}
+    - {title: Bookmark, description: Favorites, url: 'https://leeyongit.github.io/bookmark'}
     # - {title: About, description: About, url: 'http://zibo.one/about'}
 
 # Pagination
