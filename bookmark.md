@@ -55,19 +55,14 @@ title: Bookmark
  - [深入理解PHP内核](http://www.php-internals.com/)
  - [Workerman](http://www.workerman.net/)
  - [Symfony China](http://www.symfonychina.com/)
- - [Symfony文档](http://symfony.cn/docs/index.html#)
  - [awesome-php](https://github.com/JingwenTian/awesome-php)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Learnku laravel](https://learnku.com/laravel) - [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [Laravel中文网](http://www.golaravel.com/)
  - [Laravel学院](http://laravelacademy.org/)
  - [LaraBase](http://larabase.com/)
- - [伯乐在线](http://www.jobbole.com/)
-     - [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
-     - [国外程序员整理的 PHP 资源大全](http://blog.jobbole.com/82908/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
  - [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
- - [JWT 完整使用详解](https://learnku.com/articles/10885/full-use-of-jwt)
  - [php firebase/php-jwt token验证](https://blog.csdn.net/cjs5202001/article/details/80228937)
 
 
