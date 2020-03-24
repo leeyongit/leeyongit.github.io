@@ -8,10 +8,15 @@ table th:first-of-type {
     width: 100px;
 }
 </style>
-leeyongit
+
+@leeyongit
 ===
 写PHP入行, 现在主要努力方向是Golang、分布式、微服务、K8S。
-```php
-echo 'Go Easy, So Easy!';
+```golang
+import "fmt"
+
+func main() {
+    fmt.Println("Go Easy, So Easy!")
+}
 ```
 
