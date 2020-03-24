@@ -11,7 +11,7 @@ table th:first-of-type {
 
 @leeyongit
 ===
-写PHP入行,
+写PHP入行, 现在主要努力方向是Golang、分布式、微服务、K8S。
 
 ```go
 import "fmt"
