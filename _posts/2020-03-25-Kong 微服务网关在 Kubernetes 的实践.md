@@ -59,11 +59,13 @@ openssl req -x509 -nodes -days 65536 -newkey rsa:2048 -keyout proxy-kong.key -ou
 kubectl create secret tls proxy-kong-ssl --key proxy-kong.key --cert proxy-kong.crt -n kong
 ```
 编辑 values 文件启用 Kong Proxy Ingress tls，引用上面创建的 Secret：`Values.proxy.ingress.tls`:
+
 ```yaml
 - hosts:
       - proxy.kong.com
       secretName: proxy-kong-ssl
 ```
+
 - 启用 Kong Ingress Controller，默认是不会部署 Kong Ingress Controller：ingressController.enabled: true；
 
 - 由于本地裸机环境不支持 PV 存储，所以在部署时禁用 Postgres 数据持久化：helm 安装时指定 `--set postgresql.persistence.enabled=false`，这样 Postgres 存储会使用 emptyDir 方式挂载卷，在 Pod 重启后数据会丢失，本地自己玩的话可以先这么搞。当然要复杂点的话，可以自己再搭个 nfs 支持 PV 资源对象。
