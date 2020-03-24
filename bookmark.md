@@ -5,7 +5,6 @@ title: Bookmark
 
 ### 学习社区
 ---
- - [菜鸟教程](http://www.runoob.com/)
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [segmentfault](https://segmentfault.com/)
  - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
@@ -42,7 +41,7 @@ title: Bookmark
  - [rpcx](https://rpcx.io/)
  - [Kubernetes](https://kubernetes.io/zh/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
- - [Kubernetes中文社区 | 中文文档](http://docs.kubernetes.org.cn/)
+ - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
 
 ### JAVA
 ---
@@ -283,6 +282,7 @@ title: Bookmark
 
 ### 其他
 ---
+ - [菜鸟教程](http://www.runoob.com/)
  - [Ruby-china](https://ruby-china.org/)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [V2EX](http://www.v2ex.com/)
