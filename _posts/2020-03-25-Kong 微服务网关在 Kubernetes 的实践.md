@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转载]Kong 微服务网关在 Kubernetes 的实践
+title: Kong 微服务网关在 Kubernetes 的实践 - 转载
 description: 本文主要介绍将 Kong 微服务网关作为 Kubernetes 集群统一入口的最佳实践。
 tags: [Kubernetes]
 ---
