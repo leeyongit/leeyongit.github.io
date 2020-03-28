@@ -3,12 +3,19 @@ layout: page
 title: Bookmark
 ---
 
-### 学习社区
+### 每日必看
 ---
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
- - [segmentfault](https://segmentfault.com/)
+ - [SegmentFault](https://segmentfault.com/)
  - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
+ - [摩天轮](https://www.modb.pro/)
+
+### 文档
  - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
+ - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
+ - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
+ - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
+ - [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
 
 
 ### 移动端
@@ -28,20 +35,18 @@ title: Bookmark
 ### 服务端UI
 ---
  - [Ant Design](https://ant.design/index-cn)
- - [layui 文档](https://www.layui.com/doc/)
  - [Element UI](http://element-cn.eleme.io/#/zh-CN)
+ - [layui 文档](https://www.layui.com/doc/)
  - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
 
 ### 微服务
 ---
  - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
- - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
  - [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
  - [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
  - [rpcx](https://rpcx.io/)
  - [Kubernetes](https://kubernetes.io/zh/)
  - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
- - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
 
 ### JAVA
 ---
@@ -49,7 +54,6 @@ title: Bookmark
  - [Spring Initializr](https://start.spring.io/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
  - [SpringBoot 入门教程](https://www.cnblogs.com/toutou/p/9650939.html)
- - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
  - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
  - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
  - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
@@ -78,7 +82,6 @@ title: Bookmark
 - [Mobile Detect](http://mobiledetect.net/)
 - [Carbon](https://carbon.nesbot.com/) - [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
 - [Medoo](https://medoo.in/) - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
-- [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
 - [Requests for PHP](http://requests.ryanmccue.info/)
 - [PHP Captcha library](https://github.com/Gregwar/Captcha)
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
@@ -134,9 +137,10 @@ title: Bookmark
 - [beego](https://beego.me/)
 - [跟煎鱼学GO](https://book.eddycjy.com/golang/)
 - [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
-- [Echo](https://echo.labstack.com/) - [echo 中文文档](http://go-echo.org/)
-- [GORM](http://gorm.io/zh_CN/)
+- [Echo](https://echo.labstack.com/)
+- [echo 中文文档](http://go-echo.org/)
 - [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
+- [GORM](http://gorm.io/zh_CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 - [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
 - [Go 语言中文网](https://studygolang.com/)
@@ -278,6 +282,7 @@ title: Bookmark
 - [Android-studio](http://www.android-studio.org/)
 - [postwoman](https://postwoman.io/)
 - [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
+- [ServerStatus中文版一键安装及管理脚本](https://github.com/Moexin/ServerStatus-CN-OneKey)
 
 
 ### 其他
