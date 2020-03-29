@@ -7,10 +7,16 @@ title: Bookmark
 ---
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [SegmentFault](https://segmentfault.com/)
- - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
+ - [infoQ](https://www.infoq.cn/)
+ - [极客时间](https://time.geekbang.org/)
+ - [GitChat](https://gitbook.cn/)
  - [摩天轮](https://www.modb.pro/)
+ - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
+
 
 ### 学点分布式
+---
+- [深入浅出分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)
 - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
 - [zookeeper入门](https://zookeeper.readthedocs.io/zh/latest/index.html)
 
