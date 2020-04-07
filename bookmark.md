@@ -42,35 +42,6 @@ title: Bookmark
   - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
   - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 
-### 移动端
----
-- [React Native中文网](https://reactnative.cn/)
-- [Dart](https://www.dartcn.com/)
-- [Flutter中文网](https://flutterchina.club/)
-- [Flutter实战](https://book.flutterchina.club/)
-- [Flutter Codelabs](https://codelabs.flutter-io.cn/)
-
-
-### UI
----
- - [Ant Design](https://ant.design/index-cn)
- - [Element UI](http://element-cn.eleme.io/#/zh-CN)
- - [layui 文档](https://www.layui.com/doc/)
- - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
- - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
- - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
- - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
- - [MUI](https://dev.dcloud.net.cn/mui/)
- - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
-
-### JAVA
----
- - [Spring Initializr](https://start.spring.io/)
- - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
- - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
- - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
- - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
-
 ### Golang
 ***
 - [Go 中文官方网站](https://go-zh.org/)
@@ -162,6 +133,14 @@ title: Bookmark
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
 
+### JAVA
+---
+ - [Spring Initializr](https://start.spring.io/)
+ - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
+ - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
+ - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
+ - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
+
 ### Linux 运维
 ---
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
@@ -172,6 +151,14 @@ title: Bookmark
 - [aria2](http://aria2.github.io/)
 - [LNMP](http://lnmp.org)
 - [OpenResty®](http://openresty.org/cn/)
+
+### 移动端
+---
+- [React Native中文网](https://reactnative.cn/)
+- [Dart](https://www.dartcn.com/)
+- [Flutter中文网](https://flutterchina.club/)
+- [Flutter实战](https://book.flutterchina.club/)
+- [Flutter Codelabs](https://codelabs.flutter-io.cn/)
 
 
 ### 前端开发
@@ -194,6 +181,18 @@ title: Bookmark
 - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
 - [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
 - [jQuery WeUI](http://jqweui.com/)
+
+### UI
+---
+ - [Ant Design](https://ant.design/index-cn)
+ - [Element UI](http://element-cn.eleme.io/#/zh-CN)
+ - [layui 文档](https://www.layui.com/doc/)
+ - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+ - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
+ - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
+ - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
+ - [MUI](https://dev.dcloud.net.cn/mui/)
+ - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
 
 #### React
 - [React](http://facebook.github.io/react/)
