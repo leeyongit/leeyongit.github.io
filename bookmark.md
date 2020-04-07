@@ -65,12 +65,9 @@ title: Bookmark
 
 ### JAVA
 ---
- - [How2J](https://how2j.cn/)
  - [Spring Initializr](https://start.spring.io/)
  - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
  - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
- - [SpringBoot 入门教程](https://www.cnblogs.com/toutou/p/9650939.html)
- - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
  - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
  - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
 
@@ -102,9 +99,7 @@ title: Bookmark
 - [煎鱼](https://eddycjy.com/)
 - [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [gojsonq](https://github.com/thedevsaddam/gojsonq)
-- [location](https://github.com/gin-contrib/location)<small>gin middleware to expose the server's hostname and scheme</small>
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
-- [EASY WINDOWS AND LINUX CROSS-COMPILERS FOR MACOS](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 
 ### PHP
 ---
@@ -113,11 +108,16 @@ title: Bookmark
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
  - [深入理解PHP内核](https://docs.kilvn.com/tipi/)
  - [Workerman](http://www.workerman.net/)
+ - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
+    + [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
+    + [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
+ - [Hyperf ](https://hyperf.wiki/#/zh-cn/README)
+ - [easyswoole](https://www.easyswoole.com/)
+ - [swoft](https://www.swoft.org/)
  - [Symfony China](http://www.symfonychina.com/)
  - [awesome-php](https://github.com/JingwenTian/awesome-php)
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Learnku laravel](https://learnku.com/laravel) - [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
- - [Laravel中文网](http://www.golaravel.com/)
  - [Laravel学院](http://laravelacademy.org/)
  - [LaraBase](http://larabase.com/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
@@ -136,24 +136,12 @@ title: Bookmark
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
 - [Upload](https://github.com/brandonsavage/Upload)
 
-#### Swoole
-- [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
-    + [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
-    + [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
-- [easyswoole](https://www.easyswoole.com/)
-- [swoft](https://www.swoft.org/)
-- [Hyperf ](https://hyperf.wiki/#/zh-cn/README)
-
-
 
 ### Elasticsearch
 ---
  - [Elastic中文社区](https://elasticsearch.cn/)
  - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
  - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
- - [Elasticsearch](https://segmentfault.com/a/1190000006431332)
- - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
- - [Elasticsearch推荐插件篇(head,sense,marvel)](https://www.cnblogs.com/xing901022/p/5962722.html)
 
 
 ### Redis
@@ -165,8 +153,6 @@ title: Bookmark
 ***
 - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 - [Scrapy 爬虫](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
-- [Python爬虫：Xpath语法笔记](http://python.jobbole.com/84689/)
-- [Requests: 让 HTTP 服务人类](http://docs.python-requests.org/zh_CN/latest/index.html)
 - [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
     - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
 - [Flask](http://docs.jinkan.org/docs/flask/)
@@ -176,23 +162,16 @@ title: Bookmark
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
 
-### Linux
+### Linux 运维
 ---
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Linux命令大全](http://man.linuxde.net/)
 - [运维生存时间](http://www.ttlsa.com/)
 - [Linux运维日志](https://www.centos.bz/)
-- [Packages Search - pkgs.org](https://pkgs.org/)
 - [Remi's RPM repository](https://rpms.remirepo.net/)
 - [aria2](http://aria2.github.io/)
- - [LNMP](http://lnmp.org)
- - [OneinStack - 一键PHP/JAVA安装工具](https://oneinstack.com/)
-
-#### Nginx
- - [OpenResty®](http://openresty.org/cn/)
- - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
- - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
- - [nginx基本配置与参数说明](http://www.nginx.cn/76.html)
+- [LNMP](http://lnmp.org)
+- [OpenResty®](http://openresty.org/cn/)
 
 
 ### 前端开发
@@ -273,12 +252,9 @@ title: Bookmark
 ---
  - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
  - [韩天峰(Rango)的博客](http://rango.swoole.com/)
- - [黑夜路人的开源世界](http://blog.csdn.net/heiyeshuwu)
  - [风雪之隅](http://www.laruence.com/)
- - [张晏](http://zyan.cc/)
  - [歪麦博客](https://www.awaimai.com/)
  - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
- - [深予之个人博客](https://github.com/senntyou/blogs)
 
 ### 工具
 ---
