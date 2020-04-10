@@ -38,6 +38,7 @@ title: Bookmark
   - [EMQ](http://www.emqtt.com)
   - [kafka中文社区](http://kafka.apachecn.org/)
   - [kafka中文教程](http://www.orchome.com/kafka/index)
+  - [MQTT协议中文版](https://mcxiaoke.gitbook.io/mqtt/)
   - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
   - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
   - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
