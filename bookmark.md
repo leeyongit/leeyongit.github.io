@@ -14,12 +14,23 @@ title: Bookmark
  - [Learn X in Y minutes](https://learnxinyminutes.com/)
  - [Go 语言中文文档](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
 
+### 博客
+ - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+ - [韩天峰(Rango)的博客](http://rango.swoole.com/)
+ - [风雪之隅](http://www.laruence.com/)
+ - [歪麦博客](https://www.awaimai.com/)
+ - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+ - [鸟窝](https://colobu.com/)
+ - [煎鱼](https://eddycjy.com/)
+
 ### 程序设计
  - [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
  - [Dart 编程语言中文网](https://www.dartcn.com/)
+ - [Spring Initializr](https://start.spring.io/)
+ - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
+ - [guns-lite](http://blog.enilu.cn/guns-lite/)-<small>基于spring boot快速构建web应用程序</small>
 
-
-### 学点分布式
+### 分布式
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)
 - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
 - [zookeeper入门](https://zookeeper.readthedocs.io/zh/latest/index.html)
@@ -45,8 +56,6 @@ title: Bookmark
 - [高效Go编程](http://docscn.studygolang.com/doc/effective_go.html)
 - [Go 社区文档](https://learnku.com/go/docs)
 - [Go 语言中文网](https://studygolang.com/)
-- [鸟窝](https://colobu.com/)
-- [煎鱼](https://eddycjy.com/)
 - [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为Go模块而生</small>
 - [Hugo中文文档](https://www.gohugo.org/)
 - [Micro](https://micro.mu/)
@@ -61,7 +70,7 @@ title: Bookmark
 - [Echo](https://echo.labstack.com/)
 - [echo 中文文档](http://go-echo.org/)
 - [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
-- [GORM](http://gorm.io/zh_CN/)
+- [GORM](http://gorm.io/zh_CN/) - [文档](http://gorm.book.jasperxu.com/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 
@@ -123,16 +132,7 @@ title: Bookmark
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
 
-### JAVA
----
- - [Spring Initializr](https://start.spring.io/)
- - [Apache Dubbo](https://dubbo.apache.org/zh-cn/)
- - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
- - [Spring Boot Project for Apache Dubbo](https://github.com/apache/dubbo-spring-boot-project)
- - [guns-lite](http://blog.enilu.cn/guns-lite/) - <small>基于spring boot快速构建web应用程序</small>
-
 ### Linux 运维
----
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Linux命令大全](http://man.linuxde.net/)
 - [运维生存时间](http://www.ttlsa.com/)
@@ -140,18 +140,17 @@ title: Bookmark
 - [Remi's RPM repository](https://rpms.remirepo.net/)
 - [aria2](http://aria2.github.io/)
 - [LNMP](http://lnmp.org)
+- [OneinStack](https://oneinstack.com/)
+- [oneinstack一键部署linux生产环境那点事（ubuntu）](https://www.cnblogs.com/fx2008/p/5056123.html)
 - [OpenResty®](http://openresty.org/cn/)
 
 ### 移动端
----
 - [React Native中文网](https://reactnative.cn/)
 - [Flutter中文网](https://flutterchina.club/)
 - [Flutter实战](https://book.flutterchina.club/)
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
 
-
 ### 前端开发
----
 - [Gulp 中文网](https://www.gulpjs.com.cn/)
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Webpack 中文网](https://www.webpackjs.com/)
@@ -172,7 +171,6 @@ title: Bookmark
 - [jQuery WeUI](http://jqweui.com/)
 
 ### UI
----
  - [Ant Design](https://ant.design/index-cn)
  - [Element UI](http://element-cn.eleme.io/#/zh-CN)
  - [layui 文档](https://www.layui.com/doc/)
@@ -215,7 +213,6 @@ title: Bookmark
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
 ### 区块链
----
  - [Solidity develop 文档](https://solidity-cn.readthedocs.io/zh/develop/)
  - [浏览器编译器Remix](http://remix.ethereum.org/)
  - [区块链技术博客](https://me.tryblockchain.org/)
@@ -223,29 +220,14 @@ title: Bookmark
  - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
 
 ### Github 资源
----
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
  - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
  - [前端技能汇总](https://github.com/benlingxiao/fks)
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
  - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
  - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
- - [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
- - [golang版的crontab](https://github.com/robfig/cron)-[文档](https://godoc.org/github.com/robfig/cron)
- - [Ethereum Docker](https://github.com/Capgemini-AIE/ethereum-docker)
- - [Easy_Deepfakes_GUI](https://github.com/boehm-e/Easy_Deepfakes_GUI)
-
-
-### 博客
----
- - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
- - [韩天峰(Rango)的博客](http://rango.swoole.com/)
- - [风雪之隅](http://www.laruence.com/)
- - [歪麦博客](https://www.awaimai.com/)
- - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 ### 工具
----
 - [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线工具 VIP](https://atool.vip/#/)
@@ -260,7 +242,6 @@ title: Bookmark
 
 
 ### 其他
----
  - [菜鸟教程](http://www.runoob.com/)
  - [Ruby-china](https://ruby-china.org/)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
