@@ -21,6 +21,7 @@ blog_button:
 
 nav:
     - {title: Bookmark, description: Favorites, url: 'https://leeyongit.github.io/bookmark'}
+    - {title: Notes, description: Notes, url: 'https://github.com/leeyongit/StudyNotes'}
     - {title: About, description: About, url: 'http://leeyongit.github.io/about'}
 
 # Pagination

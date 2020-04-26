@@ -4,19 +4,19 @@ title: Bookmark
 ---
 
 ### 学习社区
- - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [SegmentFault](https://segmentfault.com/)
- - [infoQ](https://www.infoq.cn/)
+ - [InfoQ](https://www.infoq.cn/)
  - [极客时间](https://time.geekbang.org/)
  - [GitChat](https://gitbook.cn/)
  - [摩天轮](https://www.modb.pro/)
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
- - [Go 学习文档 · topgoer](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
+ - [Learn X in Y minutes](https://learnxinyminutes.com/)
+ - [Go 语言中文文档](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
 
-## 程序设计
+### 程序设计
  - [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
- - [Dart](https://www.dartcn.com/)
+ - [Dart 编程语言中文网](https://www.dartcn.com/)
 
 
 ### 学点分布式
@@ -24,12 +24,8 @@ title: Bookmark
 - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
 - [zookeeper入门](https://zookeeper.readthedocs.io/zh/latest/index.html)
 
-### 微服务
-- [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
-- [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
-- [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
-- [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
-- [Kubernetes](https://kubernetes.io/zh/)
+### 容器编排
+- [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
 - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
 
@@ -44,21 +40,22 @@ title: Bookmark
 
 ### Golang
 - [Go 中文官方网站](https://go-zh.org/)
+- [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [Go 学习之路](https://github.com/developer-learning/learning-golang)
 - [高效Go编程](http://docscn.studygolang.com/doc/effective_go.html)
-- [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为Go模块而生</small>
-- [Hugo中文文档](https://www.gohugo.org/)
-- [Go 中国技术社区](https://gocn.io/)
-- [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
+- [Go 社区文档](https://learnku.com/go/docs)
 - [Go 语言中文网](https://studygolang.com/)
 - [鸟窝](https://colobu.com/)
 - [煎鱼](https://eddycjy.com/)
-- [rpcx](https://rpcx.io/)<small>Go语言的RPC服务治理框架</small>
+- [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为Go模块而生</small>
+- [Hugo中文文档](https://www.gohugo.org/)
+- [Micro](https://micro.mu/)
+- [Micro 中文教程](https://github.com/micro-in-cn/tutorials)
+- [rpcx](https://rpcx.io/) - <small>Go语言的RPC服务治理框架</small>
 - [Casbin](https://casbin.org/zh-CN/)
 - [GoAdmin](https://www.go-admin.cn/)
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
 - [GO WEB IRIS](https://studyiris.com/)
-- [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [beego](https://beego.me/)
 - [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
 - [Echo](https://echo.labstack.com/)
@@ -66,11 +63,9 @@ title: Bookmark
 - [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
 - [GORM](http://gorm.io/zh_CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
-- [gojsonq](https://github.com/thedevsaddam/gojsonq)
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 
 ### PHP
----
  - [大话设计模式](https://hulin.gitbook.io/design-patterns-by-php/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
@@ -89,8 +84,6 @@ title: Bookmark
  - [Laravel学院](http://laravelacademy.org/)
  - [LaraBase](http://larabase.com/)
  - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
- - [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
- - [php firebase/php-jwt token验证](https://blog.csdn.net/cjs5202001/article/details/80228937)
 
 
 #### PHP Library
