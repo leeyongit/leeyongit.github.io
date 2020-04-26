@@ -3,8 +3,7 @@ layout: page
 title: Bookmark
 ---
 
-### 每日必看
----
+### 学习社区
  - [Learn X in Y minutes – 学习 X 只需 Y 分钟](https://learnxinyminutes.com/)
  - [SegmentFault](https://segmentfault.com/)
  - [infoQ](https://www.infoq.cn/)
@@ -13,28 +12,28 @@ title: Bookmark
  - [摩天轮](https://www.modb.pro/)
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
- - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
+ - [Go 学习文档 · topgoer](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
+
+## 程序设计
+ - [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
+ - [Dart](https://www.dartcn.com/)
 
 
 ### 学点分布式
----
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)
 - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
 - [zookeeper入门](https://zookeeper.readthedocs.io/zh/latest/index.html)
 
 ### 微服务
----
- - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
- - [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
- - [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
- - [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
- - [rpcx](https://rpcx.io/)
- - [Kubernetes](https://kubernetes.io/zh/)
- - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
- - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
+- [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
+- [Go Micro 文档](https://micro.mu/docs/cn/go-micro.html)
+- [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials)
+- [使用SpringBoot+Dubbo搭建微服务笔记](https://blog.csdn.net/qq_22152261/article/details/80300597)
+- [Kubernetes](https://kubernetes.io/zh/)
+- [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
+- [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
 
 ### 消息中间件
----
   - [EMQ](http://www.emqtt.com)
   - [kafka中文社区](http://kafka.apachecn.org/)
   - [kafka中文教程](http://www.orchome.com/kafka/index)
@@ -44,20 +43,22 @@ title: Bookmark
   - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
 
 ### Golang
-***
 - [Go 中文官方网站](https://go-zh.org/)
 - [Go 学习之路](https://github.com/developer-learning/learning-golang)
 - [高效Go编程](http://docscn.studygolang.com/doc/effective_go.html)
-- [Go 学习文档 · topgoer](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
-- [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为 Go 模块而生</small>
+- [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为Go模块而生</small>
+- [Hugo中文文档](https://www.gohugo.org/)
+- [Go 中国技术社区](https://gocn.io/)
+- [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
+- [Go 语言中文网](https://studygolang.com/)
+- [鸟窝](https://colobu.com/)
+- [煎鱼](https://eddycjy.com/)
+- [rpcx](https://rpcx.io/)<small>Go语言的RPC服务治理框架</small>
 - [Casbin](https://casbin.org/zh-CN/)
 - [GoAdmin](https://www.go-admin.cn/)
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
-- [Hugo中文文档](https://www.gohugo.org/)
 - [GO WEB IRIS](https://studyiris.com/)
-- [Go 中国技术社区](https://gocn.io/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
-- [X分钟速成GO](https://learnxinyminutes.com/docs/zh-cn/go-cn/)
 - [beego](https://beego.me/)
 - [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
 - [Echo](https://echo.labstack.com/)
@@ -65,11 +66,6 @@ title: Bookmark
 - [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
 - [GORM](http://gorm.io/zh_CN/)
 - [Most popular Go libraries](https://golanglibs.com/top)
-- [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/)
-- [Go 语言中文网](https://studygolang.com/)
-- [鸟窝](https://colobu.com/)
-- [煎鱼](https://eddycjy.com/)
-- [Mac OS下Windows和Linux交叉编译器](https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/)
 - [gojsonq](https://github.com/thedevsaddam/gojsonq)
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 
@@ -156,7 +152,6 @@ title: Bookmark
 ### 移动端
 ---
 - [React Native中文网](https://reactnative.cn/)
-- [Dart](https://www.dartcn.com/)
 - [Flutter中文网](https://flutterchina.club/)
 - [Flutter实战](https://book.flutterchina.club/)
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
@@ -283,5 +278,6 @@ title: Bookmark
 - [精品MAC应用分享](https://xclient.info/)
 - [MacX](https://www.macx.cn/)
 - [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
+- [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
 
 
