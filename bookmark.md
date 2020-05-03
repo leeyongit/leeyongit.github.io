@@ -12,7 +12,6 @@ title: Bookmark
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
  - [Learn X in Y minutes](https://learnxinyminutes.com/)
- - [Go 语言中文文档](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
 
 ### 博客
  - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
@@ -30,31 +29,46 @@ title: Bookmark
  - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
  - [guns-lite](http://blog.enilu.cn/guns-lite/)-<small>基于spring boot快速构建web应用程序</small>
 
-### 分布式
+### 架构
+- [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)
 - [Etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
 - [zookeeper入门](https://zookeeper.readthedocs.io/zh/latest/index.html)
 
 ### 容器编排
+- [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
 - [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
 - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
 
+### 缓存中间件
+- [Redis中文官网](http://www.redis.cn/)
+- [Redis 命令参考](http://redisdoc.com/index.html)
+
 ### 消息中间件
+  - [MQTT协议中文版](https://mcxiaoke.gitbook.io/mqtt/)
   - [EMQ](http://www.emqtt.com)
   - [kafka中文社区](http://kafka.apachecn.org/)
   - [kafka中文教程](http://www.orchome.com/kafka/index)
-  - [MQTT协议中文版](https://mcxiaoke.gitbook.io/mqtt/)
-  - [MQTT：QoS服务质量 0,1,2（Quality of Service 0, 1 & 2）](https://blog.csdn.net/acongge2010/article/details/79157945)
-  - [一文读懂MQTT协议](https://www.jianshu.com/p/5c42cb0ed1e9)
-  - [十分钟入门RocketMQ](http://jm.taobao.org/2017/01/12/rocketmq-quick-start-in-10-minutes/)
+  - [RabbitMQ 中文文档－PHP版](https://xiaoxiami.gitbook.io/rabbitmq_into_chinese_php/)
+
+### Elasticsearch
+ - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
+ - [Elastic中文社区](https://elasticsearch.cn/)
+ - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
+ - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
 
 ### Golang
+- [Go 语言中文文档](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
+- [Go语言圣经（中文版）](https://docs.hacknode.org/gopl-zh/)
+- [Go语言高级编程(Advanced Go Programming)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
+- [Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
+- [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/)
 - [Go 中文官方网站](https://go-zh.org/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [Go 学习之路](https://github.com/developer-learning/learning-golang)
 - [高效Go编程](http://docscn.studygolang.com/doc/effective_go.html)
-- [Go 社区文档](https://learnku.com/go/docs)
+- [Go 社区文档 - learnku](https://learnku.com/go/docs)
 - [Go 语言中文网](https://studygolang.com/)
 - [GOPROXY.IO](https://goproxy.io/zh/)<small>一个全球代理为Go模块而生</small>
 - [Hugo中文文档](https://www.gohugo.org/)
@@ -107,20 +121,7 @@ title: Bookmark
 - [Upload](https://github.com/brandonsavage/Upload)
 
 
-### Elasticsearch
----
- - [Elastic中文社区](https://elasticsearch.cn/)
- - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
- - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
-
-
-### Redis
-- [Redis中文官网](http://www.redis.cn/)
-- [Redis 命令参考](http://redisdoc.com/index.html)
-
-
 ### Python
-***
 - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 - [Scrapy 爬虫](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
@@ -131,6 +132,10 @@ title: Bookmark
 - [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
+
+### Nginx
+ - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
+ - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
 
 ### Linux 运维
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
@@ -212,6 +217,21 @@ title: Bookmark
  - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
  - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
+
+### 工具
+- [YApi](https://hellosean1025.github.io/yapi/index.html)
+- [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
+- [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
+- [在线工具 VIP](https://atool.vip/#/)
+- [Grok Debugger](http://grokdebug.herokuapp.com/)
+- [文件合并](https://www.filesmerge.com/zh)
+- [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
+- [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
+- [Android-studio](http://www.android-studio.org/)
+- [postwoman](https://postwoman.io/)
+- [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
+- [ServerStatus中文版一键安装及管理脚本](https://github.com/Moexin/ServerStatus-CN-OneKey)
+
 ### 区块链
  - [Solidity develop 文档](https://solidity-cn.readthedocs.io/zh/develop/)
  - [浏览器编译器Remix](http://remix.ethereum.org/)
@@ -226,20 +246,6 @@ title: Bookmark
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
  - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
  - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
-
-### 工具
-- [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
-- [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
-- [在线工具 VIP](https://atool.vip/#/)
-- [Grok Debugger](http://grokdebug.herokuapp.com/)
-- [文件合并](https://www.filesmerge.com/zh)
-- [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
-- [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
-- [Android-studio](http://www.android-studio.org/)
-- [postwoman](https://postwoman.io/)
-- [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
-- [ServerStatus中文版一键安装及管理脚本](https://github.com/Moexin/ServerStatus-CN-OneKey)
-
 
 ### 其他
  - [菜鸟教程](http://www.runoob.com/)
