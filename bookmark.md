@@ -98,6 +98,7 @@ title: Bookmark
     + [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
     + [Swoole文档中心-prid-2](https://wiki.swoole.com/wiki/index/prid-2)
  - [Hyperf ](https://hyperf.wiki/#/zh-cn/README)
+ - [HyperfCMS](https://wiki.hyperfcms.com/#/)
  - [easyswoole](https://www.easyswoole.com/)
  - [swoft](https://www.swoft.org/)
  - [Symfony China](http://www.symfonychina.com/)
