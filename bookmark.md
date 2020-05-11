@@ -89,10 +89,10 @@ title: Bookmark
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
 
 ### PHP
+ - [深入理解PHP内核](https://docs.kilvn.com/tipi/)
  - [大话设计模式](https://hulin.gitbook.io/design-patterns-by-php/)
  - [PHP之道](http://wulijun.github.io/php-the-right-way/)
  - [PHP最佳实践](http://phpbestpractices.justjavac.com/)
- - [深入理解PHP内核](https://docs.kilvn.com/tipi/)
  - [Workerman](http://www.workerman.net/)
  - [Swoole: PHP的异步、并行、高性能网络通信引擎](http://www.swoole.com/)
     + [Swoole文档中心-prid-1](https://wiki.swoole.com/wiki/index/prid-1)
@@ -111,7 +111,8 @@ title: Bookmark
 
 
 #### PHP Library
-- [whoops](http://filp.github.io/whoops/)
+- [EasyWeChat](https://www.easywechat.com/)
+- [Whoops](http://filp.github.io/whoops/)
 - [Mobile Detect](http://mobiledetect.net/)
 - [Carbon](https://carbon.nesbot.com/) - [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
 - [Medoo](https://medoo.in/) - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
@@ -121,34 +122,6 @@ title: Bookmark
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
 - [Upload](https://github.com/brandonsavage/Upload)
 
-
-### Python
-- [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
-- [Scrapy 爬虫](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
-- [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
-    - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
-- [Flask](http://docs.jinkan.org/docs/flask/)
-- [Flask中文学习网](http://flask123.sinaapp.com/)
-    - [Flask项目集成富文本编辑器CKeditor](http://flask123.sinaapp.com/article/49/)
-- [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
-- [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
-- [pyecharts](https://pyecharts.org/#/zh-cn/intro)
-
-### Nginx
- - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
- - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
-
-### Linux 运维
-- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
-- [Linux命令大全](http://man.linuxde.net/)
-- [运维生存时间](http://www.ttlsa.com/)
-- [Linux运维日志](https://www.centos.bz/)
-- [Remi's RPM repository](https://rpms.remirepo.net/)
-- [aria2](http://aria2.github.io/)
-- [LNMP](http://lnmp.org)
-- [OneinStack](https://oneinstack.com/)
-- [oneinstack一键部署linux生产环境那点事（ubuntu）](https://www.cnblogs.com/fx2008/p/5056123.html)
-- [OpenResty®](http://openresty.org/cn/)
 
 ### 移动端
 - [React Native中文网](https://reactnative.cn/)
@@ -175,17 +148,16 @@ title: Bookmark
 - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
 - [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
 - [jQuery WeUI](http://jqweui.com/)
+- [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
+- [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
+- [jquerytools](http://jquerytools.github.io/)
+- [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
+- [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
+- [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
-### UI
- - [Ant Design](https://ant.design/index-cn)
- - [Element UI](http://element-cn.eleme.io/#/zh-CN)
- - [layui 文档](https://www.layui.com/doc/)
- - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
- - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
- - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
- - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
- - [MUI](https://dev.dcloud.net.cn/mui/)
- - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
+#### JavaScript
+ - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+ - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
 
 #### React
 - [React](http://facebook.github.io/react/)
@@ -201,22 +173,43 @@ title: Bookmark
 - [Node.js中文文档](http://nodejs.cn/api/)
 - [NestJs](https://exlley.gitbooks.io/nest-js/) <small>一套现代化的基于Node.js的强大的Web应用框架</small>
 
-#### JavaScript
- - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
- - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
- - [深入理解Javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) - <small>汤姆大叔的博客</small>
- - [Javascript面向对象基础](http://coolshell.cn/articles/6441.html) - <small>酷壳</small>
- - [AJAX 跨域请求 - JSONP获取JSON数据](http://justcoding.iteye.com/blog/1366102)
- - [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
- - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
+### UI
+ - [Ant Design](https://ant.design/index-cn)
+ - [Element UI](http://element-cn.eleme.io/#/zh-CN)
+ - [layui 文档](https://www.layui.com/doc/)
+ - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+ - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
+ - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
+ - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
+ - [MUI](https://dev.dcloud.net.cn/mui/)
+ - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
 
-#### JS插件
- - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
- - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
- - [jquerytools](http://jquerytools.github.io/)
- - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
- - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
- - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
+### Linux 运维
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [Linux命令大全](http://man.linuxde.net/)
+- [运维生存时间](http://www.ttlsa.com/)
+- [Linux运维日志](https://www.centos.bz/)
+- [Remi's RPM repository](https://rpms.remirepo.net/)
+- [aria2](http://aria2.github.io/)
+- [LNMP](http://lnmp.org)
+- [OneinStack](https://oneinstack.com/)
+- [oneinstack一键部署linux生产环境那点事（ubuntu）](https://www.cnblogs.com/fx2008/p/5056123.html)
+- [OpenResty®](http://openresty.org/cn/)
+- [walle 瓦力](http://www.walle-web.io/)
+
+### Python
+- [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
+- [Scrapy 爬虫](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+- [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
+    - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
+- [Flask](http://docs.jinkan.org/docs/flask/)
+- [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
+- [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
+- [pyecharts](https://pyecharts.org/#/zh-cn/intro)
+
+### Nginx
+ - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
+ - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
 
 
 ### 工具
