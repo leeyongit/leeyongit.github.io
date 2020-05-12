@@ -12,6 +12,7 @@ title: Bookmark
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
  - [Learn X in Y minutes](https://learnxinyminutes.com/)
+ - [MySlide](https://myslide.cn/) <small>PPT分享服务的平台</small>
 
 ### 博客
  - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
