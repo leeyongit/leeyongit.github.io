@@ -59,11 +59,11 @@ title: Bookmark
  - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
 
 ### Golang
+- [《深入解析Go》](https://docs.kilvn.com/go-internals/)
 - [Go 语言中文文档](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
 - [Go语言圣经（中文版）](https://docs.hacknode.org/gopl-zh/)
 - [Go语言高级编程(Advanced Go Programming)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 - [Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
-- [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/)
 - [Go 中文官方网站](https://go-zh.org/)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
 - [Go 学习之路](https://github.com/developer-learning/learning-golang)
