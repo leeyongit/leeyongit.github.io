@@ -84,6 +84,7 @@ title: Bookmark
 - [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
 - [Echo](https://echo.labstack.com/)
 - [echo 中文文档](http://go-echo.org/)
+- [Fiber](https://docs.gofiber.io/v/cn/)
 - [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
 - [GORM](http://gorm.io/zh_CN/) - [文档](http://gorm.book.jasperxu.com/)
 - [Most popular Go libraries](https://golanglibs.com/top)
@@ -140,6 +141,7 @@ title: Bookmark
 - [前端里](http://www.yyyweb.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)
+- [Electron](https://www.electronjs.org/) - <smal>使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序</smal>
 - [easyicon](https://www.easyicon.net/)
 - [pexels](https://www.pexels.com/)
 - [iconfont](https://www.iconfont.cn/)
@@ -178,6 +180,7 @@ title: Bookmark
  - [Ant Design](https://ant.design/index-cn)
  - [Element UI](http://element-cn.eleme.io/#/zh-CN)
  - [layui 文档](https://www.layui.com/doc/)
+ - [View UI](https://iviewui.com/)
  - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
  - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
  - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
@@ -215,9 +218,11 @@ title: Bookmark
 
 ### 工具
 - [YApi](https://hellosean1025.github.io/yapi/index.html)
+- [顶尖 API 文档管理工具 (Yapi)](https://www.jianshu.com/p/a97d2efb23c5)
 - [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线工具 VIP](https://atool.vip/#/)
+- [base64图片转换工具](http://tool.chinaz.com/tools/imgtobase/)
 - [Grok Debugger](http://grokdebug.herokuapp.com/)
 - [文件合并](https://www.filesmerge.com/zh)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
