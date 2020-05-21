@@ -50,7 +50,7 @@ title: Bookmark
  - [Go语言高级编程(Advanced Go Programming)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
  - [Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
 
-#### Golang 站点
+#### Go 站点
 - [Go 中文官方网站](https://go-zh.org/)
 - [高效Go编程](http://docscn.studygolang.com/doc/effective_go.html)
 - [Go by Example 中文](https://books.studygolang.com/gobyexample/)
