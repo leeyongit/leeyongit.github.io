@@ -2,7 +2,6 @@
 layout: page
 title: Bookmark
 ---
-
 ### 学习社区
  - [SegmentFault](https://segmentfault.com/)
  - [InfoQ](https://www.infoq.cn/)
@@ -12,14 +11,14 @@ title: Bookmark
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
  - [Learn X in Y minutes](https://learnxinyminutes.com/)
- - [MySlide](https://myslide.cn/) <small>PPT分享服务的平台</small>
 
-### 博客
- - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
- - [韩天峰(Rango)的博客](http://rango.swoole.com/)
- - [风雪之隅](http://www.laruence.com/)
- - [歪麦博客](https://www.awaimai.com/)
- - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+### 数据结构与算法
+- [力扣中国](https://leetcode-cn.com/)
+- [GeeksForGeeks算法大全](https://www.geeksforgeeks.org)
+    - [fundamentals-of-algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+    - [data-structures](https://www.geeksforgeeks.org/data-structures/)
+    - [puzzles](https://www.geeksforgeeks.org/puzzles/)
+- [San Francisco 大学计算机学院算法可视化教学](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### 程序设计
  - [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
@@ -246,6 +245,13 @@ title: Bookmark
  - [区块链技术博客](https://me.tryblockchain.org/)
  - [深入浅出区块链](https://learnblockchain.cn/)
  - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
+
+### 博客
+ - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+ - [韩天峰(Rango)的博客](http://rango.swoole.com/)
+ - [风雪之隅](http://www.laruence.com/)
+ - [歪麦博客](https://www.awaimai.com/)
+ - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 ### Github 资源
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
