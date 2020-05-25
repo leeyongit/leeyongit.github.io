@@ -21,11 +21,9 @@ title: Bookmark
 - [San Francisco 大学计算机学院算法可视化教学](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### 程序设计
+ - [C 语言学习教程](https://www.nowcoder.com/tutorial/10002/8f7c3e0e7efd441d8f7c9c8d43c2a0f4)
  - [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
  - [Dart 编程语言中文网](https://www.dartcn.com/)
- - [Spring Initializr](https://start.spring.io/)
- - [Spring Boot 中文文档](https://docshome.gitbooks.io/springboot/content/)
- - [guns-lite](http://blog.enilu.cn/guns-lite/)-<small>基于spring boot快速构建web应用程序</small>
 
 ### 架构
 - [微服务：从设计到部署](https://docshome.gitbooks.io/microservices/content/)
@@ -52,7 +50,7 @@ title: Bookmark
 #### Go 站点
 - [Go 中文官方网站](https://go-zh.org/)
 - [高效Go编程](http://docscn.studygolang.com/doc/effective_go.html)
-- [Go by Example 中文](https://books.studygolang.com/gobyexample/)
+- [Go by Example 中文](https://gobyexample-cn.github.io/)
 - [Go 学习之路](https://github.com/developer-learning/learning-golang)
 - [Go 社区文档 - learnku](https://learnku.com/go/docs)
 - [Go 语言中文网](https://studygolang.com/)
@@ -104,6 +102,7 @@ title: Bookmark
 - [Carbon](https://carbon.nesbot.com/) - [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
 - [Medoo](https://medoo.in/) - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
 - [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
+- [PHP表单生成器](http://php.form-create.com/)
 - [Requests for PHP](http://requests.ryanmccue.info/)
 - [PHP Captcha library](https://github.com/Gregwar/Captcha)
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
@@ -200,7 +199,6 @@ title: Bookmark
 - [Linux命令大全](http://man.linuxde.net/)
 - [运维生存时间](http://www.ttlsa.com/)
 - [Linux运维日志](https://www.centos.bz/)
-- [Remi's RPM repository](https://rpms.remirepo.net/)
 - [aria2](http://aria2.github.io/)
 - [LNMP](http://lnmp.org)
 - [OneinStack](https://oneinstack.com/)
@@ -209,16 +207,17 @@ title: Bookmark
 - [walle 瓦力](http://www.walle-web.io/)
 
 ### Python
+- [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 - [Scrapy 爬虫](https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
 - [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
     - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
-- [Flask](http://docs.jinkan.org/docs/flask/)
-- [peewee 3.9.2 文档](https://www.osgeo.cn/peewee/)
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
+- [python 实战 grpc](https://www.jianshu.com/p/43fdfeb105ff)
 
 ### Nginx
+ - [Nginx 官方文档中文翻译版](https://docshome.gitbook.io/nginx-docs/)
  - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
  - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
 
@@ -238,6 +237,7 @@ title: Bookmark
 - [postwoman](https://postwoman.io/)
 - [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
 - [ServerStatus中文版一键安装及管理脚本](https://github.com/Moexin/ServerStatus-CN-OneKey)
+- [Spring Initializr](https://start.spring.io/)
 
 ### 区块链
  - [Solidity develop 文档](https://solidity-cn.readthedocs.io/zh/develop/)
