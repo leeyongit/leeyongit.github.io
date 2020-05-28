@@ -107,6 +107,7 @@ title: Bookmark
 - [PHP Captcha library](https://github.com/Gregwar/Captcha)
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
 - [Upload](https://github.com/brandonsavage/Upload)
+- [PHP Libzookeeper Extension](https://libzookeeper.readthedocs.io/en/latest/index.html#)
 
 ### 缓存中间件
 - [Redis中文官网](http://www.redis.cn/)
@@ -193,6 +194,7 @@ title: Bookmark
  - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
  - [MUI](https://dev.dcloud.net.cn/mui/)
  - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
+ - [vue ydui](http://vue.ydui.org/)
 
 ### Linux 运维
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
