@@ -153,7 +153,6 @@ title: Bookmark
 - [pexels](https://www.pexels.com/)
 - [iconfont](https://www.iconfont.cn/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
-- [Vuejs](https://cn.vuejs.org/index.html)
 - [BootCDN](https://www.bootcdn.cn/)
 - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
 - [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
@@ -164,6 +163,9 @@ title: Bookmark
 - [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
 - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
 - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
+- [Ant Design](https://ant.design/index-cn)
+- [Element UI](http://element-cn.eleme.io/#/zh-CN)
+- [layui 文档](https://www.layui.com/doc/)
 
 #### JavaScript
  - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
@@ -176,6 +178,7 @@ title: Bookmark
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [reactstrap](https://reactstrap.github.io/)
 - [React Suite](https://rsuitejs.com/) - <small>一套 React 的 UI 组件库</small>
+- [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
 
 #### Node.js
 - [Hexo](https://hexo.io/zh-cn/)
@@ -183,18 +186,16 @@ title: Bookmark
 - [Node.js中文文档](http://nodejs.cn/api/)
 - [NestJs](https://exlley.gitbooks.io/nest-js/) <small>一套现代化的基于Node.js的强大的Web应用框架</small>
 
-### UI
- - [Ant Design](https://ant.design/index-cn)
- - [Element UI](http://element-cn.eleme.io/#/zh-CN)
- - [layui 文档](https://www.layui.com/doc/)
+### Vue
+ - [Vuejs](https://cn.vuejs.org/index.html)
  - [View UI](https://iviewui.com/)
- - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
- - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
- - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
- - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
  - [MUI](https://dev.dcloud.net.cn/mui/)
  - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
  - [vue ydui](http://vue.ydui.org/)
+ - [VuePress](https://www.vuepress.cn/)
+ - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
+ - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+ - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
 
 ### Linux 运维
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
