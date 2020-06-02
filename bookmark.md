@@ -155,12 +155,9 @@ title: Bookmark
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [BootCDN](https://www.bootcdn.cn/)
 - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
-- [jQuery 菜单插件 metisMenu](http://mm.onokumus.com/)
 - [jQuery WeUI](http://jqweui.com/)
 - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
 - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
-- [jquerytools](http://jquerytools.github.io/)
-- [artDialog](http://aui.github.io/artDialog/)-<small>经典的网页对话框组件，内外皆用心雕琢</small>
 - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
 - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 - [Ant Design](https://ant.design/index-cn)
@@ -180,12 +177,6 @@ title: Bookmark
 - [React Suite](https://rsuitejs.com/) - <small>一套 React 的 UI 组件库</small>
 - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
 
-#### Node.js
-- [Hexo](https://hexo.io/zh-cn/)
-- [Node.js专业中文社区](https://cnodejs.org/)
-- [Node.js中文文档](http://nodejs.cn/api/)
-- [NestJs](https://exlley.gitbooks.io/nest-js/) <small>一套现代化的基于Node.js的强大的Web应用框架</small>
-
 ### Vue
  - [Vuejs](https://cn.vuejs.org/index.html)
  - [View UI](https://iviewui.com/)
@@ -196,6 +187,12 @@ title: Bookmark
  - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
  - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
  - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
+
+#### Node.js
+- [Hexo](https://hexo.io/zh-cn/)
+- [Node.js专业中文社区](https://cnodejs.org/)
+- [Node.js中文文档](http://nodejs.cn/api/)
+- [NestJs](https://exlley.gitbooks.io/nest-js/) <small>一套现代化的基于Node.js的强大的Web应用框架</small>
 
 ### Linux 运维
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
