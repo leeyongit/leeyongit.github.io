@@ -3,13 +3,14 @@ layout: page
 title: Bookmark
 ---
 ### 学习社区
- - [SegmentFault](https://segmentfault.com/)
+
  - [InfoQ](https://www.infoq.cn/)
  - [极客时间](https://time.geekbang.org/)
  - [GitChat](https://gitbook.cn/)
  - [摩天轮](https://www.modb.pro/)
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
+ - [SegmentFault](https://segmentfault.com/)
  - [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ### 数据结构与算法
