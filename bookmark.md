@@ -47,6 +47,7 @@ title: Bookmark
  - [Go语言圣经（中文版）](https://docs.hacknode.org/gopl-zh/)
  - [Go语言高级编程(Advanced Go Programming)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
  - [Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
+ - [Go编程时光](http://golang.iswbm.com/)
 
 #### Go 站点
 - [Go 中文官方网站](https://go-zh.org/)
