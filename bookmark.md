@@ -102,7 +102,7 @@ title: Bookmark
 - [Whoops](http://filp.github.io/whoops/)
 - [Mobile Detect](http://mobiledetect.net/)
 - [Carbon](https://carbon.nesbot.com/) - [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
-- [Medoo](https://medoo.in/) - [Medoo中文文档](http://lonewolf.oschina.io/medoo/)
+- [Medoo](https://medoo.in/) - [Medoo中文文档](https://medoo.lvtao.net/index.php)
 - [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
 - [PHP表单生成器](http://php.form-create.com/)
 - [Requests for PHP](http://requests.ryanmccue.info/)
