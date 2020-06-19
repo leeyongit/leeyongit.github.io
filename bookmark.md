@@ -3,7 +3,6 @@ layout: page
 title: Bookmark
 ---
 ### 学习社区
-
  - [InfoQ](https://www.infoq.cn/)
  - [极客时间](https://time.geekbang.org/)
  - [GitChat](https://gitbook.cn/)
@@ -11,7 +10,7 @@ title: Bookmark
  - [酷壳](https://www.coolshell.cn/)
  - [推酷](https://www.tuicool.com/)
  - [SegmentFault](https://segmentfault.com/)
- - [Learn X in Y minutes](https://learnxinyminutes.com/)
+
 
 ### 数据结构与算法
 - [力扣中国](https://leetcode-cn.com/)
@@ -22,6 +21,7 @@ title: Bookmark
 - [San Francisco 大学计算机学院算法可视化教学](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### 程序设计
+ - [Learn X in Y minutes](https://learnxinyminutes.com/)
  - [C 语言学习教程](https://www.nowcoder.com/tutorial/10002/8f7c3e0e7efd441d8f7c9c8d43c2a0f4)
  - [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
  - [Dart 编程语言中文网](https://www.dartcn.com/)
@@ -33,6 +33,7 @@ title: Bookmark
 - [zookeeper入门](https://zookeeper.readthedocs.io/zh/latest/index.html)
 
 ### Golang 学习
+ - [TalkGo](https://talkgo.org/)
  - [码农桃花源](https://qcrao91.gitbook.io/go/)
  - [面向信仰编程](https://draveness.me)
  - [欧神开源书《Go 语言原本》](https://changkun.de/golang/)
@@ -223,6 +224,7 @@ title: Bookmark
 
 
 ### 工具
+- [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 - [YApi](https://hellosean1025.github.io/yapi/index.html)
 - [顶尖 API 文档管理工具 (Yapi)](https://www.jianshu.com/p/a97d2efb23c5)
 - [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
