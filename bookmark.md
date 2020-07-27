@@ -162,7 +162,6 @@ title: Bookmark
 - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
 - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 - [Ant Design](https://ant.design/index-cn)
-- [Element UI](http://element-cn.eleme.io/#/zh-CN)
 - [layui 文档](https://www.layui.com/doc/)
 
 #### JavaScript
@@ -177,17 +176,23 @@ title: Bookmark
 - [reactstrap](https://reactstrap.github.io/)
 - [React Suite](https://rsuitejs.com/) - <small>一套 React 的 UI 组件库</small>
 - [Ant Design Mobile](https://mobile.ant.design/index-cn) - <small>一个基于 Preact / React / React Native 的 UI 组件库</small>
+- [Ant Design of React](https://ant.design/docs/react/introduce-cn)
 
 ### Vue
  - [Vuejs](https://cn.vuejs.org/index.html)
+ - [VuePress](https://www.vuepress.cn/)<small>Vue 驱动的静态网站生成器</small>
  - [View UI](https://iviewui.com/)
+ - [Element UI](https://element.eleme.cn/#/zh-CN)
+ - [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn/)
+ - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+ - [VUX](https://vux.li/)
+ - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
  - [MUI](https://dev.dcloud.net.cn/mui/)
  - [vue-awesome-mui](https://wscats.github.io/vue-awesome-mui/)
- - [vue ydui](http://vue.ydui.org/)
- - [VuePress](https://www.vuepress.cn/)
+ - [vue ydui](http://vue.ydui.org/)<small>一只基于Vue2.x的移动端&微信UI</small>
  - [Mint UI](http://mint-ui.github.io/#!/zh-cn) - <small>基于 Vue.js 的移动端组件库</small>
- - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
- - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
+
+
 
 #### Node.js
 - [Hexo](https://hexo.io/zh-cn/)
