@@ -102,6 +102,7 @@ title: Bookmark
 - [Mobile Detect](http://mobiledetect.net/)
 - [Carbon](https://carbon.nesbot.com/) - [Carbon中文文档](https://segmentfault.com/a/1190000012716974)
 - [Medoo](https://medoo.in/) - [Medoo中文文档](https://medoo.lvtao.net/index.php)
+- [dingo api 中文文档](https://www.bookstack.cn/read/dingo-api-wiki-zh/README.md)
 - [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html#)
 - [PHP表单生成器](http://php.form-create.com/)
 - [Requests for PHP](http://requests.ryanmccue.info/)
@@ -140,6 +141,8 @@ title: Bookmark
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
 
 ### 前端开发
+- [DCloud](https://www.dcloud.io/)
+- [Vue.js 教程](https://learning.dcloud.io/#/)
 - [Gulp 中文网](https://www.gulpjs.com.cn/)
 - [gulp 中文文档](https://www.gulpjs.com.cn/docs/)
 - [Webpack 中文网](https://www.webpackjs.com/)
