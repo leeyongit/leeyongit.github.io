@@ -17,7 +17,6 @@ title: Bookmark
 - [GeeksForGeeks算法大全](https://www.geeksforgeeks.org)
     - [fundamentals-of-algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
     - [data-structures](https://www.geeksforgeeks.org/data-structures/)
-    - [puzzles](https://www.geeksforgeeks.org/puzzles/)
 - [San Francisco 大学计算机学院算法可视化教学](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### 程序设计
@@ -42,12 +41,11 @@ title: Bookmark
  - [鸟窝](https://colobu.com/)
  - [Go Web开发示例](https://gowebexamples.com/)
  - [RPCX官网](https://rpcx.io/) - <small>Go语言的RPC服务治理框架</small>
- - [Go RPC 开发指南](https://cn.doc.rpcx.io/)
+ - [Go RPC 开发指南](https://cn.doc.rpcx.io/) - [gitbook版](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
  - [《深入解析Go》](https://docs.kilvn.com/go-internals/)
  - [Go 语言中文文档](http://www.topgoer.com/) - <small>[视频教程](https://space.bilibili.com/456307879/video)</small>
  - [Go语言圣经（中文版）](https://docs.hacknode.org/gopl-zh/)
  - [Go语言高级编程(Advanced Go Programming)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
- - [Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
  - [Go编程时光](http://golang.iswbm.com/)
 
 #### Go 站点
@@ -61,18 +59,16 @@ title: Bookmark
 - [Hugo中文文档](https://www.gohugo.org/)
 
 #### Go Library
-- [Micro](https://micro.mu/)
-- [Micro 中文教程](https://github.com/micro-in-cn/tutorials)
+- [Go-Micro框架](https://microhq.cn/docs/micro/introduce-cn)
 - [Casbin](https://casbin.org/zh-CN/)
 - [GoAdmin](https://www.go-admin.cn/)
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
 - [GO WEB IRIS](https://studyiris.com/)
 - [beego](https://beego.me/)
-- [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2018/gin-readme/3819)
-- [Echo](https://echo.labstack.com/)
-- [echo 中文文档](http://go-echo.org/)
-- [Fiber](https://docs.gofiber.io/v/cn/)
-- [Xorm 中文文档](http://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
+- [Gin](https://gin-gonic.com/) - [Gin 文档中文翻译](https://learnku.com/docs/gin-gonic/2019)
+- [Echo](https://echo.labstack.com/) - [echo 中文文档](http://echo.topgoer.com/)
+- [Fiber](https://docs.gofiber.io/)
+- [Xorm 中文文档](https://gobook.io/read/gitea.com/xorm/manual-zh-CN/)
 - [GORM](http://gorm.io/zh_CN/) - [文档](http://gorm.book.jasperxu.com/)
 - [Most popular Go libraries](https://golanglibs.com/top)
 - [Golang包](http://www.cnblogs.com/golove/tag/Golang%E5%8C%85/)
@@ -93,8 +89,6 @@ title: Bookmark
  - [Slim](http://www.slimframework.com/) - <small>PHP微框架，简单易用易拓展</small>
  - [Learnku laravel](https://learnku.com/laravel) - [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/5.8)
  - [Laravel学院](http://laravelacademy.org/)
- - [LaraBase](http://larabase.com/)
- - [100个常用的 PHP 类库、资源和技巧小结](http://blog.csdn.net/meiliangdeng1990/article/details/58682631)
 
 #### PHP Library
 - [EasyWeChat](https://www.easywechat.com/)
@@ -123,7 +117,6 @@ title: Bookmark
   - [RabbitMQ 中文文档－PHP版](https://xiaoxiami.gitbook.io/rabbitmq_into_chinese_php/)
 
 ### Elasticsearch
- - [Elasticsearch权威指南](https://es.xiaoleilu.com/010_Intro/00_README.html)
  - [Elastic中文社区](https://elasticsearch.cn/)
  - [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
  - [Elasticsearch-PHP 中文文档](https://learnku.com/docs/elasticsearch-php/6.0/)
@@ -131,8 +124,7 @@ title: Bookmark
 ### 容器编排
 - [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 - [Kubernetes 生产级别的容器编排系统](https://kubernetes.io/zh/)
-- [Kubernetes 中文社区](https://www.kubernetes.org.cn/)
-- [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
+- [Kubernetes 中文社区](https://www.kubernetes.org.cn/) - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
 
 ### 移动端
 - [React Native中文网](https://reactnative.cn/)
@@ -141,6 +133,7 @@ title: Bookmark
 - [Flutter Codelabs](https://codelabs.flutter-io.cn/)
 
 ### 前端开发
+- [Ant Design](https://ant.design/index-cn)
 - [DCloud](https://www.dcloud.io/)
 - [Vue.js 教程](https://learning.dcloud.io/#/)
 - [Gulp 中文网](https://www.gulpjs.com.cn/)
@@ -164,7 +157,6 @@ title: Bookmark
 - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
 - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
 - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
-- [Ant Design](https://ant.design/index-cn)
 - [layui 文档](https://www.layui.com/doc/)
 
 #### JavaScript
@@ -223,7 +215,7 @@ title: Bookmark
     - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
-- [python 实战 grpc](https://www.jianshu.com/p/43fdfeb105ff)
+
 
 ### Nginx
  - [Nginx 官方文档中文翻译版](https://docshome.gitbook.io/nginx-docs/)

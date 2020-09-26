@@ -3,7 +3,7 @@ title: Lee Yong
 subtitle: Miracles happen every day.
 welcome_message: 记录学习的点滴
 description: 嗨，我是李永，一名 PHP/Golang 开发者。
-creator: <a href="http://leeyongit.github.io">@leeyongit</a>
+creator: <a href="http://liyong.one">@leeyongit</a>
 
 url: "https://leeyongit.github.io/"
 
@@ -20,9 +20,9 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: Bookmark, description: Favorites, url: 'https://leeyongit.github.io/bookmark'}
+    - {title: Bookmark, description: Favorites, url: 'http://liyong.one/bookmark'}
     - {title: Notes, description: Notes, url: 'https://github.com/leeyongit/StudyNotes'}
-    - {title: About, description: About, url: 'http://leeyongit.github.io/about'}
+    - {title: About, description: About, url: 'http://liyong.one/about'}
 
 # Pagination
 plugins: [jekyll-paginate]
