@@ -216,7 +216,6 @@ title: Bookmark
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
 
-
 ### Nginx
  - [Nginx 官方文档中文翻译版](https://docshome.gitbook.io/nginx-docs/)
  - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
@@ -227,7 +226,6 @@ title: Bookmark
 - [TinyPNG](https://tinypng.com/)
 - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 - [YApi](https://hellosean1025.github.io/yapi/index.html)
-- [顶尖 API 文档管理工具 (Yapi)](https://www.jianshu.com/p/a97d2efb23c5)
 - [showdoc](https://www.showdoc.cc/) - <small>在线API文档、技术文档工具</small>
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线工具 VIP](https://atool.vip/#/)
@@ -237,9 +235,7 @@ title: Bookmark
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
 - [Android-studio](http://www.android-studio.org/)
-- [postwoman](https://postwoman.io/)
 - [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
-- [ServerStatus中文版一键安装及管理脚本](https://github.com/Moexin/ServerStatus-CN-OneKey)
 - [Spring Initializr](https://start.spring.io/)
 
 ### 区块链
@@ -269,12 +265,10 @@ title: Bookmark
  - [Ruby-china](https://ruby-china.org/)
  - [GraphQL: 一种用于 API 的查询语言](http://graphql.cn/)
  - [V2EX](http://www.v2ex.com/)
- - [XSS CSRF 攻击](http://www.cnblogs.com/siqi/archive/2012/11/19/2777224.html)
 - [努努书坊](http://www.kanunu8.com/)
 - [TOPIDE](http://www.topide.com/)
 - [精品MAC应用分享](https://xclient.info/)
 - [MacX](https://www.macx.cn/)
-- [莓派---MAC下安装Raspbian](http://www.ihubin.com/blog/raspberrypi-mac-install-raspbian/)
 - [english-level-up-tips](https://byoungd.gitbook.io/english-level-up-tips/)
 
 
