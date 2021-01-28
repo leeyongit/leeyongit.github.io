@@ -65,12 +65,12 @@ stderr_logfile=/path/app.log                          ; 错误日志
 > 一定要将被supervisor所管理的进程在**前台**运行，如果进程正在运行，请先关闭。
 
 ### 重载配置
-```
+```sh
 supervisorctl reread && supervisorctl update
 ```
 执行完上面的命令，可以看到控制台会输出如下结果
 
-```
+```sh
 nginx: available
 nginx: added process group
 ```
@@ -86,7 +86,7 @@ nginx: added process group
 
 运行`supervisorctl`命令，不加参数，会进入`supervisor`客户端的交互终端，并会列出当前所管理的所有进程。
 
-```
+```sh
 [root@localhost ~]# supervisorctl
 nginx                            RUNNING   pid 4423, uptime 0:00:02
 supervisor> help
@@ -104,7 +104,7 @@ supervisor>
 
 ### Bash终端命令
 
-```
+```sh
 supervisorctl status
 supervisorctl stop nginx
 supervisorctl start nginx
@@ -117,7 +117,7 @@ supervisorctl update # 配合reread使用
 
 默认配置没有开启WEB管理界面，需要修改主配置文件`supervisord.conf`配置文件中打开,并修改如下内容。
 
-```
+```sh
 ;[inet_http_server]         ; inet (TCP) server disabled by default
 ;port=127.0.0.1:9001        ; (ip_address:port specifier, *:port for all iface)
 ;username=user              ; (default is no username (open server))
@@ -126,7 +126,7 @@ supervisorctl update # 配合reread使用
 
 修改为：
 
-```
+```sh
 [inet_http_server]         ; inet (TCP) server disabled by default
 port=0.0.0.0:9001          ; (ip_address:port specifier, *:port for all iface)
 username=user              ; (default is no username (open server))
@@ -147,46 +147,47 @@ password=123               ; (default is no password (open server))
 ### 添加systemctl服务
 
 1. 创建supervisor.service文件。
-    > 进入`/lib/systemd/system`目录，并创建`supervisor.service`文件，文件内容如下：
-    >```
-    >[Unit]
-    >Description=supervisor
-    >After=network.target
-    >
-    >[Service]
-    >Type=forking
-    >ExecStart=/usr/bin/supervisord -c /etc/supervisord.conf
-    >ExecStop=/usr/bin/supervisorctl $OPTIONS shutdown
-    >ExecReload=/usr/bin/supervisorctl $OPTIONS reload
-    >KillMode=process
-    >Restart=on-failure
-    >RestartSec=42s
-    >
-    >[Install]
-    >WantedBy=multi-user.target
-    >```
+     进入`/lib/systemd/system`目录，并创建`supervisor.service`文件，文件内容如下：
+
+```sh
+[Unit]
+Description=supervisor
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=/usr/bin/supervisord -c /etc/supervisord.conf
+ExecStop=/usr/bin/supervisorctl $OPTIONS shutdown
+ExecReload=/usr/bin/supervisorctl $OPTIONS reload
+KillMode=process
+Restart=on-failure
+RestartSec=42s
+
+[Install]
+WantedBy=multi-user.target
+```
 
 2. 修改文件权限
-```
+```sh
 chmod 766 supervisor.service
 ```
 
 3. 设置开机启动
-```
+```sh
 systemctl enable supervisor.service
 systemctl daemon-reload
 systemctl start/restart/stop supervisor.service
 ```
 
 4. 验证是否开机自启动
-```
+```sh
 systemctl is-enabled supervisor
 ```
 
 
 ### 添加service服务
 
-```
+```sh
 #!/bin/bash
 #
 # supervisord   This scripts turns supervisord on
@@ -253,7 +254,7 @@ exit $RETVAL
 ```
 将上面的代码内容保存到`/etc/rc.d/init.d/supervisor`文件并将文件权限修改为755，并设置开机自启动。
 
-```
+```sh
 chmod 755 /etc/rc.d/init.d/supervisor
 chkconfig supervisor on
 ```
