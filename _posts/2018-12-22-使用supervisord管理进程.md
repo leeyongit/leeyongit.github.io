@@ -148,7 +148,6 @@ password=123               ; (default is no password (open server))
 
 1. 创建supervisor.service文件。
 进入`/lib/systemd/system`目录，并创建`supervisor.service`文件，文件内容如下：
-
 ```sh
 [Unit]
 Description=supervisor
