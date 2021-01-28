@@ -146,9 +146,10 @@ password=123               ; (default is no password (open server))
 
 ### 添加systemctl服务
 
-1. 创建supervisor.service文件
+##### 1、创建supervisor.service文件
 
 进入`/lib/systemd/system`目录，并创建`supervisor.service`文件，文件内容如下：
+
 ```sh
 [Unit]
 Description=supervisor
@@ -167,19 +168,22 @@ RestartSec=42s
 WantedBy=multi-user.target
 ```
 
-2. 修改文件权限
+##### 2、修改文件权限
+
 ```sh
 chmod 766 supervisor.service
 ```
 
-3. 设置开机启动
+##### 3、设置开机启动
+
 ```sh
 systemctl enable supervisor.service
 systemctl daemon-reload
 systemctl start/restart/stop supervisor.service
 ```
 
-4. 验证是否开机自启动
+##### 4、验证是否开机自启动
+
 ```bash
 systemctl is-enabled supervisor
 ```
