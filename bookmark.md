@@ -215,6 +215,7 @@ title: Bookmark
     - [编写你的第一个 Django 应用](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
 - [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html)
 - [pyecharts](https://pyecharts.org/#/zh-cn/intro)
+- [Selenium with Python中文翻译文档](https://selenium-python-zh.readthedocs.io/en/latest/index.html)
 
 ### Nginx
  - [Nginx 官方文档中文翻译版](https://docshome.gitbook.io/nginx-docs/)
