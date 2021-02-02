@@ -14,10 +14,10 @@ github：https://github.com/beanstalkd
 
 ## 二：功能特性
 
-* **优先级** 
+* **优先级** 	
   任务job可以有0~2^32 个优先级, 0 代表最高优先级，默认优先级为1024。
 
-* **延迟 delay** 
+* **延迟delay** 
   比如说多长时间后执行某个任务
 
 * **持久化** 
@@ -62,11 +62,11 @@ github：https://github.com/beanstalkd
 
 任务进入管道到离开管道一共有5个状态 ：（ready，delayed，reserved，buried，delete）
 
-- **READY ** - 需要立即处理的任务，当延时 (DELAYED) 任务到期后会自动成为当前任务；
-- **DELAYED ** - 延迟执行的任务, 当消费者处理任务后, 可以用将消息再次放回 DELAYED 队列延迟执行；
-- **RESERVED ** - 已经被消费者获取, 正在执行的任务。Beanstalkd 负责检查任务是否在 TTR(time-to-run) 内完成；
-- **BURIED  **- 保留的任务: 任务不会被执行，也不会消失，除非有人把它 "踢" 回队列；
-- **DELETED ** - 消息被彻底删除。Beanstalkd 不再维持这些消息。
+- **READY** - 需要立即处理的任务，当延时 (DELAYED) 任务到期后会自动成为当前任务；
+- **DELAYED** - 延迟执行的任务, 当消费者处理任务后, 可以用将消息再次放回 DELAYED 队列延迟执行；
+- **RESERVED** - 已经被消费者获取, 正在执行的任务。Beanstalkd 负责检查任务是否在 TTR(time-to-run) 内完成；
+- **BURIED**- 保留的任务: 任务不会被执行，也不会消失，除非有人把它 "踢" 回队列；
+- **DELETED** - 消息被彻底删除。Beanstalkd 不再维持这些消息。
 
 ### 状态流程
 
