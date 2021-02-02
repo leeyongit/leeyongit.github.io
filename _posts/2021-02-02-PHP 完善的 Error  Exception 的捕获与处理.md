@@ -482,3 +482,8 @@ echo "run finished!" . PHP_EOL;
 5、try ... catch 可以捕获所有的 Exception 和 E_ERROR & E_PARSE 级的错误。程序不会退出执行。
 
 6、PHP 自带了一些 Predefined Exceptions，同时有规范一些 SPL Exceptions，供开发者规范自己的错误异常架构。
+
+
+
+转载自 https://segmentfault.com/a/1190000014977430
+
