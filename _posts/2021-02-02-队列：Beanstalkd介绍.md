@@ -14,19 +14,19 @@ github：https://github.com/beanstalkd
 
 ## 二：功能特性
 
-* **优先级**
+* **优先级** 
   任务job可以有0~2^32 个优先级, 0 代表最高优先级，默认优先级为1024。
 
-* **延迟 delay**
+* **延迟 delay** 
   比如说多长时间后执行某个任务
 
-* **持久化**
+* **持久化** 
   可以通过binlog将job及其状态记录到文件里面，在Beanstalkd下次启动时可以通过读取binlog来恢复之前的job及状态。
 
-* **超时控制**
+* **超时控制** 
   为了防止某个consumer长时间占用任务但不能处理的情况，Beanstalkd为reserve操作设置了timeout时间，如果该consumer不能在指定时间内完成job，job将被迁移回READY状态，供其他consumer执行。
 
-* **分布式容错**
+* **分布式容错** 
   因为它是类Memcached设计，beanstalkd各个server之间并不知道彼此的存在，都是通过client来实现分布式以及根据tube名称去特定server获取job。
 
 ## 三：使用场景
@@ -47,8 +47,6 @@ github：https://github.com/beanstalkd
 
 ## 四：Beanstalkd设计基本概念
 
-
-
 ### 4.1 核心概念
 
 - **job**：一个需要异步处理的任务，是Beanstalkd中的基本单元，需要放在一个tube中
@@ -62,14 +60,13 @@ github：https://github.com/beanstalkd
 
 生产者生成任务，并根据业务需求将任务放到不同的管道中。比如与注册有关的任务放到注册管道中，和订单有关的任务放到订单管道中。
 
-任务进入管道到离开管道一共有5个状态 ：
-（ready，delayed，reserved，buried，delete）
+任务进入管道到离开管道一共有5个状态 ：（ready，delayed，reserved，buried，delete）
 
-- **READY **- 需要立即处理的任务，当延时 (DELAYED) 任务到期后会自动成为当前任务；
-- **DELAYED **- 延迟执行的任务, 当消费者处理任务后, 可以用将消息再次放回 DELAYED 队列延迟执行；
-- **RESERVED **- 已经被消费者获取, 正在执行的任务。Beanstalkd 负责检查任务是否在 TTR(time-to-run) 内完成；
-- **BURIED **- 保留的任务: 任务不会被执行，也不会消失，除非有人把它 "踢" 回队列；
-- **DELETED **- 消息被彻底删除。Beanstalkd 不再维持这些消息。
+- **READY ** - 需要立即处理的任务，当延时 (DELAYED) 任务到期后会自动成为当前任务；
+- **DELAYED ** - 延迟执行的任务, 当消费者处理任务后, 可以用将消息再次放回 DELAYED 队列延迟执行；
+- **RESERVED ** - 已经被消费者获取, 正在执行的任务。Beanstalkd 负责检查任务是否在 TTR(time-to-run) 内完成；
+- **BURIED  **- 保留的任务: 任务不会被执行，也不会消失，除非有人把它 "踢" 回队列；
+- **DELETED ** - 消息被彻底删除。Beanstalkd 不再维持这些消息。
 
 ### 状态流程
 
