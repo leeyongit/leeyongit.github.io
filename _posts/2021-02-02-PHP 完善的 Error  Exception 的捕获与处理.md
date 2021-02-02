@@ -7,7 +7,7 @@ tags: [PHP]
 
 PHP（PHP_VERSION >= 7） 的 Error / Exception 的捕获与处理还是值得一说的，优雅处理错误与异常，在提升框架友好度的同时，也提升了开发效率。
 
-# PHP 错误等级
+## PHP 错误等级
 
 ```ini
 # 系统级用户代码的一些错误类型 可由 try ... catch ... 捕获
@@ -52,7 +52,7 @@ PHP 的错误处理其实可以分为：**用户自定义错误处理** 和 **PH
 
 注意：PHP 的所有的 Exception 都属于 E_ERROR 级的错误，抛出时如果没有被捕获而交由 PHP 标准错误处理的话，就会 Fatal Error 导致程序退出执行。当然，PHP7 为了细化错误级别，划分了 Error 级 Error 的衍生类，这些也都属于 E_ERROR 级别的错误。
 
-# PHP 标准错误处理
+## PHP 标准错误处理
 
 PHP 标准错误处理是在一些错误没有被用户捕获处理（没有被 try ... catch ... 或 set_error_handler 捕获处理）时，错误 会递交至 PHP 标准错误处理。相关的设置项如下：
 
@@ -69,25 +69,25 @@ ini_set('log_errors', true);
 ini_set('error_log', __DIR__ . '/php-errors.log');
 ```
 
-## 1、error_reporting([level])
+### 1、error_reporting([level])
 
 获取或设定当前错误的监听级别。要注意，是获取或设定的 PHP 标准错误处理 的级别，不会有效于 try...catch... 或 set_error_handler。
 
-## 2、display_errors
+### 2、display_errors
 
 是否将错误信息回显至标准输出。默认开启，生产环境下强烈建议 **关闭** 此项。
 
-## 3、log_errors
+### 3、log_errors
 
 是否记录错误日志。默认关闭，生产环境下强烈建议 **开启** 此项。
 
-## 4、error_log
+### 4、error_log
 
 错误日志的保存文件。注意：如果路径无效，display_errors 会被强制开启。
 
-# PHP 用户自定义错误处理
+## PHP 用户自定义错误处理
 
-## 1、set_error_handler
+### 1、set_error_handler
 
 set_error_handler 并非可以捕获所有错误，且 set_error_handler 不会终止程序继续执行。处理后若返回 false，则错误会被继续递交给 PHP 标准错误处理 流程。
 
@@ -144,7 +144,7 @@ trigger_error("用户自定义 deprecated error", E_USER_DEPRECATED);
 trigger_error("用户自定义 fatal error", E_USER_ERROR);
 ```
 
-## 2、trigger_error
+### 2、trigger_error
 
 trigger_error 用来触发用户级别的自定义错误，可以使用 set_error_handler 捕获处理。
 默认的错误级别是 **E_USER_NOTICE**，我们可以自定义。
@@ -165,7 +165,7 @@ trigger_error('用户自定义 fatal error', E_USER_ERROR);
 echo 'D point will not be executed' . PHP_EOL;
 ```
 
-## 3、set_exception_handler
+### 3、set_exception_handler
 
 set_exception_handler 用户自定义捕获异常 handler，异常没有被 try ... catch 捕获处理的话会被抛出，此时系统会检查上下文是否注册了 set_exception_handler。
 如果未注册 则进入 PHP 标准错误处理 致命错误退出执行。
@@ -185,7 +185,7 @@ throw new Exception('hello world!');
 echo 'will i be executed？';
 ```
 
-## 4、try ... catch ...
+### 4、try ... catch ...
 
 开发中用户层面的 set_error_hanlder 无法捕获的错误还剩下 **E_ERROR** 和 **E_PARSE** 两个级别，使用 try ... catch ... 则可以将这俩货捕捉到。
 
@@ -270,7 +270,7 @@ try {
 }
 ```
 
-# PHP 预定义的 Error 和 Exception
+## PHP 预定义的 Error 和 Exception
 
 Predefined Exceptions 预定义异常 可由系统自动抛出
 [http://php.net/manual/en/rese...](http://php.net/manual/en/reserved.exceptions.php)
@@ -302,7 +302,7 @@ SPL Exceptions SPL 标准规范异常 可供开发者规范代码自行抛出
 > UnderflowException
 > UnexpectedValueException
 
-# 完善的错误和异常捕获
+## 完善的错误和异常捕获
 
 下面的代码基本呈现和捕获了 PHP7 提供的所有预定义错误和异常 及 PHP 标准错误处理
 1、使用 try ... catch 捕获 E_ERROR 及 E_PARSE 级别的 Error (及Error 类的衍生类) 和 Exception (ErrorException)。
@@ -469,7 +469,7 @@ try {
 echo "run finished!" . PHP_EOL;
 ```
 
-# 总结
+## 总结
 
 1、PHP 允许用户自定义 Error 和 Exception 的捕获与处理。如用户未捕获处理，则会递交给 PHP 标准错/异常处理，根据 errror_reporting display_errors log_erros error_log 参数决定处理方式。生产环境应关闭 display_errors 同时开启 log_errors 记录错误日志。
 
