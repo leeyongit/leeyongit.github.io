@@ -90,7 +90,7 @@ consumer获取了当前 `ready` 的job后，该job就会迁移到 `reserved` 状
 > 也就是说：当消费者处理完任务后，任务的状态可能是delete（删除，处理成功），可能是buried（预留，意味着先把任务放一边，等待条件成熟还要用），可能是ready，也可能是delayed，需要根据具体业务场景自己进行判断定义
 
 
-示意图：![beanstalkd](../assets/images/beanstalkd.png)
+示意图：![beanstalkd](http://liyong.one/assets/images/beanstalkd.png)
 
 ## 五：例子
 
