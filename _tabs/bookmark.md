@@ -249,4 +249,17 @@ order: 4
  - [精品MAC应用分享](https://xclient.info/)
  - [MacX](https://www.macx.cn/)
 
+ <script type="text/javascript">
+$(function() {
+  $('.post-content a').each(function(index, element) {
+    var href = $(this).attr('href');
+    if (href.indexOf('#') == 0) {} else if (href.indexOf('/') == 0 || href.toLowerCase().indexOf('liyong.one') > -1) {
+      $(this).attr('target', '_self');
+    } else {
+      $(this).attr('target', '_blank');
+    }
+  });
+});
+</script>
+
 
