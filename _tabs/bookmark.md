@@ -54,7 +54,6 @@ order: 4
 #### Go Library
 - [GoAdmin](https://www.go-admin.cn/)
 - [gRPC Go Quick Start](https://grpc.io/docs/quickstart/go/)
-- [beego](https://beego.me/)
 - [Gin](https://gin-gonic.com/)
 - [Echo](https://echo.labstack.com/) - [echo 中文文档](http://echo.topgoer.com/)
 - [Fiber](https://docs.gofiber.io/)
