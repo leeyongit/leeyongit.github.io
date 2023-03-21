@@ -89,8 +89,7 @@ order: 4
 - [Requests for PHP](http://requests.ryanmccue.info/)
 - [PHP Captcha library](https://github.com/Gregwar/Captcha)
 - [Cache](https://github.com/desarrolla2/Cache) - <small>A simple cache library</small>
-- [Upload](https://github.com/brandonsavage/Upload)
-- [PHP Libzookeeper Extension](https://libzookeeper.readthedocs.io/en/latest/index.html#)
+
 
 ### 缓存中间件
 - [Redis中文官网](http://www.redis.cn/)
@@ -98,7 +97,7 @@ order: 4
 
 ### 消息中间件
   - [MQTT协议中文版](https://mcxiaoke.gitbook.io/mqtt/)
-  - [EMQ](http://www.emqtt.com)
+  - [EMQ](https://www.emqx.com/zh)
   - [kafka中文教程](http://www.orchome.com/kafka/index)
   - [RabbitMQ 中文文档－PHP版](https://xiaoxiami.gitbook.io/rabbitmq_into_chinese_php/)
 
@@ -132,21 +131,16 @@ order: 4
 - [Bootstrap中文网](http://www.bootcss.com/)
 - [A啦多梦告诉你浏览器对 CSS3 的支持程度](http://knb.im/css3/)
 - [Electron](https://www.electronjs.org/) - <smal>使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序</smal>
-- [easyicon](https://www.easyicon.net/)
 - [pexels](https://www.pexels.com/)
 - [iconfont](https://www.iconfont.cn/)
 - [Angular 中文网](http://www.angularjs.net.cn/)
 - [BootCDN](https://www.bootcdn.cn/)
 - [Bootswatch](https://bootswatch.com/) - <small>免费的 Bootstrap 主题包</small>
-- [jQuery WeUI](http://jqweui.com/)
 - [HTML5 video player](http://www.videojs.com/) - <small>视频播放器</small>
 - [audio.js](http://kolber.github.io/audiojs/) - <small>音频播放器</small>
 - [mapCanvas](http://lukeupup.github.io/mapCanvas/)-<small>基于jQuery和Raphaël的中国地图</small>
 - [Prism.js](http://prismjs.com/) - <small>漂亮的代码高亮</small>
 
-#### JavaScript
- - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
- - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
 
 #### React
 - [React](http://facebook.github.io/react/)
@@ -163,7 +157,6 @@ order: 4
  - [Element UI](https://element.eleme.cn/#/zh-CN)
  - [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn/)
  - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
- - [VUX](https://vux.li/)
  - [Vant](https://youzan.github.io/vant/#/zh-CN/home) - <small>轻量、可靠的移动端 Vue 组件库</small>
  - [MUI](https://dev.dcloud.net.cn/mui/)
 
@@ -176,8 +169,6 @@ order: 4
 
 ### Linux 运维
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
-- [Linux命令大全](http://man.linuxde.net/)
-- [运维生存时间](http://www.ttlsa.com/)
 - [aria2](http://aria2.github.io/)
 - [LNMP](http://lnmp.org)
 - [OneinStack](https://oneinstack.com/)
@@ -207,27 +198,12 @@ order: 4
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算](http://www.bejson.com/convert/filesize/)
 - [在线工具 VIP](https://atool.vip/#/)
 - [base64图片转换工具](http://tool.chinaz.com/tools/imgtobase/)
-- [Grok Debugger](http://grokdebug.herokuapp.com/)
 - [文件合并](https://www.filesmerge.com/zh)
 - [Fotor：免费的在线图片编辑与创作工具](https://www.fotor.com/cn/)
 - [JW Player Stream Tester](https://developer.jwplayer.com/tools/stream-tester/)
-- [Android-studio](http://www.android-studio.org/)
 - [HTML to JSX Compiler](https://magic.reactjs.net/htmltojsx.htm)
 - [Spring Initializr](https://start.spring.io/)
 
-### 区块链
- - [Solidity develop 文档](https://solidity-cn.readthedocs.io/zh/develop/)
- - [区块链技术博客](https://me.tryblockchain.org/)
- - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
-
-
-### Github 资源
- - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#php)
- - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
- - [前端技能汇总](https://github.com/benlingxiao/fks)
- - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
- - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
- - [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 
 ### 博客
  - [风雪之隅](http://www.laruence.com/)
@@ -236,8 +212,7 @@ order: 4
  - [烟花易冷人憔悴](https://www.cnblogs.com/FireworksEasyCool/)
  - [于雨氏(AlexStocks) 的小站](http://alexstocks.github.io/)
  - [敬维](https://jingwei.link/)
- - [拖鞋](http://yanyiwu.com/)
- - [guaosi的博客](https://www.guaosi.com/)
+
 
 ### 其他
  - [Ruby-china](https://ruby-china.org/)
