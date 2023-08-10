@@ -1,7 +1,7 @@
 ---
 title: Golang map 三板斧第三式：实现原理
 categories: [技术, Golang]
-tags: [Go]
+tags: [Golang]
 ---
 
 以 [Go 1.15](https://blog.golang.org/go1.15)
