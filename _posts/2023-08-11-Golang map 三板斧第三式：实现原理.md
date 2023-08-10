@@ -24,7 +24,7 @@ map 的数据结构定义于 src/runtime/map.go 中，首先我们看下相关�
 
 常量定义：
 
-```javascript
+```golang
 const (
 	// Maximum number of key/elem pairs a bucket can hold.
 	bucketCntBits = 3
@@ -59,7 +59,7 @@ const (
 
 常量说明：
 
-```javascript
+```golang
 // map 的基本属性设定
 bucketCnt：表示一个桶最多存储 8 个 key-value 对
 loadFactorNum/loadFactorDen：表示装载因子为 6.5，即元素数量超过（桶数量*6.5） 时将触发 map 扩容。用两个整数表示装载因子，原因是可用于整数表达式
@@ -81,7 +81,7 @@ sameSizeGrow：正在向同大小的 map 做扩容
 
 map 定义：
 
-```javascript
+```golang
 // A header for a Go map.
 type hmap struct {
 	// Note: the format of the hmap is also encoded in cmd/compile/internal/gc/reflect.go.
@@ -119,7 +119,7 @@ type mapextra struct {
 
 hmap 说明：
 
-```javascript
+```golang
 count：元素的个数。len() 函数返回的就是这个值
 flags：状态标记位。如是否被多线程读写、迭代器在使用新桶、迭代器在使用旧桶等
 B：桶指数，表示 hash 数组中桶数量为 2^B（不包括溢出桶）。最大可存储元素数量为 loadFactor * 2^B
@@ -137,7 +137,7 @@ extra.nextOverflow：下一个空闲溢出桶地址
 
 bmap 定义：
 
-```javascript
+```golang
 // A bucket for a Go map.
 type bmap struct {
 	// tophash generally contains the top byte of the hash value
@@ -154,7 +154,7 @@ type bmap struct {
 
 bmap 说明：
 
-```javascript
+```golang
 tohash：	存储桶内 8 个 key 的 hash 值的高字节。tophash[0] < minTopHash 表示桶处于扩容迁移状态
 ```
 
@@ -162,7 +162,7 @@ tohash：	存储桶内 8 个 key 的 hash 值的高字节。tophash[0] < minTopH
 
 另外，map.go 里很多函数的第 1 个入参是下面这个结构，从成员来看很明显，此结构标示了键值对和桶的类型和大小等必要信息。有了这个结构的信息，map.go 的代码就可以与键值对的具体数据类型解耦。所以 map.go 用内存偏移量和 unsafe.Pointer 指针来直接对内存进行存取，而无需关心 key 或 value 的具体类型。
 
-```javascript
+```golang
 type maptype struct {
 	typ    _type
 	key    *_type
@@ -183,7 +183,7 @@ C++ 使用模板可以根据不同的类型生成 map 的代码。Golang 则通�
 
 创建 map 时，会初始化一个 hmap 结构体，同时分配一个足够大的内存空间 A。其中 A 的前段用于 hash 数组，A 的后段预留给溢出的桶。于是 `hmap.buckets` 指向 hash 数组，即 A 的首地址；`hmap.extra.nextOverflow` 初始时指向内存 A 中的后段，即 hash 数组结尾的下一个桶，也即第 1 个预留的溢出桶。所以当 hash 冲突需要使用到新的溢出桶时，会优先使用上述预留的溢出桶。`hmap.extra.nextOverflow` 依次往后偏移直到用完所有的溢出桶，才有可能会申请新的溢出桶空间。
 
-![](https://ask.qcloudimg.com/http-save/yehe-2609282/rafej6fyu0.png)
+![](/assets/img/posts/golang-map.png)
 
 上图中，当需要分配一个溢出桶时，会优先从预留的溢出桶数组里取一个出来链接到链表后面，这时不需要再次申请内存。但当预留的溢出桶被用完了，则需要申请新的溢出桶。
 
@@ -195,7 +195,7 @@ C++ 使用模板可以根据不同的类型生成 map 的代码。Golang 则通�
 
 值得注意的是，makemap() 创建的 hash 数组，数组的前面是 hash 表的空间，当 hint >= 4 时后面会追加 2^(hint-4) 个桶，之后进行内存页对齐又追加了若干个桶，所以创建 map 时一次内存分配既分配了用户预期大小的 hash 数组，又追加了一定量的预留的溢出桶，还做了内存对齐，一举多得。
 
-```javascript
+```golang
 // makemap_small implements Go map creation for make(map[k]v) and
 // make(map[k]v, hint) when hint is known to be at most bucketCnt
 // at compile time and the map needs to be allocated on the heap.
@@ -307,7 +307,7 @@ go map 的插入或修改我们需要注意两点： （1）hmap 指针传递的
 
 （1）参数合法性检测与 hash 值计算。 如果 map 为 nil 或存在并发读写都将引发 panic。如果参数合法，则计算 key 的 hash 值来确定 key 的具体位置。然后置 hashWriting 标志，key 写入 buckets 后才会清除标志。map 不能为空，但 hash 数组初始值可以是空的，mapassign() 函数如果检测到 hash 数组为空，则进行初始化。
 
-```javascript
+```golang
 // Like mapaccess, but allocates a slot for the key if it is not present in the map.
 func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 	if h == nil {
@@ -340,7 +340,7 @@ func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 
 （2）定位 key 在 hash 表中的位置。 用 key 的 hash 值的低位定位 hash 数组的下标偏移量，用 hash 值的高 8 位用于在桶内定位键值对。
 
-```javascript
+```golang
 // Like mapaccess, but allocates a slot for the key if it is not present in the map.
 func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 	...
@@ -363,7 +363,7 @@ again:
 
 如果在链表上的桶内找到了 key，则直接更新 key。如果没有找到 key 需要新增的话，那么会进入第 4 步插入新 key。
 
-```javascript
+```golang
 // Like mapaccess, but allocates a slot for the key if it is not present in the map.
 func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 	...
@@ -409,7 +409,7 @@ bucketloop:
 
 注意：当 key 或 value 的大小超过一定值时，桶只存储 key 或 value 的指针。
 
-```javascript
+```golang
 // Like mapaccess, but allocates a slot for the key if it is not present in the map.
 func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 	...
@@ -449,7 +449,7 @@ func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 
 （5）结束插入。 先判断写标识是否还在，如果不在了表示存在并发写的情况，直接抛出异常，终止程序。然后释放 hashWriting 标志位，返回value可插入位置的指针。注意：value 还没插入。
 
-```javascript
+```golang
 // Like mapaccess, but allocates a slot for the key if it is not present in the map.
 func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 	...
@@ -475,7 +475,7 @@ mapassign() 只插入 tophash 和 key，并返回 value 位置指针，编译器
 
 这种删除方式，以少量空间避免了被删除的数据再次插入时出现数据移动的情况。事实上，Go 数据一旦被插入到桶的确切位置，map 是不会再移动该数据在桶中的位置了。
 
-```javascript
+```golang
 func mapdelete(t *maptype, h *hmap, key unsafe.Pointer) {
 	...
 search:
@@ -558,7 +558,7 @@ search:
 
 查找操作由 mapaccess 开头的一组函数实现。前文在插入和删除之前都得先定位查找到元素，逻辑是类似的，也比较简单，就不细说了：
 
-```javascript
+```golang
 mapaccess1()：通过 key 查找，返回 value 指针，用于 val := map[key]。未找到时返回value类型的零值
 mapaccess2()：通过 key 查找，返回 value 指针，以及 bool 类型的是否查找成功的标志，用于 val, ok := map[key]。未找到时返回 value 类型的零值
 mapaccessK()：通过 key 查找，返回 key 和 value 指针，用于迭代器(range)。未找到时返回空指针
@@ -572,7 +572,7 @@ map 的迭代是通过 hiter 结构和对应的两个辅助函数（`mapiterinit
 
 ### 2.5.1 hiter
 
-```javascript
+```golang
 // A hash iteration structure.
 // If you modify hiter, also change cmd/compile/internal/gc/reflect.go to indicate
 // the layout of this structure.
@@ -597,7 +597,7 @@ type hiter struct {
 
 关键字段说明如下：
 
-```javascript
+```golang
 it.key：每次迭代的结果 key
 it.elem：每次迭代的结果 value
 it.t: map 的类型信息
@@ -620,7 +620,7 @@ it.checkBucket：不为 noCheck(1<<(8*sys.PtrSize) - 1)的话，表示当前桶�
 
 `mapiterinit()`函数主要是决定我们从哪个位置开始迭代，为什么是从哪个位置，而不是直接从 hash 数组头部开始呢？hash 表中数据每次插入的位置是变化的，这是因为实现的原因，一方面 hash 种子是随机的，这导致相同的数据在不同的 map 变量内的 hash 值不同；另一方面即使同一个 map 变量内，数据删除再添加的位置也有可能变化，因为在同一个桶及溢出链表中数据的位置不分先后，所以为了防止用户错误的依赖于每次迭代的顺序，map 作者干脆让相同的 map 每次迭代的顺序也是随机的。
 
-```javascript
+```golang
 // mapiterinit initializes the hiter struct used for ranging over maps.
 // The hiter struct pointed to by 'it' is allocated on the stack
 // by the compilers order pass or on the heap by reflect_mapiterinit.
@@ -681,7 +681,7 @@ map 的遍历由函数`mapiternext()`完成，过程如下： （1）从 hash �
 
 注意： （1）map 如果在遍历开始时发现处于写入状态，那么报并发读写异常，终止程序。 （2）迭代还需要关注扩容的情况：如果是在迭代开始后才 growing，那么迭代初始状态如 it.buckets 和 it.B 等将被改变，迭代有可能出现异常。如果是先 growing，再开始迭代。这种情况下，不会出现异常，会先到旧 hash 表中检查 key 对应的桶有没有被迁移，未迁移则遍历旧桶，已迁移则遍历新 hash 表里对应的桶。
 
-```javascript
+```golang
 func mapiternext(it *hiter) {
 	h := it.h
 	if raceenabled {
@@ -813,7 +813,7 @@ next:
 
 Go map 的扩容缩容都是 grow 相关的函数来完成的。只有当新增 key 时，才有可能触发扩容。因为只有新增 key 时，才有可能触达最大负载系数或者有太多的溢出桶。
 
-```javascript
+```golang
 // Like mapaccess, but allocates a slot for the key if it is not present in the map.
 func mapassign(t *maptype, h *hmap, key unsafe.Pointer) unsafe.Pointer {
 	...
@@ -853,7 +853,7 @@ go map 的扩容预处理由函数 hashGrow() 来完成，主要完成两个操�
 
 Go map 有两种扩容类型： （1）一种是真扩容，扩到 hash 桶数量为原来的两倍，针对元素数量过多的情况； （2）一种是假扩容，hash 桶数量不变，只是把元素搬迁到新的 map，针对溢出桶过多的情况。如果是假扩容，那么 hmap.flags 会被打上 sameSizeGrow 标识。
 
-```javascript
+```golang
 func hashGrow(t *maptype, h *hmap) {
 	// If we've hit the load factor, get bigger.
 	// Otherwise, there are too many overflow buckets,
@@ -902,7 +902,7 @@ func hashGrow(t *maptype, h *hmap) {
 
 在插入和删除的函数内都有下面一段代码用于在每次插入和删除操作时，执行一次搬迁工作：
 
-```javascript
+```golang
 if h.growing() {
 	growWork(t, h, bucket)
 }
