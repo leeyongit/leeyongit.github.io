@@ -347,6 +347,9 @@ fmt.Println("ids:", insertManyResult.InsertedIDs)
 ### Find
 
 ```go
+import (
+  "go.mongodb.org/mongo-driver/bson"
+)
 // Find
 findOpts := options.Find().SetSort(bson.D{{"name", 1}})
 findCursor, err := collection.Find(ctx, bson.M{"level": 0}, findOpts)
@@ -362,6 +365,9 @@ for _, result := range results {
 ### FindOne
 
 ```go
+import (
+  "go.mongodb.org/mongo-driver/bson"
+)
 // FindOne
 
 // 可以使用struct来接收解码结果
@@ -387,6 +393,9 @@ if err = singleResult.Decode(&result); err == nil {
 ### FindOneAndDelete
 
 ```go
+import (
+  "go.mongodb.org/mongo-driver/bson"
+)
 // FindOneAndDelete
 findOneAndDeleteOpts := options.FindOneAndDelete().SetProjection(bson.D{{"name", 1}, {"level", 1}})
 var deletedDoc bson.M
