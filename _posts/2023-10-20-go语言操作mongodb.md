@@ -445,7 +445,7 @@ if err != nil {
   log.Fatal(err)
 }
 fmt.Printf("document before updating: %v \n", toUpdateDoc)
-}
+
 ```
 
 ## Update
