@@ -1,6 +1,6 @@
 ---
 title: Golang map 三板斧第三式：实现原理
-categories: [技术, Golang]
+categories: [Golang]
 tags: [Golang]
 ---
 

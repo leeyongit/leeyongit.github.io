@@ -1,6 +1,6 @@
 ---
 title: 小程序和H5之间互相跳转实现方法 
-categories: [小程序]
+categories: [前端, 小程序]
 tags: [web-view]
 ---
 

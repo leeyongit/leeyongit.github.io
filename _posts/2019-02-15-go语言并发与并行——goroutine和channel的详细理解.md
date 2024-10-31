@@ -1,7 +1,7 @@
 ---
 title: go语言并发与并行——goroutine和channel的详细理解
-categories: [技术, Golang]
-tags: [golang]
+categories: [Golang]
+tags: [Golang]
 ---
 
 如果不是我对真正并行的线程的追求，就不会认识到[Go](http://lib.csdn.net/base/go "Go知识库")有多么的迷人。

@@ -1,6 +1,6 @@
 ---
 title: WebAssembly是什么
-categories: [WebAssembly]
+categories: [技术, WebAssembly]
 tags: [WebAssembly]
 ---
 

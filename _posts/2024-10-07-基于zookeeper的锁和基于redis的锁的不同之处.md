@@ -1,6 +1,6 @@
 ---
 title: 基于zookeeper的锁和基于redis的锁的不同之处
-categories: [分布式锁]
+categories: [技术, 分布式锁]
 tags: [Zookeeper,Redis]
 ---
 ## 机制和特性的不同

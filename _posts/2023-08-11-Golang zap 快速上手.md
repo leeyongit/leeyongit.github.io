@@ -1,6 +1,6 @@
 ---
 title: Golang zap 快速上手
-categories: [技术, Golang]
+categories: [Golang]
 tags: [Golang]
 ---
 
