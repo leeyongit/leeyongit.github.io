@@ -34,6 +34,11 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+## 本地运行
+```shell
+bundle exec jekyll serve --port 3000
+```
+
 ## License
 
 This work is published under [MIT][mit] License.

@@ -1,6 +1,6 @@
 ---
 title: go语言并发与并行——goroutine和channel的详细理解
-categories: [Golang]
+categories: [后端, Golang]
 tags: [Golang]
 ---
 

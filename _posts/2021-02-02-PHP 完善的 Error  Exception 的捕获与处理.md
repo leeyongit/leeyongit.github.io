@@ -1,6 +1,6 @@
 ---
 title: PHP 完善的 Error / Exception 的捕获与处理
-categories: [技术, PHP]
+categories: [后端, PHP]
 tags: [PHP]
 ---
 

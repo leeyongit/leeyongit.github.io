@@ -1,6 +1,6 @@
 ---
 title: golang字符串json格式解析
-categories: [技术, Golang]
+categories: [后端, Golang]
 tags: [golang, json]
 ---
 
